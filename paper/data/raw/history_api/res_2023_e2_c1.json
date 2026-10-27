@@ -1,0 +1,61 @@
+{
+ "fechaTotalizacion": "2023-11-09T15:25:25.144Z",
+ "estadoRecuento": {
+  "mesasEsperadas": 0,
+  "mesasTotalizadas": 104520,
+  "mesasTotalizadasPorcentaje": 0,
+  "cantidadElectores": 35410080,
+  "cantidadVotantes": 27100675,
+  "participacionPorcentaje": 76.53
+ },
+ "valoresTotalizadosPositivos": [
+  {
+   "idAgrupacion": 134,
+   "nombreAgrupacion": "UNION POR LA PATRIA",
+   "votos": 9645983,
+   "votosPorcentaje": 36.69,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": 132,
+   "nombreAgrupacion": "JUNTOS POR EL CAMBIO",
+   "votos": 6267152,
+   "votosPorcentaje": 23.84,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": 135,
+   "nombreAgrupacion": "LA LIBERTAD AVANZA",
+   "votos": 7884336,
+   "votosPorcentaje": 29.99,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": 136,
+   "nombreAgrupacion": "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD",
+   "votos": 709932,
+   "votosPorcentaje": 2.7,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": 133,
+   "nombreAgrupacion": "HACEMOS POR NUESTRO PAIS",
+   "votos": 1784315,
+   "votosPorcentaje": 6.79,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  }
+ ],
+ "valoresTotalizadosOtros": {
+  "votosNulos": 224864,
+  "votosNulosPorcentaje": 0.83,
+  "votosEnBlanco": 554161,
+  "votosEnBlancoPorcentaje": 2.04,
+  "votosRecurridosComandoImpugnados": 29932,
+  "votosRecurridosComandoImpugnadosPorcentaje": 0.11
+ }
+}

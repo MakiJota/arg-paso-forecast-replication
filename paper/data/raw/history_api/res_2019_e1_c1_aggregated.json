@@ -1,0 +1,3742 @@
+{
+ "estadoRecuento": {
+  "mesasTotalizadas": 96963,
+  "cantidadElectores": 32772893,
+  "cantidadVotantes": 24266797
+ },
+ "valoresTotalizadosOtros": {
+  "votosNulos": 295894,
+  "votosEnBlanco": 741045,
+  "votosRecurridosComandoImpugnados": 35081
+ },
+ "valoresTotalizadosPositivos": [
+  {
+   "nombreAgrupacion": "FRENTE DE TODOS",
+   "votos": 11379015,
+   "listas": []
+  },
+  {
+   "nombreAgrupacion": "JUNTOS POR EL CAMBIO",
+   "votos": 7705322,
+   "listas": []
+  },
+  {
+   "nombreAgrupacion": "CONSENSO FEDERAL",
+   "votos": 1972957,
+   "listas": []
+  },
+  {
+   "nombreAgrupacion": "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD",
+   "votos": 681455,
+   "listas": []
+  },
+  {
+   "nombreAgrupacion": "FRENTE NOS",
+   "votos": 634938,
+   "listas": []
+  },
+  {
+   "nombreAgrupacion": "UNITE POR LA LIBERTAD Y LA DIGNIDAD",
+   "votos": 525592,
+   "listas": []
+  },
+  {
+   "nombreAgrupacion": "MOVIMIENTO AL SOCIALISMO",
+   "votos": 169981,
+   "listas": []
+  },
+  {
+   "nombreAgrupacion": "FRENTE PATRIOTA",
+   "votos": 57344,
+   "listas": []
+  },
+  {
+   "nombreAgrupacion": "MOVIMIENTO DE ACCION VECINAL",
+   "votos": 36015,
+   "listas": []
+  },
+  {
+   "nombreAgrupacion": "PARTIDO AUTONOMISTA",
+   "votos": 32158,
+   "listas": []
+  }
+ ],
+ "note": "aggregated from section-level queries by 03_paso_history.py",
+ "sections": [
+  {
+   "distrito": 1,
+   "seccion": 1,
+   "mesas": 517,
+   "electores": 178223,
+   "votantes": 122034
+  },
+  {
+   "distrito": 1,
+   "seccion": 2,
+   "mesas": 415,
+   "electores": 143559,
+   "votantes": 104294
+  },
+  {
+   "distrito": 1,
+   "seccion": 3,
+   "mesas": 1,
+   "electores": 347,
+   "votantes": 256
+  },
+  {
+   "distrito": 1,
+   "seccion": 4,
+   "mesas": 524,
+   "electores": 181356,
+   "votantes": 136899
+  },
+  {
+   "distrito": 1,
+   "seccion": 5,
+   "mesas": 458,
+   "electores": 158815,
+   "votantes": 121975
+  },
+  {
+   "distrito": 1,
+   "seccion": 6,
+   "mesas": 466,
+   "electores": 161832,
+   "votantes": 127594
+  },
+  {
+   "distrito": 1,
+   "seccion": 7,
+   "mesas": 506,
+   "electores": 175460,
+   "votantes": 134121
+  },
+  {
+   "distrito": 1,
+   "seccion": 8,
+   "mesas": 407,
+   "electores": 141876,
+   "votantes": 107120
+  },
+  {
+   "distrito": 1,
+   "seccion": 9,
+   "mesas": 428,
+   "electores": 148655,
+   "votantes": 116632
+  },
+  {
+   "distrito": 1,
+   "seccion": 10,
+   "mesas": 433,
+   "electores": 149726,
+   "votantes": 118733
+  },
+  {
+   "distrito": 1,
+   "seccion": 11,
+   "mesas": 500,
+   "electores": 173376,
+   "votantes": 137736
+  },
+  {
+   "distrito": 1,
+   "seccion": 12,
+   "mesas": 552,
+   "electores": 191244,
+   "votantes": 152159
+  },
+  {
+   "distrito": 1,
+   "seccion": 13,
+   "mesas": 638,
+   "electores": 220613,
+   "votantes": 168762
+  },
+  {
+   "distrito": 1,
+   "seccion": 14,
+   "mesas": 613,
+   "electores": 212358,
+   "votantes": 156784
+  },
+  {
+   "distrito": 1,
+   "seccion": 15,
+   "mesas": 483,
+   "electores": 167061,
+   "votantes": 128547
+  },
+  {
+   "distrito": 2,
+   "seccion": 1,
+   "mesas": 45,
+   "electores": 14410,
+   "votantes": 10928
+  },
+  {
+   "distrito": 2,
+   "seccion": 2,
+   "mesas": 29,
+   "electores": 9338,
+   "votantes": 7478
+  },
+  {
+   "distrito": 2,
+   "seccion": 3,
+   "mesas": 1247,
+   "electores": 435057,
+   "votantes": 330800
+  },
+  {
+   "distrito": 2,
+   "seccion": 4,
+   "mesas": 815,
+   "electores": 283666,
+   "votantes": 217496
+  },
+  {
+   "distrito": 2,
+   "seccion": 5,
+   "mesas": 59,
+   "electores": 17623,
+   "votantes": 13286
+  },
+  {
+   "distrito": 2,
+   "seccion": 6,
+   "mesas": 171,
+   "electores": 56261,
+   "votantes": 41853
+  },
+  {
+   "distrito": 2,
+   "seccion": 7,
+   "mesas": 715,
+   "electores": 246058,
+   "votantes": 183214
+  },
+  {
+   "distrito": 2,
+   "seccion": 8,
+   "mesas": 115,
+   "electores": 39432,
+   "votantes": 29020
+  },
+  {
+   "distrito": 2,
+   "seccion": 9,
+   "mesas": 88,
+   "electores": 28897,
+   "votantes": 22149
+  },
+  {
+   "distrito": 2,
+   "seccion": 10,
+   "mesas": 74,
+   "electores": 24821,
+   "votantes": 18882
+  },
+  {
+   "distrito": 2,
+   "seccion": 11,
+   "mesas": 733,
+   "electores": 254729,
+   "votantes": 200276
+  },
+  {
+   "distrito": 2,
+   "seccion": 12,
+   "mesas": 218,
+   "electores": 75428,
+   "votantes": 57812
+  },
+  {
+   "distrito": 2,
+   "seccion": 13,
+   "mesas": 96,
+   "electores": 30644,
+   "votantes": 22551
+  },
+  {
+   "distrito": 2,
+   "seccion": 14,
+   "mesas": 110,
+   "electores": 36188,
+   "votantes": 28274
+  },
+  {
+   "distrito": 2,
+   "seccion": 15,
+   "mesas": 70,
+   "electores": 23640,
+   "votantes": 18657
+  },
+  {
+   "distrito": 2,
+   "seccion": 16,
+   "mesas": 232,
+   "electores": 80484,
+   "votantes": 62081
+  },
+  {
+   "distrito": 2,
+   "seccion": 17,
+   "mesas": 127,
+   "electores": 42983,
+   "votantes": 33227
+  },
+  {
+   "distrito": 2,
+   "seccion": 18,
+   "mesas": 37,
+   "electores": 12695,
+   "votantes": 9560
+  },
+  {
+   "distrito": 2,
+   "seccion": 19,
+   "mesas": 59,
+   "electores": 19082,
+   "votantes": 14307
+  },
+  {
+   "distrito": 2,
+   "seccion": 20,
+   "mesas": 32,
+   "electores": 9926,
+   "votantes": 7878
+  },
+  {
+   "distrito": 2,
+   "seccion": 21,
+   "mesas": 38,
+   "electores": 12846,
+   "votantes": 9869
+  },
+  {
+   "distrito": 2,
+   "seccion": 22,
+   "mesas": 77,
+   "electores": 26330,
+   "votantes": 19072
+  },
+  {
+   "distrito": 2,
+   "seccion": 23,
+   "mesas": 24,
+   "electores": 7618,
+   "votantes": 5879
+  },
+  {
+   "distrito": 2,
+   "seccion": 24,
+   "mesas": 63,
+   "electores": 21295,
+   "votantes": 16601
+  },
+  {
+   "distrito": 2,
+   "seccion": 25,
+   "mesas": 46,
+   "electores": 13594,
+   "votantes": 9444
+  },
+  {
+   "distrito": 2,
+   "seccion": 26,
+   "mesas": 63,
+   "electores": 20120,
+   "votantes": 14955
+  },
+  {
+   "distrito": 2,
+   "seccion": 27,
+   "mesas": 145,
+   "electores": 48507,
+   "votantes": 36565
+  },
+  {
+   "distrito": 2,
+   "seccion": 28,
+   "mesas": 106,
+   "electores": 34125,
+   "votantes": 26529
+  },
+  {
+   "distrito": 2,
+   "seccion": 29,
+   "mesas": 126,
+   "electores": 41538,
+   "votantes": 32241
+  },
+  {
+   "distrito": 2,
+   "seccion": 30,
+   "mesas": 101,
+   "electores": 33236,
+   "votantes": 24992
+  },
+  {
+   "distrito": 2,
+   "seccion": 31,
+   "mesas": 178,
+   "electores": 58236,
+   "votantes": 45640
+  },
+  {
+   "distrito": 2,
+   "seccion": 32,
+   "mesas": 44,
+   "electores": 14618,
+   "votantes": 10994
+  },
+  {
+   "distrito": 2,
+   "seccion": 33,
+   "mesas": 72,
+   "electores": 24300,
+   "votantes": 17654
+  },
+  {
+   "distrito": 2,
+   "seccion": 34,
+   "mesas": 155,
+   "electores": 53548,
+   "votantes": 40626
+  },
+  {
+   "distrito": 2,
+   "seccion": 35,
+   "mesas": 509,
+   "electores": 176934,
+   "votantes": 134263
+  },
+  {
+   "distrito": 2,
+   "seccion": 36,
+   "mesas": 647,
+   "electores": 224264,
+   "votantes": 170856
+  },
+  {
+   "distrito": 2,
+   "seccion": 37,
+   "mesas": 85,
+   "electores": 28377,
+   "votantes": 21092
+  },
+  {
+   "distrito": 2,
+   "seccion": 38,
+   "mesas": 891,
+   "electores": 310064,
+   "votantes": 231571
+  },
+  {
+   "distrito": 2,
+   "seccion": 39,
+   "mesas": 104,
+   "electores": 35649,
+   "votantes": 26641
+  },
+  {
+   "distrito": 2,
+   "seccion": 40,
+   "mesas": 27,
+   "electores": 8563,
+   "votantes": 6511
+  },
+  {
+   "distrito": 2,
+   "seccion": 41,
+   "mesas": 47,
+   "electores": 14896,
+   "votantes": 11382
+  },
+  {
+   "distrito": 2,
+   "seccion": 42,
+   "mesas": 49,
+   "electores": 15941,
+   "votantes": 12208
+  },
+  {
+   "distrito": 2,
+   "seccion": 43,
+   "mesas": 9,
+   "electores": 2493,
+   "votantes": 2045
+  },
+  {
+   "distrito": 2,
+   "seccion": 44,
+   "mesas": 31,
+   "electores": 9542,
+   "votantes": 7260
+  },
+  {
+   "distrito": 2,
+   "seccion": 45,
+   "mesas": 39,
+   "electores": 12819,
+   "votantes": 9918
+  },
+  {
+   "distrito": 2,
+   "seccion": 46,
+   "mesas": 13,
+   "electores": 4220,
+   "votantes": 2815
+  },
+  {
+   "distrito": 2,
+   "seccion": 47,
+   "mesas": 54,
+   "electores": 17934,
+   "votantes": 13293
+  },
+  {
+   "distrito": 2,
+   "seccion": 48,
+   "mesas": 36,
+   "electores": 10828,
+   "votantes": 8565
+  },
+  {
+   "distrito": 2,
+   "seccion": 49,
+   "mesas": 31,
+   "electores": 9870,
+   "votantes": 7603
+  },
+  {
+   "distrito": 2,
+   "seccion": 50,
+   "mesas": 1587,
+   "electores": 552786,
+   "votantes": 382965
+  },
+  {
+   "distrito": 2,
+   "seccion": 51,
+   "mesas": 220,
+   "electores": 77042,
+   "votantes": 57677
+  },
+  {
+   "distrito": 2,
+   "seccion": 52,
+   "mesas": 950,
+   "electores": 330648,
+   "votantes": 245241
+  },
+  {
+   "distrito": 2,
+   "seccion": 53,
+   "mesas": 663,
+   "electores": 230201,
+   "votantes": 173810
+  },
+  {
+   "distrito": 2,
+   "seccion": 54,
+   "mesas": 48,
+   "electores": 15698,
+   "votantes": 12148
+  },
+  {
+   "distrito": 2,
+   "seccion": 55,
+   "mesas": 78,
+   "electores": 25049,
+   "votantes": 18286
+  },
+  {
+   "distrito": 2,
+   "seccion": 56,
+   "mesas": 31,
+   "electores": 10550,
+   "votantes": 7904
+  },
+  {
+   "distrito": 2,
+   "seccion": 57,
+   "mesas": 31,
+   "electores": 9945,
+   "votantes": 7497
+  },
+  {
+   "distrito": 2,
+   "seccion": 58,
+   "mesas": 25,
+   "electores": 8097,
+   "votantes": 6017
+  },
+  {
+   "distrito": 2,
+   "seccion": 59,
+   "mesas": 55,
+   "electores": 17494,
+   "votantes": 13216
+  },
+  {
+   "distrito": 2,
+   "seccion": 60,
+   "mesas": 233,
+   "electores": 78870,
+   "votantes": 56590
+  },
+  {
+   "distrito": 2,
+   "seccion": 61,
+   "mesas": 2888,
+   "electores": 1005748,
+   "votantes": 769162
+  },
+  {
+   "distrito": 2,
+   "seccion": 62,
+   "mesas": 1068,
+   "electores": 372872,
+   "votantes": 284392
+  },
+  {
+   "distrito": 2,
+   "seccion": 63,
+   "mesas": 1556,
+   "electores": 533207,
+   "votantes": 395855
+  },
+  {
+   "distrito": 2,
+   "seccion": 64,
+   "mesas": 31,
+   "electores": 9551,
+   "votantes": 7348
+  },
+  {
+   "distrito": 2,
+   "seccion": 65,
+   "mesas": 67,
+   "electores": 21575,
+   "votantes": 16555
+  },
+  {
+   "distrito": 2,
+   "seccion": 66,
+   "mesas": 44,
+   "electores": 14741,
+   "votantes": 11134
+  },
+  {
+   "distrito": 2,
+   "seccion": 67,
+   "mesas": 116,
+   "electores": 36962,
+   "votantes": 28434
+  },
+  {
+   "distrito": 2,
+   "seccion": 68,
+   "mesas": 47,
+   "electores": 14421,
+   "votantes": 11113
+  },
+  {
+   "distrito": 2,
+   "seccion": 69,
+   "mesas": 96,
+   "electores": 31576,
+   "votantes": 24458
+  },
+  {
+   "distrito": 2,
+   "seccion": 70,
+   "mesas": 1413,
+   "electores": 491229,
+   "votantes": 370123
+  },
+  {
+   "distrito": 2,
+   "seccion": 71,
+   "mesas": 261,
+   "electores": 89732,
+   "votantes": 67136
+  },
+  {
+   "distrito": 2,
+   "seccion": 72,
+   "mesas": 46,
+   "electores": 14531,
+   "votantes": 11094
+  },
+  {
+   "distrito": 2,
+   "seccion": 73,
+   "mesas": 32,
+   "electores": 10063,
+   "votantes": 7817
+  },
+  {
+   "distrito": 2,
+   "seccion": 74,
+   "mesas": 76,
+   "electores": 25160,
+   "votantes": 18009
+  },
+  {
+   "distrito": 2,
+   "seccion": 75,
+   "mesas": 125,
+   "electores": 43688,
+   "votantes": 31883
+  },
+  {
+   "distrito": 2,
+   "seccion": 76,
+   "mesas": 162,
+   "electores": 54779,
+   "votantes": 42070
+  },
+  {
+   "distrito": 2,
+   "seccion": 77,
+   "mesas": 153,
+   "electores": 53491,
+   "votantes": 39049
+  },
+  {
+   "distrito": 2,
+   "seccion": 78,
+   "mesas": 56,
+   "electores": 18548,
+   "votantes": 14185
+  },
+  {
+   "distrito": 2,
+   "seccion": 79,
+   "mesas": 966,
+   "electores": 336295,
+   "votantes": 243752
+  },
+  {
+   "distrito": 2,
+   "seccion": 80,
+   "mesas": 777,
+   "electores": 270595,
+   "votantes": 208906
+  },
+  {
+   "distrito": 2,
+   "seccion": 81,
+   "mesas": 1,
+   "electores": 350,
+   "votantes": 290
+  },
+  {
+   "distrito": 2,
+   "seccion": 82,
+   "mesas": 239,
+   "electores": 82485,
+   "votantes": 59261
+  },
+  {
+   "distrito": 2,
+   "seccion": 83,
+   "mesas": 128,
+   "electores": 41429,
+   "votantes": 31351
+  },
+  {
+   "distrito": 2,
+   "seccion": 84,
+   "mesas": 285,
+   "electores": 94933,
+   "votantes": 68296
+  },
+  {
+   "distrito": 2,
+   "seccion": 85,
+   "mesas": 103,
+   "electores": 34678,
+   "votantes": 25404
+  },
+  {
+   "distrito": 2,
+   "seccion": 86,
+   "mesas": 15,
+   "electores": 5098,
+   "votantes": 3567
+  },
+  {
+   "distrito": 2,
+   "seccion": 87,
+   "mesas": 269,
+   "electores": 89830,
+   "votantes": 66573
+  },
+  {
+   "distrito": 2,
+   "seccion": 88,
+   "mesas": 11,
+   "electores": 3237,
+   "votantes": 2661
+  },
+  {
+   "distrito": 2,
+   "seccion": 89,
+   "mesas": 519,
+   "electores": 178855,
+   "votantes": 135925
+  },
+  {
+   "distrito": 2,
+   "seccion": 90,
+   "mesas": 74,
+   "electores": 25222,
+   "votantes": 17352
+  },
+  {
+   "distrito": 2,
+   "seccion": 91,
+   "mesas": 46,
+   "electores": 14373,
+   "votantes": 10659
+  },
+  {
+   "distrito": 2,
+   "seccion": 92,
+   "mesas": 1313,
+   "electores": 457179,
+   "votantes": 335645
+  },
+  {
+   "distrito": 2,
+   "seccion": 93,
+   "mesas": 85,
+   "electores": 28300,
+   "votantes": 22422
+  },
+  {
+   "distrito": 2,
+   "seccion": 94,
+   "mesas": 45,
+   "electores": 13668,
+   "votantes": 10272
+  },
+  {
+   "distrito": 2,
+   "seccion": 95,
+   "mesas": 45,
+   "electores": 14121,
+   "votantes": 11074
+  },
+  {
+   "distrito": 2,
+   "seccion": 96,
+   "mesas": 64,
+   "electores": 20497,
+   "votantes": 16195
+  },
+  {
+   "distrito": 2,
+   "seccion": 97,
+   "mesas": 34,
+   "electores": 10874,
+   "votantes": 8197
+  },
+  {
+   "distrito": 2,
+   "seccion": 98,
+   "mesas": 56,
+   "electores": 18154,
+   "votantes": 12902
+  },
+  {
+   "distrito": 2,
+   "seccion": 99,
+   "mesas": 85,
+   "electores": 27886,
+   "votantes": 20239
+  },
+  {
+   "distrito": 2,
+   "seccion": 100,
+   "mesas": 23,
+   "electores": 7701,
+   "votantes": 5892
+  },
+  {
+   "distrito": 2,
+   "seccion": 101,
+   "mesas": 86,
+   "electores": 28705,
+   "votantes": 22532
+  },
+  {
+   "distrito": 2,
+   "seccion": 102,
+   "mesas": 60,
+   "electores": 19528,
+   "votantes": 15464
+  },
+  {
+   "distrito": 2,
+   "seccion": 103,
+   "mesas": 60,
+   "electores": 19847,
+   "votantes": 15640
+  },
+  {
+   "distrito": 2,
+   "seccion": 104,
+   "mesas": 25,
+   "electores": 7245,
+   "votantes": 5494
+  },
+  {
+   "distrito": 2,
+   "seccion": 105,
+   "mesas": 379,
+   "electores": 129382,
+   "votantes": 98245
+  },
+  {
+   "distrito": 2,
+   "seccion": 106,
+   "mesas": 786,
+   "electores": 273815,
+   "votantes": 205913
+  },
+  {
+   "distrito": 2,
+   "seccion": 107,
+   "mesas": 357,
+   "electores": 122244,
+   "votantes": 92896
+  },
+  {
+   "distrito": 2,
+   "seccion": 108,
+   "mesas": 147,
+   "electores": 49329,
+   "votantes": 37955
+  },
+  {
+   "distrito": 2,
+   "seccion": 109,
+   "mesas": 161,
+   "electores": 55698,
+   "votantes": 39377
+  },
+  {
+   "distrito": 2,
+   "seccion": 110,
+   "mesas": 28,
+   "electores": 9273,
+   "votantes": 7242
+  },
+  {
+   "distrito": 2,
+   "seccion": 111,
+   "mesas": 317,
+   "electores": 107240,
+   "votantes": 81026
+  },
+  {
+   "distrito": 2,
+   "seccion": 112,
+   "mesas": 28,
+   "electores": 8525,
+   "votantes": 6633
+  },
+  {
+   "distrito": 2,
+   "seccion": 113,
+   "mesas": 875,
+   "electores": 304991,
+   "votantes": 232770
+  },
+  {
+   "distrito": 2,
+   "seccion": 114,
+   "mesas": 41,
+   "electores": 13235,
+   "votantes": 9605
+  },
+  {
+   "distrito": 2,
+   "seccion": 115,
+   "mesas": 119,
+   "electores": 39283,
+   "votantes": 28611
+  },
+  {
+   "distrito": 2,
+   "seccion": 116,
+   "mesas": 6,
+   "electores": 2085,
+   "votantes": 1755
+  },
+  {
+   "distrito": 2,
+   "seccion": 117,
+   "mesas": 157,
+   "electores": 51787,
+   "votantes": 37553
+  },
+  {
+   "distrito": 2,
+   "seccion": 118,
+   "mesas": 797,
+   "electores": 277545,
+   "votantes": 209437
+  },
+  {
+   "distrito": 2,
+   "seccion": 119,
+   "mesas": 198,
+   "electores": 68817,
+   "votantes": 48656
+  },
+  {
+   "distrito": 2,
+   "seccion": 120,
+   "mesas": 23,
+   "electores": 7788,
+   "votantes": 5318
+  },
+  {
+   "distrito": 2,
+   "seccion": 121,
+   "mesas": 95,
+   "electores": 31216,
+   "votantes": 23056
+  },
+  {
+   "distrito": 2,
+   "seccion": 122,
+   "mesas": 656,
+   "electores": 227564,
+   "votantes": 173799
+  },
+  {
+   "distrito": 2,
+   "seccion": 123,
+   "mesas": 82,
+   "electores": 28486,
+   "votantes": 19941
+  },
+  {
+   "distrito": 2,
+   "seccion": 124,
+   "mesas": 70,
+   "electores": 23625,
+   "votantes": 17295
+  },
+  {
+   "distrito": 2,
+   "seccion": 125,
+   "mesas": 278,
+   "electores": 95309,
+   "votantes": 74275
+  },
+  {
+   "distrito": 2,
+   "seccion": 126,
+   "mesas": 20,
+   "electores": 6583,
+   "votantes": 5089
+  },
+  {
+   "distrito": 2,
+   "seccion": 127,
+   "mesas": 24,
+   "electores": 7981,
+   "votantes": 6274
+  },
+  {
+   "distrito": 2,
+   "seccion": 128,
+   "mesas": 180,
+   "electores": 62320,
+   "votantes": 47562
+  },
+  {
+   "distrito": 2,
+   "seccion": 129,
+   "mesas": 621,
+   "electores": 216949,
+   "votantes": 161830
+  },
+  {
+   "distrito": 2,
+   "seccion": 130,
+   "mesas": 750,
+   "electores": 261490,
+   "votantes": 204065
+  },
+  {
+   "distrito": 2,
+   "seccion": 131,
+   "mesas": 30,
+   "electores": 9261,
+   "votantes": 7206
+  },
+  {
+   "distrito": 2,
+   "seccion": 132,
+   "mesas": 369,
+   "electores": 128172,
+   "votantes": 94673
+  },
+  {
+   "distrito": 2,
+   "seccion": 133,
+   "mesas": 401,
+   "electores": 140051,
+   "votantes": 108739
+  },
+  {
+   "distrito": 2,
+   "seccion": 134,
+   "mesas": 422,
+   "electores": 147017,
+   "votantes": 114758
+  },
+  {
+   "distrito": 2,
+   "seccion": 135,
+   "mesas": 14,
+   "electores": 4813,
+   "votantes": 3943
+  },
+  {
+   "distrito": 3,
+   "seccion": 1,
+   "mesas": 1,
+   "electores": 340,
+   "votantes": 233
+  },
+  {
+   "distrito": 3,
+   "seccion": 2,
+   "mesas": 47,
+   "electores": 14192,
+   "votantes": 8919
+  },
+  {
+   "distrito": 3,
+   "seccion": 3,
+   "mesas": 64,
+   "electores": 20042,
+   "votantes": 13119
+  },
+  {
+   "distrito": 3,
+   "seccion": 4,
+   "mesas": 13,
+   "electores": 2747,
+   "votantes": 1964
+  },
+  {
+   "distrito": 3,
+   "seccion": 5,
+   "mesas": 15,
+   "electores": 3869,
+   "votantes": 2879
+  },
+  {
+   "distrito": 3,
+   "seccion": 6,
+   "mesas": 34,
+   "electores": 10244,
+   "votantes": 7481
+  },
+  {
+   "distrito": 3,
+   "seccion": 7,
+   "mesas": 14,
+   "electores": 3857,
+   "votantes": 2739
+  },
+  {
+   "distrito": 3,
+   "seccion": 8,
+   "mesas": 77,
+   "electores": 25155,
+   "votantes": 16700
+  },
+  {
+   "distrito": 3,
+   "seccion": 9,
+   "mesas": 35,
+   "electores": 11133,
+   "votantes": 8213
+  },
+  {
+   "distrito": 3,
+   "seccion": 10,
+   "mesas": 19,
+   "electores": 4932,
+   "votantes": 3996
+  },
+  {
+   "distrito": 3,
+   "seccion": 11,
+   "mesas": 31,
+   "electores": 8938,
+   "votantes": 6768
+  },
+  {
+   "distrito": 3,
+   "seccion": 12,
+   "mesas": 50,
+   "electores": 15379,
+   "votantes": 9814
+  },
+  {
+   "distrito": 3,
+   "seccion": 13,
+   "mesas": 73,
+   "electores": 21715,
+   "votantes": 15613
+  },
+  {
+   "distrito": 3,
+   "seccion": 15,
+   "mesas": 62,
+   "electores": 18516,
+   "votantes": 11865
+  },
+  {
+   "distrito": 4,
+   "seccion": 1,
+   "mesas": 3254,
+   "electores": 1117481,
+   "votantes": 805107
+  },
+  {
+   "distrito": 4,
+   "seccion": 2,
+   "mesas": 169,
+   "electores": 54506,
+   "votantes": 39152
+  },
+  {
+   "distrito": 4,
+   "seccion": 3,
+   "mesas": 675,
+   "electores": 231197,
+   "votantes": 167852
+  },
+  {
+   "distrito": 4,
+   "seccion": 4,
+   "mesas": 160,
+   "electores": 50209,
+   "votantes": 32623
+  },
+  {
+   "distrito": 4,
+   "seccion": 5,
+   "mesas": 90,
+   "electores": 28800,
+   "votantes": 19820
+  },
+  {
+   "distrito": 4,
+   "seccion": 6,
+   "mesas": 341,
+   "electores": 116090,
+   "votantes": 83488
+  },
+  {
+   "distrito": 4,
+   "seccion": 7,
+   "mesas": 90,
+   "electores": 28434,
+   "votantes": 19807
+  },
+  {
+   "distrito": 4,
+   "seccion": 8,
+   "mesas": 163,
+   "electores": 53540,
+   "votantes": 38941
+  },
+  {
+   "distrito": 4,
+   "seccion": 9,
+   "mesas": 263,
+   "electores": 88792,
+   "votantes": 65251
+  },
+  {
+   "distrito": 4,
+   "seccion": 10,
+   "mesas": 23,
+   "electores": 5077,
+   "votantes": 3137
+  },
+  {
+   "distrito": 4,
+   "seccion": 11,
+   "mesas": 17,
+   "electores": 4815,
+   "votantes": 2728
+  },
+  {
+   "distrito": 4,
+   "seccion": 12,
+   "mesas": 507,
+   "electores": 173024,
+   "votantes": 121360
+  },
+  {
+   "distrito": 4,
+   "seccion": 13,
+   "mesas": 637,
+   "electores": 215674,
+   "votantes": 156612
+  },
+  {
+   "distrito": 4,
+   "seccion": 14,
+   "mesas": 133,
+   "electores": 41538,
+   "votantes": 30097
+  },
+  {
+   "distrito": 4,
+   "seccion": 15,
+   "mesas": 46,
+   "electores": 13096,
+   "votantes": 8276
+  },
+  {
+   "distrito": 4,
+   "seccion": 16,
+   "mesas": 274,
+   "electores": 91744,
+   "votantes": 68510
+  },
+  {
+   "distrito": 4,
+   "seccion": 17,
+   "mesas": 93,
+   "electores": 30965,
+   "votantes": 22103
+  },
+  {
+   "distrito": 4,
+   "seccion": 18,
+   "mesas": 114,
+   "electores": 35307,
+   "votantes": 23948
+  },
+  {
+   "distrito": 4,
+   "seccion": 19,
+   "mesas": 149,
+   "electores": 49784,
+   "votantes": 34599
+  },
+  {
+   "distrito": 4,
+   "seccion": 20,
+   "mesas": 547,
+   "electores": 183438,
+   "votantes": 133540
+  },
+  {
+   "distrito": 4,
+   "seccion": 21,
+   "mesas": 297,
+   "electores": 98363,
+   "votantes": 72242
+  },
+  {
+   "distrito": 4,
+   "seccion": 22,
+   "mesas": 14,
+   "electores": 4248,
+   "votantes": 2664
+  },
+  {
+   "distrito": 4,
+   "seccion": 23,
+   "mesas": 290,
+   "electores": 99496,
+   "votantes": 73417
+  },
+  {
+   "distrito": 4,
+   "seccion": 24,
+   "mesas": 57,
+   "electores": 17313,
+   "votantes": 12391
+  },
+  {
+   "distrito": 4,
+   "seccion": 25,
+   "mesas": 44,
+   "electores": 12297,
+   "votantes": 7663
+  },
+  {
+   "distrito": 4,
+   "seccion": 26,
+   "mesas": 286,
+   "electores": 94677,
+   "votantes": 66422
+  },
+  {
+   "distrito": 5,
+   "seccion": 1,
+   "mesas": 870,
+   "electores": 301200,
+   "votantes": 221534
+  },
+  {
+   "distrito": 5,
+   "seccion": 2,
+   "mesas": 225,
+   "electores": 76789,
+   "votantes": 53651
+  },
+  {
+   "distrito": 5,
+   "seccion": 3,
+   "mesas": 113,
+   "electores": 38396,
+   "votantes": 27189
+  },
+  {
+   "distrito": 5,
+   "seccion": 4,
+   "mesas": 109,
+   "electores": 36687,
+   "votantes": 26249
+  },
+  {
+   "distrito": 5,
+   "seccion": 5,
+   "mesas": 89,
+   "electores": 30155,
+   "votantes": 19295
+  },
+  {
+   "distrito": 5,
+   "seccion": 6,
+   "mesas": 77,
+   "electores": 26112,
+   "votantes": 19723
+  },
+  {
+   "distrito": 5,
+   "seccion": 7,
+   "mesas": 153,
+   "electores": 51679,
+   "votantes": 37396
+  },
+  {
+   "distrito": 5,
+   "seccion": 8,
+   "mesas": 129,
+   "electores": 44447,
+   "votantes": 31896
+  },
+  {
+   "distrito": 5,
+   "seccion": 9,
+   "mesas": 93,
+   "electores": 31075,
+   "votantes": 22261
+  },
+  {
+   "distrito": 5,
+   "seccion": 10,
+   "mesas": 52,
+   "electores": 16904,
+   "votantes": 13175
+  },
+  {
+   "distrito": 5,
+   "seccion": 11,
+   "mesas": 94,
+   "electores": 31878,
+   "votantes": 23466
+  },
+  {
+   "distrito": 5,
+   "seccion": 12,
+   "mesas": 42,
+   "electores": 13710,
+   "votantes": 9876
+  },
+  {
+   "distrito": 5,
+   "seccion": 13,
+   "mesas": 51,
+   "electores": 17032,
+   "votantes": 12372
+  },
+  {
+   "distrito": 5,
+   "seccion": 14,
+   "mesas": 43,
+   "electores": 14049,
+   "votantes": 9576
+  },
+  {
+   "distrito": 5,
+   "seccion": 15,
+   "mesas": 57,
+   "electores": 19222,
+   "votantes": 13878
+  },
+  {
+   "distrito": 5,
+   "seccion": 16,
+   "mesas": 36,
+   "electores": 11579,
+   "votantes": 7717
+  },
+  {
+   "distrito": 5,
+   "seccion": 17,
+   "mesas": 54,
+   "electores": 17564,
+   "votantes": 12660
+  },
+  {
+   "distrito": 5,
+   "seccion": 18,
+   "mesas": 28,
+   "electores": 8960,
+   "votantes": 6607
+  },
+  {
+   "distrito": 5,
+   "seccion": 19,
+   "mesas": 94,
+   "electores": 31257,
+   "votantes": 21889
+  },
+  {
+   "distrito": 5,
+   "seccion": 20,
+   "mesas": 26,
+   "electores": 7922,
+   "votantes": 5589
+  },
+  {
+   "distrito": 5,
+   "seccion": 21,
+   "mesas": 55,
+   "electores": 17293,
+   "votantes": 12355
+  },
+  {
+   "distrito": 5,
+   "seccion": 22,
+   "mesas": 23,
+   "electores": 7051,
+   "votantes": 4714
+  },
+  {
+   "distrito": 5,
+   "seccion": 23,
+   "mesas": 30,
+   "electores": 9458,
+   "votantes": 7083
+  },
+  {
+   "distrito": 5,
+   "seccion": 24,
+   "mesas": 29,
+   "electores": 9251,
+   "votantes": 6018
+  },
+  {
+   "distrito": 5,
+   "seccion": 25,
+   "mesas": 8,
+   "electores": 2461,
+   "votantes": 1779
+  },
+  {
+   "distrito": 6,
+   "seccion": 1,
+   "mesas": 992,
+   "electores": 341160,
+   "votantes": 249683
+  },
+  {
+   "distrito": 6,
+   "seccion": 2,
+   "mesas": 33,
+   "electores": 10651,
+   "votantes": 7868
+  },
+  {
+   "distrito": 6,
+   "seccion": 3,
+   "mesas": 35,
+   "electores": 11234,
+   "votantes": 8795
+  },
+  {
+   "distrito": 6,
+   "seccion": 4,
+   "mesas": 18,
+   "electores": 6167,
+   "votantes": 4253
+  },
+  {
+   "distrito": 6,
+   "seccion": 5,
+   "mesas": 12,
+   "electores": 4064,
+   "votantes": 2788
+  },
+  {
+   "distrito": 6,
+   "seccion": 7,
+   "mesas": 59,
+   "electores": 19376,
+   "votantes": 14248
+  },
+  {
+   "distrito": 6,
+   "seccion": 8,
+   "mesas": 113,
+   "electores": 38323,
+   "votantes": 28073
+  },
+  {
+   "distrito": 6,
+   "seccion": 9,
+   "mesas": 12,
+   "electores": 2926,
+   "votantes": 2067
+  },
+  {
+   "distrito": 6,
+   "seccion": 10,
+   "mesas": 39,
+   "electores": 13173,
+   "votantes": 8636
+  },
+  {
+   "distrito": 6,
+   "seccion": 11,
+   "mesas": 98,
+   "electores": 33378,
+   "votantes": 23029
+  },
+  {
+   "distrito": 6,
+   "seccion": 12,
+   "mesas": 51,
+   "electores": 17061,
+   "votantes": 11990
+  },
+  {
+   "distrito": 6,
+   "seccion": 13,
+   "mesas": 245,
+   "electores": 83214,
+   "votantes": 57339
+  },
+  {
+   "distrito": 6,
+   "seccion": 14,
+   "mesas": 16,
+   "electores": 5576,
+   "votantes": 3750
+  },
+  {
+   "distrito": 6,
+   "seccion": 15,
+   "mesas": 75,
+   "electores": 25134,
+   "votantes": 17149
+  },
+  {
+   "distrito": 6,
+   "seccion": 16,
+   "mesas": 45,
+   "electores": 15238,
+   "votantes": 10280
+  },
+  {
+   "distrito": 6,
+   "seccion": 17,
+   "mesas": 29,
+   "electores": 9657,
+   "votantes": 6920
+  },
+  {
+   "distrito": 6,
+   "seccion": 18,
+   "mesas": 1,
+   "electores": 3,
+   "votantes": 1
+  },
+  {
+   "distrito": 6,
+   "seccion": 19,
+   "mesas": 72,
+   "electores": 24528,
+   "votantes": 16409
+  },
+  {
+   "distrito": 6,
+   "seccion": 20,
+   "mesas": 77,
+   "electores": 26843,
+   "votantes": 18860
+  },
+  {
+   "distrito": 6,
+   "seccion": 21,
+   "mesas": 44,
+   "electores": 14676,
+   "votantes": 9658
+  },
+  {
+   "distrito": 6,
+   "seccion": 22,
+   "mesas": 19,
+   "electores": 6355,
+   "votantes": 4627
+  },
+  {
+   "distrito": 6,
+   "seccion": 23,
+   "mesas": 22,
+   "electores": 7469,
+   "votantes": 5012
+  },
+  {
+   "distrito": 6,
+   "seccion": 24,
+   "mesas": 25,
+   "electores": 8322,
+   "votantes": 6079
+  },
+  {
+   "distrito": 6,
+   "seccion": 25,
+   "mesas": 203,
+   "electores": 68942,
+   "votantes": 44555
+  },
+  {
+   "distrito": 7,
+   "seccion": 1,
+   "mesas": 341,
+   "electores": 113991,
+   "votantes": 84477
+  },
+  {
+   "distrito": 7,
+   "seccion": 2,
+   "mesas": 206,
+   "electores": 71041,
+   "votantes": 52199
+  },
+  {
+   "distrito": 7,
+   "seccion": 3,
+   "mesas": 2,
+   "electores": 621,
+   "votantes": 320
+  },
+  {
+   "distrito": 7,
+   "seccion": 4,
+   "mesas": 4,
+   "electores": 854,
+   "votantes": 425
+  },
+  {
+   "distrito": 7,
+   "seccion": 5,
+   "mesas": 65,
+   "electores": 21119,
+   "votantes": 14920
+  },
+  {
+   "distrito": 7,
+   "seccion": 6,
+   "mesas": 120,
+   "electores": 39234,
+   "votantes": 28092
+  },
+  {
+   "distrito": 7,
+   "seccion": 7,
+   "mesas": 6,
+   "electores": 1663,
+   "votantes": 1037
+  },
+  {
+   "distrito": 7,
+   "seccion": 8,
+   "mesas": 17,
+   "electores": 5028,
+   "votantes": 3364
+  },
+  {
+   "distrito": 7,
+   "seccion": 9,
+   "mesas": 6,
+   "electores": 1601,
+   "votantes": 926
+  },
+  {
+   "distrito": 7,
+   "seccion": 10,
+   "mesas": 3,
+   "electores": 618,
+   "votantes": 328
+  },
+  {
+   "distrito": 7,
+   "seccion": 11,
+   "mesas": 5,
+   "electores": 1447,
+   "votantes": 1122
+  },
+  {
+   "distrito": 7,
+   "seccion": 12,
+   "mesas": 31,
+   "electores": 9856,
+   "votantes": 7259
+  },
+  {
+   "distrito": 7,
+   "seccion": 13,
+   "mesas": 17,
+   "electores": 5053,
+   "votantes": 2830
+  },
+  {
+   "distrito": 7,
+   "seccion": 14,
+   "mesas": 33,
+   "electores": 10067,
+   "votantes": 6835
+  },
+  {
+   "distrito": 7,
+   "seccion": 15,
+   "mesas": 460,
+   "electores": 157100,
+   "votantes": 111669
+  },
+  {
+   "distrito": 8,
+   "seccion": 1,
+   "mesas": 909,
+   "electores": 309053,
+   "votantes": 235086
+  },
+  {
+   "distrito": 8,
+   "seccion": 3,
+   "mesas": 177,
+   "electores": 59198,
+   "votantes": 42642
+  },
+  {
+   "distrito": 8,
+   "seccion": 4,
+   "mesas": 130,
+   "electores": 41925,
+   "votantes": 30463
+  },
+  {
+   "distrito": 8,
+   "seccion": 5,
+   "mesas": 98,
+   "electores": 31908,
+   "votantes": 23196
+  },
+  {
+   "distrito": 8,
+   "seccion": 6,
+   "mesas": 106,
+   "electores": 33824,
+   "votantes": 24601
+  },
+  {
+   "distrito": 8,
+   "seccion": 7,
+   "mesas": 138,
+   "electores": 46471,
+   "votantes": 32831
+  },
+  {
+   "distrito": 8,
+   "seccion": 8,
+   "mesas": 78,
+   "electores": 24126,
+   "votantes": 17875
+  },
+  {
+   "distrito": 8,
+   "seccion": 9,
+   "mesas": 263,
+   "electores": 87472,
+   "votantes": 67224
+  },
+  {
+   "distrito": 8,
+   "seccion": 10,
+   "mesas": 294,
+   "electores": 98667,
+   "votantes": 77389
+  },
+  {
+   "distrito": 8,
+   "seccion": 11,
+   "mesas": 38,
+   "electores": 11701,
+   "votantes": 8133
+  },
+  {
+   "distrito": 8,
+   "seccion": 12,
+   "mesas": 128,
+   "electores": 42103,
+   "votantes": 29541
+  },
+  {
+   "distrito": 8,
+   "seccion": 13,
+   "mesas": 415,
+   "electores": 142206,
+   "votantes": 106762
+  },
+  {
+   "distrito": 8,
+   "seccion": 14,
+   "mesas": 76,
+   "electores": 23700,
+   "votantes": 18150
+  },
+  {
+   "distrito": 8,
+   "seccion": 15,
+   "mesas": 172,
+   "electores": 56907,
+   "votantes": 43236
+  },
+  {
+   "distrito": 8,
+   "seccion": 16,
+   "mesas": 40,
+   "electores": 13134,
+   "votantes": 9568
+  },
+  {
+   "distrito": 8,
+   "seccion": 17,
+   "mesas": 182,
+   "electores": 61019,
+   "votantes": 46410
+  },
+  {
+   "distrito": 8,
+   "seccion": 18,
+   "mesas": 50,
+   "electores": 16335,
+   "votantes": 12705
+  },
+  {
+   "distrito": 9,
+   "seccion": 1,
+   "mesas": 576,
+   "electores": 196599,
+   "votantes": 144819
+  },
+  {
+   "distrito": 9,
+   "seccion": 2,
+   "mesas": 54,
+   "electores": 16668,
+   "votantes": 12656
+  },
+  {
+   "distrito": 9,
+   "seccion": 3,
+   "mesas": 219,
+   "electores": 73105,
+   "votantes": 52553
+  },
+  {
+   "distrito": 9,
+   "seccion": 4,
+   "mesas": 170,
+   "electores": 54620,
+   "votantes": 37673
+  },
+  {
+   "distrito": 9,
+   "seccion": 5,
+   "mesas": 53,
+   "electores": 16386,
+   "votantes": 11930
+  },
+  {
+   "distrito": 9,
+   "seccion": 6,
+   "mesas": 202,
+   "electores": 59774,
+   "votantes": 39215
+  },
+  {
+   "distrito": 9,
+   "seccion": 7,
+   "mesas": 41,
+   "electores": 11696,
+   "votantes": 7758
+  },
+  {
+   "distrito": 9,
+   "seccion": 8,
+   "mesas": 38,
+   "electores": 12548,
+   "votantes": 8303
+  },
+  {
+   "distrito": 9,
+   "seccion": 9,
+   "mesas": 35,
+   "electores": 10829,
+   "votantes": 7682
+  },
+  {
+   "distrito": 10,
+   "seccion": 1,
+   "mesas": 692,
+   "electores": 217915,
+   "votantes": 140977
+  },
+  {
+   "distrito": 10,
+   "seccion": 2,
+   "mesas": 143,
+   "electores": 44897,
+   "votantes": 29738
+  },
+  {
+   "distrito": 10,
+   "seccion": 3,
+   "mesas": 14,
+   "electores": 3995,
+   "votantes": 2849
+  },
+  {
+   "distrito": 10,
+   "seccion": 4,
+   "mesas": 235,
+   "electores": 73848,
+   "votantes": 47951
+  },
+  {
+   "distrito": 10,
+   "seccion": 5,
+   "mesas": 203,
+   "electores": 63114,
+   "votantes": 41055
+  },
+  {
+   "distrito": 10,
+   "seccion": 6,
+   "mesas": 49,
+   "electores": 14833,
+   "votantes": 7556
+  },
+  {
+   "distrito": 10,
+   "seccion": 7,
+   "mesas": 211,
+   "electores": 65580,
+   "votantes": 41647
+  },
+  {
+   "distrito": 10,
+   "seccion": 8,
+   "mesas": 11,
+   "electores": 2226,
+   "votantes": 468
+  },
+  {
+   "distrito": 10,
+   "seccion": 9,
+   "mesas": 18,
+   "electores": 4580,
+   "votantes": 2959
+  },
+  {
+   "distrito": 10,
+   "seccion": 10,
+   "mesas": 38,
+   "electores": 10601,
+   "votantes": 6210
+  },
+  {
+   "distrito": 10,
+   "seccion": 11,
+   "mesas": 54,
+   "electores": 14415,
+   "votantes": 8574
+  },
+  {
+   "distrito": 10,
+   "seccion": 12,
+   "mesas": 40,
+   "electores": 10514,
+   "votantes": 6298
+  },
+  {
+   "distrito": 10,
+   "seccion": 13,
+   "mesas": 7,
+   "electores": 1334,
+   "votantes": 749
+  },
+  {
+   "distrito": 10,
+   "seccion": 14,
+   "mesas": 15,
+   "electores": 2414,
+   "votantes": 1015
+  },
+  {
+   "distrito": 10,
+   "seccion": 15,
+   "mesas": 57,
+   "electores": 17215,
+   "votantes": 9802
+  },
+  {
+   "distrito": 10,
+   "seccion": 16,
+   "mesas": 13,
+   "electores": 3144,
+   "votantes": 1794
+  },
+  {
+   "distrito": 11,
+   "seccion": 1,
+   "mesas": 30,
+   "electores": 9519,
+   "votantes": 7339
+  },
+  {
+   "distrito": 11,
+   "seccion": 2,
+   "mesas": 269,
+   "electores": 93372,
+   "votantes": 69664
+  },
+  {
+   "distrito": 11,
+   "seccion": 3,
+   "mesas": 6,
+   "electores": 1961,
+   "votantes": 1521
+  },
+  {
+   "distrito": 11,
+   "seccion": 4,
+   "mesas": 21,
+   "electores": 6552,
+   "votantes": 5018
+  },
+  {
+   "distrito": 11,
+   "seccion": 5,
+   "mesas": 9,
+   "electores": 2502,
+   "votantes": 1739
+  },
+  {
+   "distrito": 11,
+   "seccion": 6,
+   "mesas": 32,
+   "electores": 10643,
+   "votantes": 8162
+  },
+  {
+   "distrito": 11,
+   "seccion": 7,
+   "mesas": 5,
+   "electores": 1340,
+   "votantes": 939
+  },
+  {
+   "distrito": 11,
+   "seccion": 8,
+   "mesas": 40,
+   "electores": 12961,
+   "votantes": 9896
+  },
+  {
+   "distrito": 11,
+   "seccion": 9,
+   "mesas": 3,
+   "electores": 843,
+   "votantes": 639
+  },
+  {
+   "distrito": 11,
+   "seccion": 10,
+   "mesas": 26,
+   "electores": 7941,
+   "votantes": 5725
+  },
+  {
+   "distrito": 11,
+   "seccion": 11,
+   "mesas": 23,
+   "electores": 7096,
+   "votantes": 5397
+  },
+  {
+   "distrito": 11,
+   "seccion": 12,
+   "mesas": 24,
+   "electores": 7874,
+   "votantes": 5906
+  },
+  {
+   "distrito": 11,
+   "seccion": 13,
+   "mesas": 1,
+   "electores": 250,
+   "votantes": 161
+  },
+  {
+   "distrito": 11,
+   "seccion": 14,
+   "mesas": 2,
+   "electores": 435,
+   "votantes": 320
+  },
+  {
+   "distrito": 11,
+   "seccion": 15,
+   "mesas": 151,
+   "electores": 51774,
+   "votantes": 39847
+  },
+  {
+   "distrito": 11,
+   "seccion": 16,
+   "mesas": 25,
+   "electores": 8417,
+   "votantes": 6072
+  },
+  {
+   "distrito": 11,
+   "seccion": 17,
+   "mesas": 24,
+   "electores": 7605,
+   "votantes": 5746
+  },
+  {
+   "distrito": 11,
+   "seccion": 18,
+   "mesas": 30,
+   "electores": 9339,
+   "votantes": 6817
+  },
+  {
+   "distrito": 11,
+   "seccion": 19,
+   "mesas": 44,
+   "electores": 14562,
+   "votantes": 11185
+  },
+  {
+   "distrito": 11,
+   "seccion": 20,
+   "mesas": 42,
+   "electores": 13129,
+   "votantes": 9956
+  },
+  {
+   "distrito": 11,
+   "seccion": 21,
+   "mesas": 15,
+   "electores": 4820,
+   "votantes": 3691
+  },
+  {
+   "distrito": 11,
+   "seccion": 22,
+   "mesas": 42,
+   "electores": 13697,
+   "votantes": 10009
+  },
+  {
+   "distrito": 12,
+   "seccion": 1,
+   "mesas": 456,
+   "electores": 154226,
+   "votantes": 105207
+  },
+  {
+   "distrito": 12,
+   "seccion": 2,
+   "mesas": 9,
+   "electores": 2860,
+   "votantes": 2146
+  },
+  {
+   "distrito": 12,
+   "seccion": 3,
+   "mesas": 18,
+   "electores": 4765,
+   "votantes": 3249
+  },
+  {
+   "distrito": 12,
+   "seccion": 4,
+   "mesas": 40,
+   "electores": 12718,
+   "votantes": 8456
+  },
+  {
+   "distrito": 12,
+   "seccion": 5,
+   "mesas": 12,
+   "electores": 3316,
+   "votantes": 2603
+  },
+  {
+   "distrito": 12,
+   "seccion": 6,
+   "mesas": 123,
+   "electores": 40850,
+   "votantes": 27793
+  },
+  {
+   "distrito": 12,
+   "seccion": 7,
+   "mesas": 19,
+   "electores": 5366,
+   "votantes": 3590
+  },
+  {
+   "distrito": 12,
+   "seccion": 8,
+   "mesas": 33,
+   "electores": 9107,
+   "votantes": 5785
+  },
+  {
+   "distrito": 12,
+   "seccion": 9,
+   "mesas": 5,
+   "electores": 1722,
+   "votantes": 1262
+  },
+  {
+   "distrito": 12,
+   "seccion": 10,
+   "mesas": 10,
+   "electores": 2469,
+   "votantes": 1304
+  },
+  {
+   "distrito": 12,
+   "seccion": 11,
+   "mesas": 8,
+   "electores": 2335,
+   "votantes": 1792
+  },
+  {
+   "distrito": 12,
+   "seccion": 12,
+   "mesas": 39,
+   "electores": 12253,
+   "votantes": 7112
+  },
+  {
+   "distrito": 12,
+   "seccion": 13,
+   "mesas": 12,
+   "electores": 2570,
+   "votantes": 1740
+  },
+  {
+   "distrito": 12,
+   "seccion": 14,
+   "mesas": 23,
+   "electores": 6882,
+   "votantes": 4289
+  },
+  {
+   "distrito": 12,
+   "seccion": 15,
+   "mesas": 15,
+   "electores": 3514,
+   "votantes": 2208
+  },
+  {
+   "distrito": 12,
+   "seccion": 16,
+   "mesas": 21,
+   "electores": 6351,
+   "votantes": 3987
+  },
+  {
+   "distrito": 12,
+   "seccion": 17,
+   "mesas": 43,
+   "electores": 12770,
+   "votantes": 7250
+  },
+  {
+   "distrito": 12,
+   "seccion": 18,
+   "mesas": 18,
+   "electores": 3939,
+   "votantes": 2726
+  },
+  {
+   "distrito": 13,
+   "seccion": 1,
+   "mesas": 290,
+   "electores": 97607,
+   "votantes": 73885
+  },
+  {
+   "distrito": 13,
+   "seccion": 2,
+   "mesas": 449,
+   "electores": 155427,
+   "votantes": 119734
+  },
+  {
+   "distrito": 13,
+   "seccion": 3,
+   "mesas": 656,
+   "electores": 226707,
+   "votantes": 176904
+  },
+  {
+   "distrito": 13,
+   "seccion": 4,
+   "mesas": 468,
+   "electores": 160144,
+   "votantes": 126110
+  },
+  {
+   "distrito": 13,
+   "seccion": 5,
+   "mesas": 94,
+   "electores": 32215,
+   "votantes": 25518
+  },
+  {
+   "distrito": 13,
+   "seccion": 6,
+   "mesas": 414,
+   "electores": 142891,
+   "votantes": 115071
+  },
+  {
+   "distrito": 13,
+   "seccion": 7,
+   "mesas": 309,
+   "electores": 105275,
+   "votantes": 84493
+  },
+  {
+   "distrito": 13,
+   "seccion": 8,
+   "mesas": 77,
+   "electores": 25239,
+   "votantes": 19494
+  },
+  {
+   "distrito": 13,
+   "seccion": 9,
+   "mesas": 273,
+   "electores": 94197,
+   "votantes": 75048
+  },
+  {
+   "distrito": 13,
+   "seccion": 10,
+   "mesas": 102,
+   "electores": 34255,
+   "votantes": 27490
+  },
+  {
+   "distrito": 13,
+   "seccion": 11,
+   "mesas": 130,
+   "electores": 44075,
+   "votantes": 35715
+  },
+  {
+   "distrito": 13,
+   "seccion": 12,
+   "mesas": 115,
+   "electores": 39277,
+   "votantes": 31276
+  },
+  {
+   "distrito": 13,
+   "seccion": 13,
+   "mesas": 78,
+   "electores": 26235,
+   "votantes": 21048
+  },
+  {
+   "distrito": 13,
+   "seccion": 14,
+   "mesas": 44,
+   "electores": 13522,
+   "votantes": 10862
+  },
+  {
+   "distrito": 13,
+   "seccion": 15,
+   "mesas": 27,
+   "electores": 8667,
+   "votantes": 7086
+  },
+  {
+   "distrito": 13,
+   "seccion": 16,
+   "mesas": 430,
+   "electores": 146726,
+   "votantes": 114256
+  },
+  {
+   "distrito": 13,
+   "seccion": 17,
+   "mesas": 70,
+   "electores": 23395,
+   "votantes": 17664
+  },
+  {
+   "distrito": 13,
+   "seccion": 18,
+   "mesas": 111,
+   "electores": 37034,
+   "votantes": 28248
+  },
+  {
+   "distrito": 14,
+   "seccion": 1,
+   "mesas": 816,
+   "electores": 283408,
+   "votantes": 206262
+  },
+  {
+   "distrito": 14,
+   "seccion": 2,
+   "mesas": 103,
+   "electores": 34884,
+   "votantes": 26360
+  },
+  {
+   "distrito": 14,
+   "seccion": 3,
+   "mesas": 72,
+   "electores": 24365,
+   "votantes": 17396
+  },
+  {
+   "distrito": 14,
+   "seccion": 4,
+   "mesas": 114,
+   "electores": 39073,
+   "votantes": 30161
+  },
+  {
+   "distrito": 14,
+   "seccion": 5,
+   "mesas": 23,
+   "electores": 7646,
+   "votantes": 5504
+  },
+  {
+   "distrito": 14,
+   "seccion": 6,
+   "mesas": 52,
+   "electores": 17527,
+   "votantes": 12529
+  },
+  {
+   "distrito": 14,
+   "seccion": 7,
+   "mesas": 137,
+   "electores": 46870,
+   "votantes": 33805
+  },
+  {
+   "distrito": 14,
+   "seccion": 8,
+   "mesas": 258,
+   "electores": 88525,
+   "votantes": 64895
+  },
+  {
+   "distrito": 14,
+   "seccion": 9,
+   "mesas": 112,
+   "electores": 38275,
+   "votantes": 28547
+  },
+  {
+   "distrito": 14,
+   "seccion": 10,
+   "mesas": 128,
+   "electores": 43807,
+   "votantes": 30811
+  },
+  {
+   "distrito": 14,
+   "seccion": 11,
+   "mesas": 68,
+   "electores": 23061,
+   "votantes": 16711
+  },
+  {
+   "distrito": 14,
+   "seccion": 12,
+   "mesas": 81,
+   "electores": 27864,
+   "votantes": 20107
+  },
+  {
+   "distrito": 14,
+   "seccion": 13,
+   "mesas": 160,
+   "electores": 54700,
+   "votantes": 37137
+  },
+  {
+   "distrito": 14,
+   "seccion": 14,
+   "mesas": 191,
+   "electores": 65850,
+   "votantes": 48440
+  },
+  {
+   "distrito": 14,
+   "seccion": 15,
+   "mesas": 62,
+   "electores": 20870,
+   "votantes": 14399
+  },
+  {
+   "distrito": 14,
+   "seccion": 16,
+   "mesas": 207,
+   "electores": 71704,
+   "votantes": 49870
+  },
+  {
+   "distrito": 14,
+   "seccion": 17,
+   "mesas": 99,
+   "electores": 34090,
+   "votantes": 22785
+  },
+  {
+   "distrito": 15,
+   "seccion": 1,
+   "mesas": 955,
+   "electores": 329502,
+   "votantes": 264643
+  },
+  {
+   "distrito": 15,
+   "seccion": 2,
+   "mesas": 98,
+   "electores": 32595,
+   "votantes": 26227
+  },
+  {
+   "distrito": 15,
+   "seccion": 3,
+   "mesas": 39,
+   "electores": 12692,
+   "votantes": 9063
+  },
+  {
+   "distrito": 15,
+   "seccion": 4,
+   "mesas": 62,
+   "electores": 20601,
+   "votantes": 15133
+  },
+  {
+   "distrito": 15,
+   "seccion": 5,
+   "mesas": 42,
+   "electores": 12965,
+   "votantes": 10011
+  },
+  {
+   "distrito": 15,
+   "seccion": 6,
+   "mesas": 24,
+   "electores": 6850,
+   "votantes": 5378
+  },
+  {
+   "distrito": 15,
+   "seccion": 7,
+   "mesas": 19,
+   "electores": 4563,
+   "votantes": 3637
+  },
+  {
+   "distrito": 15,
+   "seccion": 8,
+   "mesas": 21,
+   "electores": 5702,
+   "votantes": 4374
+  },
+  {
+   "distrito": 15,
+   "seccion": 9,
+   "mesas": 21,
+   "electores": 5447,
+   "votantes": 4088
+  },
+  {
+   "distrito": 15,
+   "seccion": 10,
+   "mesas": 27,
+   "electores": 7303,
+   "votantes": 5536
+  },
+  {
+   "distrito": 15,
+   "seccion": 11,
+   "mesas": 10,
+   "electores": 1574,
+   "votantes": 1181
+  },
+  {
+   "distrito": 15,
+   "seccion": 12,
+   "mesas": 13,
+   "electores": 4103,
+   "votantes": 3031
+  },
+  {
+   "distrito": 15,
+   "seccion": 13,
+   "mesas": 15,
+   "electores": 3887,
+   "votantes": 3053
+  },
+  {
+   "distrito": 15,
+   "seccion": 14,
+   "mesas": 43,
+   "electores": 13926,
+   "votantes": 10793
+  },
+  {
+   "distrito": 15,
+   "seccion": 15,
+   "mesas": 86,
+   "electores": 28545,
+   "votantes": 21094
+  },
+  {
+   "distrito": 15,
+   "seccion": 16,
+   "mesas": 36,
+   "electores": 11317,
+   "votantes": 8196
+  },
+  {
+   "distrito": 16,
+   "seccion": 1,
+   "mesas": 170,
+   "electores": 54959,
+   "votantes": 39758
+  },
+  {
+   "distrito": 16,
+   "seccion": 2,
+   "mesas": 18,
+   "electores": 5552,
+   "votantes": 3968
+  },
+  {
+   "distrito": 16,
+   "seccion": 3,
+   "mesas": 81,
+   "electores": 27601,
+   "votantes": 19295
+  },
+  {
+   "distrito": 16,
+   "seccion": 4,
+   "mesas": 17,
+   "electores": 4150,
+   "votantes": 2727
+  },
+  {
+   "distrito": 16,
+   "seccion": 5,
+   "mesas": 12,
+   "electores": 3145,
+   "votantes": 1800
+  },
+  {
+   "distrito": 16,
+   "seccion": 6,
+   "mesas": 40,
+   "electores": 12595,
+   "votantes": 8287
+  },
+  {
+   "distrito": 16,
+   "seccion": 7,
+   "mesas": 8,
+   "electores": 1325,
+   "votantes": 866
+  },
+  {
+   "distrito": 16,
+   "seccion": 8,
+   "mesas": 25,
+   "electores": 7437,
+   "votantes": 5629
+  },
+  {
+   "distrito": 16,
+   "seccion": 9,
+   "mesas": 352,
+   "electores": 118330,
+   "votantes": 87545
+  },
+  {
+   "distrito": 16,
+   "seccion": 10,
+   "mesas": 36,
+   "electores": 12582,
+   "votantes": 9372
+  },
+  {
+   "distrito": 16,
+   "seccion": 11,
+   "mesas": 90,
+   "electores": 29859,
+   "votantes": 21786
+  },
+  {
+   "distrito": 16,
+   "seccion": 12,
+   "mesas": 795,
+   "electores": 273421,
+   "votantes": 210119
+  },
+  {
+   "distrito": 16,
+   "seccion": 13,
+   "mesas": 13,
+   "electores": 3455,
+   "votantes": 2345
+  },
+  {
+   "distrito": 17,
+   "seccion": 1,
+   "mesas": 1271,
+   "electores": 433495,
+   "votantes": 313570
+  },
+  {
+   "distrito": 17,
+   "seccion": 2,
+   "mesas": 41,
+   "electores": 13275,
+   "votantes": 9755
+  },
+  {
+   "distrito": 17,
+   "seccion": 3,
+   "mesas": 120,
+   "electores": 39881,
+   "votantes": 28922
+  },
+  {
+   "distrito": 17,
+   "seccion": 4,
+   "mesas": 108,
+   "electores": 34814,
+   "votantes": 23829
+  },
+  {
+   "distrito": 17,
+   "seccion": 5,
+   "mesas": 151,
+   "electores": 49098,
+   "votantes": 30641
+  },
+  {
+   "distrito": 17,
+   "seccion": 6,
+   "mesas": 83,
+   "electores": 25394,
+   "votantes": 15528
+  },
+  {
+   "distrito": 17,
+   "seccion": 7,
+   "mesas": 339,
+   "electores": 114668,
+   "votantes": 71327
+  },
+  {
+   "distrito": 17,
+   "seccion": 8,
+   "mesas": 391,
+   "electores": 132099,
+   "votantes": 81790
+  },
+  {
+   "distrito": 17,
+   "seccion": 9,
+   "mesas": 11,
+   "electores": 3056,
+   "votantes": 1924
+  },
+  {
+   "distrito": 17,
+   "seccion": 10,
+   "mesas": 21,
+   "electores": 4729,
+   "votantes": 1130
+  },
+  {
+   "distrito": 17,
+   "seccion": 11,
+   "mesas": 110,
+   "electores": 35928,
+   "votantes": 26692
+  },
+  {
+   "distrito": 17,
+   "seccion": 12,
+   "mesas": 57,
+   "electores": 18123,
+   "votantes": 13624
+  },
+  {
+   "distrito": 17,
+   "seccion": 13,
+   "mesas": 22,
+   "electores": 6799,
+   "votantes": 4516
+  },
+  {
+   "distrito": 17,
+   "seccion": 14,
+   "mesas": 14,
+   "electores": 3219,
+   "votantes": 2142
+  },
+  {
+   "distrito": 17,
+   "seccion": 15,
+   "mesas": 84,
+   "electores": 25432,
+   "votantes": 16845
+  },
+  {
+   "distrito": 17,
+   "seccion": 16,
+   "mesas": 19,
+   "electores": 5468,
+   "votantes": 3876
+  },
+  {
+   "distrito": 17,
+   "seccion": 17,
+   "mesas": 43,
+   "electores": 13180,
+   "votantes": 9539
+  },
+  {
+   "distrito": 17,
+   "seccion": 18,
+   "mesas": 20,
+   "electores": 5687,
+   "votantes": 3875
+  },
+  {
+   "distrito": 17,
+   "seccion": 19,
+   "mesas": 18,
+   "electores": 4619,
+   "votantes": 3150
+  },
+  {
+   "distrito": 17,
+   "seccion": 20,
+   "mesas": 24,
+   "electores": 6849,
+   "votantes": 4746
+  },
+  {
+   "distrito": 17,
+   "seccion": 21,
+   "mesas": 107,
+   "electores": 34297,
+   "votantes": 25080
+  },
+  {
+   "distrito": 17,
+   "seccion": 22,
+   "mesas": 5,
+   "electores": 1427,
+   "votantes": 1008
+  },
+  {
+   "distrito": 17,
+   "seccion": 23,
+   "mesas": 18,
+   "electores": 5709,
+   "votantes": 3564
+  },
+  {
+   "distrito": 18,
+   "seccion": 1,
+   "mesas": 279,
+   "electores": 92072,
+   "votantes": 70390
+  },
+  {
+   "distrito": 18,
+   "seccion": 2,
+   "mesas": 124,
+   "electores": 42155,
+   "votantes": 31647
+  },
+  {
+   "distrito": 18,
+   "seccion": 3,
+   "mesas": 190,
+   "electores": 65465,
+   "votantes": 50960
+  },
+  {
+   "distrito": 18,
+   "seccion": 4,
+   "mesas": 205,
+   "electores": 70141,
+   "votantes": 54528
+  },
+  {
+   "distrito": 18,
+   "seccion": 5,
+   "mesas": 12,
+   "electores": 4155,
+   "votantes": 3116
+  },
+  {
+   "distrito": 18,
+   "seccion": 6,
+   "mesas": 268,
+   "electores": 92530,
+   "votantes": 71379
+  },
+  {
+   "distrito": 18,
+   "seccion": 7,
+   "mesas": 26,
+   "electores": 8714,
+   "votantes": 6528
+  },
+  {
+   "distrito": 18,
+   "seccion": 8,
+   "mesas": 27,
+   "electores": 9292,
+   "votantes": 7437
+  },
+  {
+   "distrito": 18,
+   "seccion": 9,
+   "mesas": 27,
+   "electores": 8271,
+   "votantes": 6348
+  },
+  {
+   "distrito": 18,
+   "seccion": 10,
+   "mesas": 61,
+   "electores": 20033,
+   "votantes": 16297
+  },
+  {
+   "distrito": 18,
+   "seccion": 11,
+   "mesas": 12,
+   "electores": 4184,
+   "votantes": 3132
+  },
+  {
+   "distrito": 18,
+   "seccion": 12,
+   "mesas": 125,
+   "electores": 42794,
+   "votantes": 33205
+  },
+  {
+   "distrito": 18,
+   "seccion": 13,
+   "mesas": 55,
+   "electores": 17601,
+   "votantes": 14016
+  },
+  {
+   "distrito": 18,
+   "seccion": 14,
+   "mesas": 40,
+   "electores": 13554,
+   "votantes": 9909
+  },
+  {
+   "distrito": 18,
+   "seccion": 15,
+   "mesas": 89,
+   "electores": 29354,
+   "votantes": 20435
+  },
+  {
+   "distrito": 18,
+   "seccion": 16,
+   "mesas": 21,
+   "electores": 6293,
+   "votantes": 4626
+  },
+  {
+   "distrito": 18,
+   "seccion": 17,
+   "mesas": 62,
+   "electores": 18526,
+   "votantes": 14871
+  },
+  {
+   "distrito": 18,
+   "seccion": 18,
+   "mesas": 23,
+   "electores": 7095,
+   "votantes": 5104
+  },
+  {
+   "distrito": 18,
+   "seccion": 19,
+   "mesas": 25,
+   "electores": 7899,
+   "votantes": 5627
+  },
+  {
+   "distrito": 19,
+   "seccion": 1,
+   "mesas": 543,
+   "electores": 181977,
+   "votantes": 132989
+  },
+  {
+   "distrito": 19,
+   "seccion": 2,
+   "mesas": 45,
+   "electores": 12022,
+   "votantes": 9115
+  },
+  {
+   "distrito": 19,
+   "seccion": 3,
+   "mesas": 318,
+   "electores": 104102,
+   "votantes": 77844
+  },
+  {
+   "distrito": 19,
+   "seccion": 4,
+   "mesas": 60,
+   "electores": 19522,
+   "votantes": 14394
+  },
+  {
+   "distrito": 19,
+   "seccion": 5,
+   "mesas": 17,
+   "electores": 4233,
+   "votantes": 2994
+  },
+  {
+   "distrito": 19,
+   "seccion": 6,
+   "mesas": 92,
+   "electores": 29168,
+   "votantes": 21057
+  },
+  {
+   "distrito": 19,
+   "seccion": 7,
+   "mesas": 61,
+   "electores": 17714,
+   "votantes": 12813
+  },
+  {
+   "distrito": 19,
+   "seccion": 8,
+   "mesas": 23,
+   "electores": 4084,
+   "votantes": 2774
+  },
+  {
+   "distrito": 19,
+   "seccion": 9,
+   "mesas": 37,
+   "electores": 10469,
+   "votantes": 6770
+  },
+  {
+   "distrito": 20,
+   "seccion": 1,
+   "mesas": 306,
+   "electores": 89848,
+   "votantes": 62688
+  },
+  {
+   "distrito": 20,
+   "seccion": 2,
+   "mesas": 34,
+   "electores": 9656,
+   "votantes": 6560
+  },
+  {
+   "distrito": 20,
+   "seccion": 3,
+   "mesas": 33,
+   "electores": 9390,
+   "votantes": 6388
+  },
+  {
+   "distrito": 20,
+   "seccion": 4,
+   "mesas": 18,
+   "electores": 4125,
+   "votantes": 3028
+  },
+  {
+   "distrito": 20,
+   "seccion": 5,
+   "mesas": 41,
+   "electores": 11166,
+   "votantes": 8118
+  },
+  {
+   "distrito": 20,
+   "seccion": 6,
+   "mesas": 67,
+   "electores": 19645,
+   "votantes": 12911
+  },
+  {
+   "distrito": 20,
+   "seccion": 7,
+   "mesas": 349,
+   "electores": 103394,
+   "votantes": 74410
+  },
+  {
+   "distrito": 21,
+   "seccion": 1,
+   "mesas": 114,
+   "electores": 38676,
+   "votantes": 29247
+  },
+  {
+   "distrito": 21,
+   "seccion": 2,
+   "mesas": 215,
+   "electores": 71557,
+   "votantes": 53347
+  },
+  {
+   "distrito": 21,
+   "seccion": 3,
+   "mesas": 451,
+   "electores": 147941,
+   "votantes": 109343
+  },
+  {
+   "distrito": 21,
+   "seccion": 4,
+   "mesas": 222,
+   "electores": 75002,
+   "votantes": 58002
+  },
+  {
+   "distrito": 21,
+   "seccion": 5,
+   "mesas": 59,
+   "electores": 19239,
+   "votantes": 13329
+  },
+  {
+   "distrito": 21,
+   "seccion": 6,
+   "mesas": 488,
+   "electores": 165000,
+   "votantes": 120160
+  },
+  {
+   "distrito": 21,
+   "seccion": 7,
+   "mesas": 450,
+   "electores": 149005,
+   "votantes": 107508
+  },
+  {
+   "distrito": 21,
+   "seccion": 8,
+   "mesas": 173,
+   "electores": 58499,
+   "votantes": 44182
+  },
+  {
+   "distrito": 21,
+   "seccion": 9,
+   "mesas": 1272,
+   "electores": 438765,
+   "votantes": 310034
+  },
+  {
+   "distrito": 21,
+   "seccion": 11,
+   "mesas": 275,
+   "electores": 88623,
+   "votantes": 67574
+  },
+  {
+   "distrito": 21,
+   "seccion": 12,
+   "mesas": 79,
+   "electores": 25485,
+   "votantes": 16935
+  },
+  {
+   "distrito": 21,
+   "seccion": 13,
+   "mesas": 3000,
+   "electores": 1034372,
+   "votantes": 761934
+  },
+  {
+   "distrito": 21,
+   "seccion": 16,
+   "mesas": 186,
+   "electores": 58782,
+   "votantes": 40084
+  },
+  {
+   "distrito": 21,
+   "seccion": 17,
+   "mesas": 86,
+   "electores": 26997,
+   "votantes": 18087
+  },
+  {
+   "distrito": 21,
+   "seccion": 18,
+   "mesas": 210,
+   "electores": 68977,
+   "votantes": 50500
+  },
+  {
+   "distrito": 21,
+   "seccion": 19,
+   "mesas": 118,
+   "electores": 36526,
+   "votantes": 26730
+  },
+  {
+   "distrito": 21,
+   "seccion": 20,
+   "mesas": 432,
+   "electores": 148446,
+   "votantes": 113246
+  },
+  {
+   "distrito": 21,
+   "seccion": 21,
+   "mesas": 162,
+   "electores": 54297,
+   "votantes": 40048
+  },
+  {
+   "distrito": 21,
+   "seccion": 22,
+   "mesas": 144,
+   "electores": 45075,
+   "votantes": 30232
+  },
+  {
+   "distrito": 22,
+   "seccion": 1,
+   "mesas": 687,
+   "electores": 235361,
+   "votantes": 175496
+  },
+  {
+   "distrito": 22,
+   "seccion": 2,
+   "mesas": 56,
+   "electores": 18161,
+   "votantes": 13541
+  },
+  {
+   "distrito": 22,
+   "seccion": 3,
+   "mesas": 23,
+   "electores": 7051,
+   "votantes": 4839
+  },
+  {
+   "distrito": 22,
+   "seccion": 4,
+   "mesas": 43,
+   "electores": 13489,
+   "votantes": 9321
+  },
+  {
+   "distrito": 22,
+   "seccion": 5,
+   "mesas": 31,
+   "electores": 9582,
+   "votantes": 7371
+  },
+  {
+   "distrito": 22,
+   "seccion": 6,
+   "mesas": 371,
+   "electores": 124890,
+   "votantes": 92938
+  },
+  {
+   "distrito": 22,
+   "seccion": 7,
+   "mesas": 24,
+   "electores": 7851,
+   "votantes": 5665
+  },
+  {
+   "distrito": 22,
+   "seccion": 8,
+   "mesas": 72,
+   "electores": 23835,
+   "votantes": 16239
+  },
+  {
+   "distrito": 22,
+   "seccion": 9,
+   "mesas": 97,
+   "electores": 30904,
+   "votantes": 22450
+  },
+  {
+   "distrito": 22,
+   "seccion": 10,
+   "mesas": 44,
+   "electores": 14028,
+   "votantes": 9613
+  },
+  {
+   "distrito": 22,
+   "seccion": 11,
+   "mesas": 22,
+   "electores": 6409,
+   "votantes": 4765
+  },
+  {
+   "distrito": 22,
+   "seccion": 12,
+   "mesas": 38,
+   "electores": 11639,
+   "votantes": 8584
+  },
+  {
+   "distrito": 22,
+   "seccion": 13,
+   "mesas": 58,
+   "electores": 18237,
+   "votantes": 13237
+  },
+  {
+   "distrito": 22,
+   "seccion": 14,
+   "mesas": 41,
+   "electores": 13431,
+   "votantes": 8970
+  },
+  {
+   "distrito": 22,
+   "seccion": 15,
+   "mesas": 6,
+   "electores": 1080,
+   "votantes": 635
+  },
+  {
+   "distrito": 22,
+   "seccion": 16,
+   "mesas": 87,
+   "electores": 27167,
+   "votantes": 18588
+  },
+  {
+   "distrito": 22,
+   "seccion": 17,
+   "mesas": 41,
+   "electores": 12818,
+   "votantes": 9586
+  },
+  {
+   "distrito": 22,
+   "seccion": 18,
+   "mesas": 55,
+   "electores": 17255,
+   "votantes": 11706
+  },
+  {
+   "distrito": 22,
+   "seccion": 19,
+   "mesas": 30,
+   "electores": 8335,
+   "votantes": 5855
+  },
+  {
+   "distrito": 22,
+   "seccion": 20,
+   "mesas": 13,
+   "electores": 3730,
+   "votantes": 2834
+  },
+  {
+   "distrito": 22,
+   "seccion": 21,
+   "mesas": 115,
+   "electores": 38428,
+   "votantes": 29089
+  },
+  {
+   "distrito": 22,
+   "seccion": 22,
+   "mesas": 146,
+   "electores": 48866,
+   "votantes": 35564
+  },
+  {
+   "distrito": 22,
+   "seccion": 23,
+   "mesas": 24,
+   "electores": 7321,
+   "votantes": 5318
+  },
+  {
+   "distrito": 22,
+   "seccion": 24,
+   "mesas": 25,
+   "electores": 7418,
+   "votantes": 5249
+  },
+  {
+   "distrito": 22,
+   "seccion": 25,
+   "mesas": 31,
+   "electores": 8838,
+   "votantes": 6328
+  },
+  {
+   "distrito": 22,
+   "seccion": 26,
+   "mesas": 12,
+   "electores": 3223,
+   "votantes": 2356
+  },
+  {
+   "distrito": 22,
+   "seccion": 27,
+   "mesas": 101,
+   "electores": 34304,
+   "votantes": 24661
+  },
+  {
+   "distrito": 23,
+   "seccion": 1,
+   "mesas": 1318,
+   "electores": 453036,
+   "votantes": 335979
+  },
+  {
+   "distrito": 23,
+   "seccion": 2,
+   "mesas": 155,
+   "electores": 52841,
+   "votantes": 42229
+  },
+  {
+   "distrito": 23,
+   "seccion": 3,
+   "mesas": 92,
+   "electores": 30408,
+   "votantes": 22992
+  },
+  {
+   "distrito": 23,
+   "seccion": 4,
+   "mesas": 167,
+   "electores": 54949,
+   "votantes": 44030
+  },
+  {
+   "distrito": 23,
+   "seccion": 5,
+   "mesas": 202,
+   "electores": 67873,
+   "votantes": 52890
+  },
+  {
+   "distrito": 23,
+   "seccion": 6,
+   "mesas": 143,
+   "electores": 48810,
+   "votantes": 39407
+  },
+  {
+   "distrito": 23,
+   "seccion": 7,
+   "mesas": 75,
+   "electores": 25555,
+   "votantes": 20011
+  },
+  {
+   "distrito": 23,
+   "seccion": 8,
+   "mesas": 51,
+   "electores": 16156,
+   "votantes": 12765
+  },
+  {
+   "distrito": 23,
+   "seccion": 9,
+   "mesas": 37,
+   "electores": 11758,
+   "votantes": 9272
+  },
+  {
+   "distrito": 23,
+   "seccion": 10,
+   "mesas": 90,
+   "electores": 28057,
+   "votantes": 21653
+  },
+  {
+   "distrito": 23,
+   "seccion": 11,
+   "mesas": 146,
+   "electores": 48192,
+   "votantes": 38019
+  },
+  {
+   "distrito": 23,
+   "seccion": 12,
+   "mesas": 477,
+   "electores": 160678,
+   "votantes": 122964
+  },
+  {
+   "distrito": 23,
+   "seccion": 13,
+   "mesas": 113,
+   "electores": 34783,
+   "votantes": 25659
+  },
+  {
+   "distrito": 23,
+   "seccion": 14,
+   "mesas": 51,
+   "electores": 15229,
+   "votantes": 11253
+  },
+  {
+   "distrito": 23,
+   "seccion": 15,
+   "mesas": 213,
+   "electores": 73277,
+   "votantes": 57449
+  },
+  {
+   "distrito": 23,
+   "seccion": 16,
+   "mesas": 332,
+   "electores": 113521,
+   "votantes": 87114
+  },
+  {
+   "distrito": 23,
+   "seccion": 17,
+   "mesas": 42,
+   "electores": 14007,
+   "votantes": 10611
+  },
+  {
+   "distrito": 24,
+   "seccion": 1,
+   "mesas": 208,
+   "electores": 60296,
+   "votantes": 41749
+  },
+  {
+   "distrito": 24,
+   "seccion": 2,
+   "mesas": 246,
+   "electores": 72115,
+   "votantes": 52935
+  },
+  {
+   "distrito": 24,
+   "seccion": 3,
+   "mesas": 6,
+   "electores": 305,
+   "votantes": 206
+  },
+  {
+   "distrito": 24,
+   "seccion": 5,
+   "mesas": 15,
+   "electores": 4370,
+   "votantes": 3000
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "fechaTotalizacion": "2023-07-06T20:31:42.038Z",
+ "estadoRecuento": {
+  "mesasEsperadas": 0,
+  "mesasTotalizadas": 84429,
+  "mesasTotalizadasPorcentaje": 0,
+  "cantidadElectores": 28384275,
+  "cantidadVotantes": 22393519,
+  "participacionPorcentaje": 78.89
+ },
+ "valoresTotalizadosPositivos": [
+  {
+   "idAgrupacion": "0135",
+   "nombreAgrupacion": "Alianza Frente de Izquierda y de los Trabajadores                                                   ",
+   "votos": 497082,
+   "votosPorcentaje": 2.22,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0047",
+   "nombreAgrupacion": "Coalición Cívica - Afirmación para una República Igualitaria ARI                                    ",
+   "votos": 396171,
+   "votosPorcentaje": 1.77,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0132",
+   "nombreAgrupacion": "Alianza Frente Popular                                                                              ",
+   "votos": 1264609,
+   "votosPorcentaje": 5.65,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0133",
+   "nombreAgrupacion": "Alianza Compromiso Federal                                                                          ",
+   "votos": 1714385,
+   "votosPorcentaje": 7.66,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0137",
+   "nombreAgrupacion": "Alianza Unión para el Desarrollo Social                                                             ",
+   "votos": 2395056,
+   "votosPorcentaje": 10.7,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0134",
+   "nombreAgrupacion": "Alianza Frente Amplio Progresista                                                                   ",
+   "votos": 3624518,
+   "votosPorcentaje": 16.19,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0131",
+   "nombreAgrupacion": "Alianza Frente para la Victoria                                                                     ",
+   "votos": 11593023,
+   "votosPorcentaje": 51.77,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  }
+ ],
+ "valoresTotalizadosOtros": {
+  "votosNulos": 206030,
+  "votosNulosPorcentaje": 0.92,
+  "votosEnBlanco": 678724,
+  "votosEnBlancoPorcentaje": 3.03,
+  "votosRecurridosComandoImpugnados": 23921,
+  "votosRecurridosComandoImpugnadosPorcentaje": 0.11
+ }
+}

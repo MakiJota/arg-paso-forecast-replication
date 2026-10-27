@@ -1,0 +1,101 @@
+{
+ "fechaTotalizacion": "2023-07-06T20:39:17.460Z",
+ "estadoRecuento": {
+  "mesasEsperadas": 0,
+  "mesasTotalizadas": 85936,
+  "mesasTotalizadasPorcentaje": 0,
+  "cantidadElectores": 28853153,
+  "cantidadVotantes": 22250504,
+  "participacionPorcentaje": 77.12
+ },
+ "valoresTotalizadosPositivos": [
+  {
+   "idAgrupacion": "0037",
+   "nombreAgrupacion": "DEL CAMPO POPULAR",
+   "votos": 51627,
+   "votosPorcentaje": 0.23,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0047",
+   "nombreAgrupacion": "COALICION CIVICA ARI",
+   "votos": 682723,
+   "votosPorcentaje": 3.07,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0057",
+   "nombreAgrupacion": "MOVIMIENTO DE ACCION VECINAL",
+   "votos": 70568,
+   "votosPorcentaje": 0.32,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0131",
+   "nombreAgrupacion": "ALIANZA FRENTE PARA LA VICTORIA",
+   "votos": 10540703,
+   "votosPorcentaje": 47.37,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0132",
+   "nombreAgrupacion": "ALIANZA FRENTE POPULAR",
+   "votos": 2565297,
+   "votosPorcentaje": 11.53,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0133",
+   "nombreAgrupacion": "ALIANZA COMPROMISO FEDERAL",
+   "votos": 1721629,
+   "votosPorcentaje": 7.74,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0134",
+   "nombreAgrupacion": "ALIANZA FRENTE AMPLIO PROGRESISTA",
+   "votos": 2149595,
+   "votosPorcentaje": 9.66,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0135",
+   "nombreAgrupacion": "ALIANZA FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES",
+   "votos": 521831,
+   "votosPorcentaje": 2.35,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0136",
+   "nombreAgrupacion": "ALIANZA PROYECTO SUR",
+   "votos": 190438,
+   "votosPorcentaje": 0.86,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0137",
+   "nombreAgrupacion": "ALIANZA UNION PARA EL DESARROLLO SOCIAL - UDESO",
+   "votos": 2561935,
+   "votosPorcentaje": 11.51,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  }
+ ],
+ "valoresTotalizadosOtros": {
+  "votosNulos": 263990,
+  "votosNulosPorcentaje": 1.19,
+  "votosEnBlanco": 818545,
+  "votosEnBlancoPorcentaje": 3.68,
+  "votosRecurridosComandoImpugnados": 111623,
+  "votosRecurridosComandoImpugnadosPorcentaje": 0.5
+ }
+}

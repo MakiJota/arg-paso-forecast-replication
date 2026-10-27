@@ -1,0 +1,306 @@
+{
+ "fechaTotalizacion": "2023-11-09T17:05:01.516Z",
+ "estadoRecuento": {
+  "mesasEsperadas": 0,
+  "mesasTotalizadas": 104532,
+  "mesasTotalizadasPorcentaje": 0,
+  "cantidadElectores": 35405013,
+  "cantidadVotantes": 24016776,
+  "participacionPorcentaje": 67.83
+ },
+ "valoresTotalizadosPositivos": [
+  {
+   "idAgrupacion": 20,
+   "nombreAgrupacion": "UNION DEL CENTRO DEMOCRATICO",
+   "votos": 11982,
+   "votosPorcentaje": 0.05,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "A- APERTURA LIBERAL ARGENTINA",
+     "numero": 3018,
+     "votos": 11982
+    }
+   ]
+  },
+  {
+   "idAgrupacion": 40,
+   "nombreAgrupacion": "MOVIMIENTO LIBRES DEL SUR",
+   "votos": 154338,
+   "votosPorcentaje": 0.65,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "A- AZUL Y ROJO",
+     "numero": 3019,
+     "votos": 154338
+    }
+   ]
+  },
+  {
+   "idAgrupacion": 57,
+   "nombreAgrupacion": "MOVIMIENTO DE ACCION VECINAL",
+   "votos": 42252,
+   "votosPorcentaje": 0.18,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "A- COMPROMISO VECINAL",
+     "numero": 3025,
+     "votos": 42252
+    }
+   ]
+  },
+  {
+   "idAgrupacion": 135,
+   "nombreAgrupacion": "LA LIBERTAD AVANZA",
+   "votos": 7116352,
+   "votosPorcentaje": 30.04,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "A- LIBERTAD POR SIEMPRE",
+     "numero": 3016,
+     "votos": 7116352
+    }
+   ]
+  },
+  {
+   "idAgrupacion": 92,
+   "nombreAgrupacion": "POLITICA OBRERA",
+   "votos": 62404,
+   "votosPorcentaje": 0.26,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "A- UNIDAD OBRERA",
+     "numero": 3020,
+     "votos": 62404
+    }
+   ]
+  },
+  {
+   "idAgrupacion": 137,
+   "nombreAgrupacion": "PRINCIPIOS Y VALORES",
+   "votos": 187893,
+   "votosPorcentaje": 0.79,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "1A- TIERRA, TECHO  Y TRABAJO",
+     "numero": 3011,
+     "votos": 183135
+    },
+    {
+     "nombre": "2B- TRANSFORMAR",
+     "numero": 3012,
+     "votos": 2540
+    },
+    {
+     "nombre": "3C- TRES BANDERAS",
+     "numero": 3013,
+     "votos": 263
+    },
+    {
+     "nombre": "4D- GENTE DE TRABAJO",
+     "numero": 3014,
+     "votos": 206
+    },
+    {
+     "nombre": "5E- LABORISTA",
+     "numero": 3015,
+     "votos": 1749
+    }
+   ]
+  },
+  {
+   "idAgrupacion": 134,
+   "nombreAgrupacion": "UNION POR LA PATRIA",
+   "votos": 6460689,
+   "votosPorcentaje": 27.27,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "A- CELESTE Y BLANCA",
+     "numero": 3005,
+     "votos": 5070104
+    },
+    {
+     "nombre": "B- JUSTA Y SOBERANA",
+     "numero": 3006,
+     "votos": 1390585
+    }
+   ]
+  },
+  {
+   "idAgrupacion": 133,
+   "nombreAgrupacion": "HACEMOS POR NUESTRO PAIS",
+   "votos": 907437,
+   "votosPorcentaje": 3.83,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "A- HACEMOS",
+     "numero": 3001,
+     "votos": 907437
+    }
+   ]
+  },
+  {
+   "idAgrupacion": 136,
+   "nombreAgrupacion": "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD",
+   "votos": 628893,
+   "votosPorcentaje": 2.65,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "A- UNIR Y FORTALECER LA IZQUIERDA",
+     "numero": 3009,
+     "votos": 442085
+    },
+    {
+     "nombre": "B- UNIDAD DE LUCHADORES Y LA IZQUIERDA",
+     "numero": 3010,
+     "votos": 186808
+    }
+   ]
+  },
+  {
+   "idAgrupacion": 13,
+   "nombreAgrupacion": "MOVIMIENTO AL SOCIALISMO",
+   "votos": 85628,
+   "votosPorcentaje": 0.36,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "A- IZQUIERDA ANTICAPITALISTA",
+     "numero": 3017,
+     "votos": 85628
+    }
+   ]
+  },
+  {
+   "idAgrupacion": 132,
+   "nombreAgrupacion": "JUNTOS POR EL CAMBIO",
+   "votos": 6698029,
+   "votosPorcentaje": 28.28,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "B- LA FUERZA DEL CAMBIO",
+     "numero": 3008,
+     "votos": 4022466
+    },
+    {
+     "nombre": "A- EL CAMBIO DE NUESTRAS VIDAS",
+     "numero": 3007,
+     "votos": 2675563
+    }
+   ]
+  },
+  {
+   "idAgrupacion": 94,
+   "nombreAgrupacion": "PROYECTO JOVEN",
+   "votos": 23870,
+   "votosPorcentaje": 0.1,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "B- PATRIA UNIDA",
+     "numero": 3023,
+     "votos": 8684
+    },
+    {
+     "nombre": "A- COALICION PAZ DEMOCRACIA SOBERANIA",
+     "numero": 3022,
+     "votos": 11740
+    },
+    {
+     "nombre": "C- TODEX",
+     "numero": 3024,
+     "votos": 3446
+    }
+   ]
+  },
+  {
+   "idAgrupacion": 131,
+   "nombreAgrupacion": "FRENTE LIBER.AR",
+   "votos": 26962,
+   "votosPorcentaje": 0.11,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "A- DEMOS",
+     "numero": 3002,
+     "votos": 8281
+    },
+    {
+     "nombre": "B- RECONQUISTA",
+     "numero": 3003,
+     "votos": 13109
+    },
+    {
+     "nombre": "C- ANTICORRUPCIÓN",
+     "numero": 3004,
+     "votos": 5572
+    }
+   ]
+  },
+  {
+   "idAgrupacion": 95,
+   "nombreAgrupacion": "FRENTE PATRIOTA FEDERAL",
+   "votos": 50842,
+   "votosPorcentaje": 0.21,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "A- PRIMERO LA PATRIA",
+     "numero": 3021,
+     "votos": 50842
+    }
+   ]
+  },
+  {
+   "idAgrupacion": 90,
+   "nombreAgrupacion": "MOVIMIENTO IZQUIERDA JUVENTUD Y DIGNIDAD",
+   "votos": 81972,
+   "votosPorcentaje": 0.35,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": "",
+   "listas": [
+    {
+     "nombre": "A- DIGNIDAD",
+     "numero": 3026,
+     "votos": 25746
+    },
+    {
+     "nombre": "B- CONFEDERAL",
+     "numero": 3027,
+     "votos": 56226
+    }
+   ]
+  }
+ ],
+ "valoresTotalizadosOtros": {
+  "votosNulos": 293041,
+  "votosNulosPorcentaje": 1.22,
+  "votosEnBlanco": 1148342,
+  "votosEnBlancoPorcentaje": 4.78,
+  "votosRecurridosComandoImpugnados": 35850,
+  "votosRecurridosComandoImpugnadosPorcentaje": 0.15
+ }
+}

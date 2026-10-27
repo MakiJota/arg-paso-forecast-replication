@@ -1,0 +1,8 @@
+election,candidate,votes,pct_positive,source_note
+general,MASSA,9853492,36.78,CNE escrutinio definitivo (22 Oct 2023); positive votes 26791634; turnout 77.04%
+general,MILEI,8034990,29.99,CNE escrutinio definitivo (22 Oct 2023)
+general,BULLRICH,6379023,23.81,CNE escrutinio definitivo (22 Oct 2023)
+general,SCHIARETTI,1802068,6.73,CNE escrutinio definitivo (22 Oct 2023)
+general,BREGMAN,722061,2.70,CNE escrutinio definitivo (22 Oct 2023)
+runoff,MILEI,14554560,55.65,CNE escrutinio definitivo (19 Nov 2023); turnout 76.32%
+runoff,MASSA,11598720,44.35,CNE escrutinio definitivo (19 Nov 2023)

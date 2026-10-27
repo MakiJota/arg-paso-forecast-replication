@@ -1,0 +1,37 @@
+{
+ "fechaTotalizacion": "2023-07-07T12:08:29.049Z",
+ "estadoRecuento": {
+  "mesasEsperadas": 0,
+  "mesasTotalizadas": 94170,
+  "mesasTotalizadasPorcentaje": 0,
+  "cantidadElectores": 31820939,
+  "cantidadVotantes": 25738560,
+  "participacionPorcentaje": 80.89
+ },
+ "valoresTotalizadosPositivos": [
+  {
+   "idAgrupacion": "0131",
+   "nombreAgrupacion": "FRENTE PARA LA VICTORIA                                                                             ",
+   "votos": 12198441,
+   "votosPorcentaje": 47.39,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "0135",
+   "nombreAgrupacion": "CAMBIEMOS                                                                                           ",
+   "votos": 12903301,
+   "votosPorcentaje": 50.13,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  }
+ ],
+ "valoresTotalizadosOtros": {
+  "votosNulos": 318206,
+  "votosNulosPorcentaje": 1.24,
+  "votosEnBlanco": 305229,
+  "votosEnBlancoPorcentaje": 1.19,
+  "votosRecurridosComandoImpugnados": 13383,
+  "votosRecurridosComandoImpugnadosPorcentaje": 0.05
+ }
+}

@@ -1,0 +1,5 @@
+scenario,p_runoff,p_scioli_macri,p_macri_wins_given_pair,p_macri_president,p_scioli_president,p_massa_president
+Low change (85-95% stay),0.99916,0.99916,0.058308979542816,0.05826,0.94174,0
+Mid change (60-80% stay),0.99822,0.97292,0.197200180898738,0.192,0.80622,0.00178
+High change (30-60% stay),0.9977,0.69858,0.353889318331472,0.2977,0.6284,0.06868
+Chaos (0% stay),0.99218,0.06594,0.499848346982105,0.16804,0.16884,0.16762

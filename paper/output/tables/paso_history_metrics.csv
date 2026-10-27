@@ -1,0 +1,5 @@
+year,n_coalitions,mae_pp,max_abs_error_pp,max_error_coalition,paso_leader,general_winner,leader_correct,top_two_correct,order_exact,spearman,leader_margin_paso_pp,leader_margin_general_pp,outcome_paso_projection,outcome_general,outcome_correct,turnout_paso,turnout_general,turnout_change_pp,extra_voters,blank_pct_paso,blank_pct_general,blank_change_pp,blank_change_votes,paso_eliminated_share
+2011,7,2.758,6.507,FAP,FPV,FPV,TRUE,FALSE,FALSE,0.714,38.447,37.089,outright: FPV,outright: FPV,TRUE,78.66,79.39,0.73,143015,3.679,3.031,-0.648,-139821,1.485
+2015,6,1.316,3.652,Cambiemos,FPV,FPV,TRUE,TRUE,FALSE,0.943,8.505,2.537,runoff: FPV vs Cambiemos,runoff: FPV vs Cambiemos,TRUE,74.91,81.07,6.16,2019478,4.266,2.363,-1.903,-393795,1.972
+2019,6,2.243,6.729,JxC,FdT,FdT,TRUE,TRUE,TRUE,1,16.043,7.725,outright: FdT,outright: FdT,TRUE,76.41,81.31,4.9,2328706,3.054,1.503,-1.551,-341294,1.274
+2023,5,3.845,6.949,UxP,LLA,UxP,FALSE,FALSE,FALSE,0.7,2.026,6.788,runoff: LLA vs JxC,runoff: UxP vs LLA,FALSE,70.43,77.04,6.61,3083899,4.781,2.045,-2.737,-594181,3.231

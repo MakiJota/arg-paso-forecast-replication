@@ -1,0 +1,20 @@
+{
+ "fechaTotalizacion": "2026-10-19T23:24:11.797Z",
+ "estadoRecuento": {
+  "mesasEsperadas": 0,
+  "mesasTotalizadas": 0,
+  "mesasTotalizadasPorcentaje": 0,
+  "cantidadElectores": 0,
+  "cantidadVotantes": 0,
+  "participacionPorcentaje": null
+ },
+ "valoresTotalizadosPositivos": [],
+ "valoresTotalizadosOtros": {
+  "votosNulos": 0,
+  "votosNulosPorcentaje": null,
+  "votosEnBlanco": 0,
+  "votosEnBlancoPorcentaje": null,
+  "votosRecurridosComandoImpugnados": 0,
+  "votosRecurridosComandoImpugnadosPorcentaje": null
+ }
+}

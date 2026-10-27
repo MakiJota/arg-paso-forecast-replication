@@ -1,0 +1,4645 @@
+{{Short description|None}}
+{{Use dmy dates|date=April 2023}}
+
+This article contains polls on voters' intentions regarding the [[2023 Argentine general election]], which will elect the country's [[President of Argentina|president]] and [[List of vice presidents of Argentina|vice president]] for the 2023–2027 period.
+
+== First round ==
+A candidate needs to win 45% of the vote, or win 40% of the vote while finishing more than 10 percentage points ahead of the second-place candidate in order to win the presidency in the first round and avoid the second round occurring. This was not the case here, as the leading candidate had 36.7% of the vote, so a second round has been scheduled for 19 November 2023.
+
+=== Graph ===
+{{Wide image|Encuestas de intención de voto Argentina 2023.svg|1100px|Local regression trend line of survey results from 14 November 2021 to today.}}
+
+=== By political coalition ===
+==== 2023 ====
+{{sticky header}}
+{| class="wikitable sortable sticky-header-multi" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:30px; background-color:#8B8B8B"
+!rowspan=2|Fieldwork date
+!rowspan=2|Polling firm
+!rowspan=2|Sample
+![[File:Unión por la Patria logo.png|45px|link=Union for the Homeland]]
+![[File:Juntos logo.png|45px|link=Juntos por el Cambio]]
+![[File:Logo La Libertad Avanza (sin águila).svg|45px|link=La Libertad Avanza]]
+![[File:Logo Frente de Izquierda y de Trabajadores-Unidad.svg|45px|link=Workers' Left Front]]
+![[File:Logo Hacemos por nuestro pais.svg|45px|link=:en:Hacemos por Nuestro País]]
+!rowspan=2|Others
+!rowspan=2|No one
+!rowspan=2 style="letter-spacing: -1px;"|Undecided
+!rowspan="2" style="width:25px;"|Lead
+|-
+! data-sort-type="number" style="background:{{party color|Union for the Homeland}};" |
+! data-sort-type="number" style="background:{{party color|Juntos por el Cambio}};" |
+! data-sort-type="number" style="background:{{party color|La Libertad Avanza}};" |
+! data-sort-type="number" style="background:{{party color|Workers' Left Front}};" |
+! data-sort-type="number" style="background:#1273BD" |
+|- style="background:#EFEFEF;"
+|'''22 October 2023'''
+|'''[[2023 Argentine general election|General elections]]'''
+| 
+| bgcolor="lightblue"| '''36.68'''
+| 23.83
+| '''29.98'''
+| 2.70
+| 6.78
+| -
+|
+| -
+|style="background:{{party color|Frente de Todos}}; color:white;" |6.7
+|-
+| colspan="12" style="background:#A0A0A0" |
+|-
+! colspan="2" |14 October 2023
+! colspan="11" |'''Beginning of legal ban on publishing polls and electoral forecasts for the general elections'''
+|-
+|10–13 October 2023
+|Atlas Intel<ref>{{cite web | url=https://www.perfil.com/noticias/actualidad/sondeo-nuevo-estudio-de-atlas-intel-mantiene-a-sergio-massa-con-5-puntos-de-ventaja-sobre-javier-milei.phtml | title=Encuestas: El nuevo sondeo de Atlas Intel mantiene a Massa casi 5 puntos por encima de Milei | date=13 October 2023 }}</ref>
+|5,702
+| bgcolor="lightblue" |'''30.9'''
+|24.4
+|26.5
+|3.2
+|10.0
+| -
+|1.1
+|2.8
+|style="background:{{party color|Frente de Todos}}; color:white;" |4.4
+|-
+|9–12 October 2023
+|Consultora Tendencias<ref>{{cite web | url=https://consultoratendencias.com/encuesta-detalle/?encuesta=90 | title=Consultora Tendencias }}</ref>
+|17,702
+|29.8
+|23.1
+|style="background:#a68fc8; color:black;" |'''30.2'''
+|3.9
+|4.6
+| -
+|2.1
+|6.3
+| style="background:{{party color|La Libertad Avanza}}; color:white;" |0.4
+|-
+|9–11 October 2023
+|Clivajes Consultores<ref name=":18">{{cite web|access-date=13 October 2023|title=El pulso de las encuestas|url=https://www.lanacion.com.ar/politica/como-dan-las-encuestas-en-el-tramo-final-y-decisivo-de-la-campana-presidencial-nid11102023/|website=La Nación|date=13 October 2023 }}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,240
+|31.4
+|26.8
+|style="background:#a68fc8; color:black;" |'''33.1'''
+|2.1
+|3.6
+| -
+| -
+| -
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |1.7
+|-
+|9–11 October 2023
+|Circuitos Consultora<ref>{{cite web|access-date=13 October 2023|title=SITUACIÓN NACIONAL: SONDEO DE OPINIÓN NACIONAL|date=13 October 2023 |url=https://circuitosconsultora.wordpress.com/2023/10/13/situacion-nacional-sondeo-de-opinion-nacional-8/}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,131
+|32.3
+|24.4
+| style="background:#a68fc8; color:black;" |'''34.1'''
+|2.3
+|2.1
+| -
+|1.1
+|2.5
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |1.8
+|-
+|9–11 October 2023
+|CB Consultora<ref>{{cite web|access-date=12 October 2023|title=Una encuesta midió un empate técnico entre Massa y Milei|url=https://www.lapoliticaonline.com/politica/una-encuesta-midio-un-empate-tecnico-entre-massa-y-milei/|website=La Política Online}}<!-- auto-translated by Module:CS1 translator --></ref>
+|4,069
+|29.1
+|21.8
+| style="background:#a68fc8; color:black;" |'''29.9'''
+|6
+|3.4
+| -
+|3.2
+|6.6
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |'''0.8'''
+|-
+|2–11 October 2023
+|Opinaia<ref name=":18" />
+|2,000
+|29
+|22
+| style="background:#a68fc8; color:black;" |'''32'''
+|7
+|3
+| -
+| -
+| -
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |3
+|-
+|8–10 October 2023
+|Atlas Intel<ref>{{cite web | url=https://www.perfil.com/noticias/politica/encuesta-elecciones-2023-massa-primero-bullrich-milei.phtml | title=Encuesta: Massa quedaría primero y hay empate técnico entre Bullrich y Milei | date=12 October 2023 }}</ref>
+|4,248
+| bgcolor="lightblue" |'''30.6'''
+|25
+|25.2
+|3.9
+|11.8
+| -
+|0.7
+|2.1
+|style="background:{{party color|Frente de Todos}}; color:white;" |5.4
+|-
+|7–10 October 2023
+|DC Consultores<ref>{{Cite web | title=Encuesta nacional muestran un balotaje entre Milei y Bullrich - Impulsobaires | url=https://www.impulsobaires.com.ar/nota/310492/encuesta-nacional-muestran-un-balotaje-entre-milei-y-bullrich | archive-url=https://web.archive.org/web/20231012032506/https://www.impulsobaires.com.ar/nota/310492/encuesta-nacional-muestran-un-balotaje-entre-milei-y-bullrich | access-date=2025-04-28 | archive-date=2023-10-12}}</ref>
+|2,700
+|26.2
+|28.9
+|style="background:#a68fc8; color:black;" |'''35.6'''
+|2.7
+|3.4
+| -
+| -
+|3.2
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |6.7
+|-
+|3–9 October 2023
+|Proyección Consultores<ref>{{cite web | url=https://www.iprofesional.com/politica/390718-guerra-de-encuestas-milei-le-gana-a-todos-en-balotaje | title=En la "guerra de encuestas", el balotaje es el único dato unánime: ¿será Milei-Massa o Milei-Bullrich? | date=12 October 2023 }}</ref>
+|2,966
+|30.9
+|23.2
+|style="background:#a68fc8; color:black;" |'''35.5'''
+|3.4
+|2.7
+| -
+| -
+|4.3
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |4.6
+|-
+|5–8 October 2023
+|CIGP<ref>{{cite web|title=Sondeo de opinión – Octubre 2023|url=http://cigp.com.ar/elecciones-generales-octubre-2023/|website=CIGP|date=27 October 2023 }}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,500
+| bgcolor="lightblue" |'''28.1'''
+|20.9
+|27.2
+|5.8
+|1.3
+| -
+|5.9
+|16.7
+|style="background:{{party color|Frente de Todos}}; color:white;" |0.9
+|-
+|30 September–7 October 2023
+|Giacobbe & Asociados<ref>{{cite web | url=https://www.mdzol.com/politica/2023/10/13/una-por-una-que-vaticinan-las-encuestas-una-semana-de-las-elecciones-presidenciales-375955.html | title=Una por una: Qué vaticinan las encuestas a una semana de las elecciones presidenciales }}</ref>
+|2,500
+|28.5
+|27.3
+|style="background:#a68fc8; color:black;" |'''32.9'''
+|4.2
+|3.3
+| -
+| -
+|3.8
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |4.4
+|-
+|2–5 October 2023
+|Fixer<ref name='Una encuesta de Fixer sostiene que Patricia creció después del debate y se acerca a Massa'>{{cite web|access-date=6 October 2023|title=Una encuesta de Fixer sostiene que Patricia creció después del debate y se acerca a Massa|url=https://www.lapoliticaonline.com/politica/una-encuesta-de-fixer-sostiene-que-patricia-crecio-despues-del-debate-y-se-acerca-a-massa/|website=La Politica Online}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,506
+|26.1
+|25.4
+|style="background:#a68fc8; color:black;" |'''34.3'''
+|5.5
+|3.1
+| -
+| -
+| -
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |8.2
+|-
+|3–4 October 2023
+|Zuban Córdoba & Asociados<ref name="Dos encuestas muestran a Massa acercándose a Milei">{{cite web|access-date=6 October 2023|title=Dos encuestas muestran a Massa acercándose a Milei|url=https://www.lapoliticaonline.com/politica/dos-encuestas-muestran-a-massa-acercandose-a-milei/|website=La Politica Online}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,400
+|32.7
+|25.0
+|style="background:#a68fc8; color:black;" |'''34.7'''
+|2.7
+|1.6
+| -
+|0.8
+|1.4
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |2
+|-
+|28 September–3 October 2023
+|Reale Dalla Torre<ref name='A horas del debate: tres nuevas encuestas con números muy llamativos para Milei, Bullrich y Massa'>{{cite news|access-date=1 October 2023|agency=Clarín|date=1 October 2023|title=A horas del debate: tres nuevas encuestas con números muy llamativos para Milei, Bullrich y Massa|url=https://www.clarin.com/politica/horas-debate-nuevas-encuestas-numeros-llamativos-milei-bullrich-massa_0_zPqsC1eLy2.html}}</ref><ref>{{cite web|access-date=2023-10-09|date=2023-10-09|first=Ricardo|language=es|last=Montacuto|title=Encuesta: Milei está a pocos puntos de ganar en primera vuelta|url=https://www.mendozapost.com/politica/apertura-lunes-encuesta-milei-esta-a-pocos-puntos-de-ganar-en-primera-vuelta/|website=www.mendozapost.com}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,615
+|24.7
+|21.8
+|style="background:#a68fc8; color:black;" |'''36.2'''
+|5.0
+|3.8
+| -
+| -
+|8.5
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |11.5
+|-
+|21–29 September 2023
+|Aresco<ref name="Dos encuestas muestran a Massa acercándose a Milei"/>
+|1,200
+|32.1
+|25.9
+|style="background:#a68fc8; color:black;" |'''35.0'''
+|4.7
+|2.3
+| -
+|3.9
+|2.1
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |2.9
+|-
+|25–28 September 2023
+|CB Consultora<ref>{{cite web|access-date=2023-09-29|language=es-ar|last=LPO|title=Otra encuesta vaticina un ballotage entre Milei y Massa|url=https://www.lapoliticaonline.com/politica/otra-encuesta-vaticina-un-ballotage-entre-milei-y-massa/|website=www.lapoliticaonline.com}}<!-- auto-translated by Module:CS1 translator --></ref>
+|4,072
+|28.9
+|23.7
+|style="background:#a68fc8; color:black;" |'''32.2'''
+|3.1
+|2.1
+| -
+|3.8
+|6.2
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |3.3
+|-
+|20–25 September 2023
+|Atlas Intel<ref>{{cite web | url=https://www.perfil.com/noticias/politica/encuesta-massa-crecio-ubica-primero-milei-patricia-bullrich-empate-tecnico.phtml | title=Encuesta: Massa se ubica primero con Milei y Bullrich en un empate técnico | date=29 September 2023 }}</ref>
+|3,778
+| bgcolor="lightblue" |'''30.7'''
+|27.7
+|27.9
+|4.8
+|2.1
+| -
+|1.8
+|3.8
+| style="background:{{party color|Frente de Todos}}; color:white;" |2.8
+|-
+|20–25 September 2023
+|Circuitos Consultora<ref>{{Cite web| title=Circuitos consultora de estudios sociales, políticos y territoriales | language=es | trans-title=Circuits consultant for social, political and territorial studies | url=https://circuitosconsultora.files.wordpress.com/2023/09/sondeo-de-opinion-nacional-28-de-septiembre-de-2023.pdf | archive-url=https://web.archive.org/web/20230928135100/https://circuitosconsultora.files.wordpress.com/2023/09/sondeo-de-opinion-nacional-28-de-septiembre-de-2023.pdf | archive-date=2023-09-28}}</ref>
+|2,188
+|31.2
+|24.8
+|style="background:#a68fc8; color:black;" |'''34.6'''
+|1.9
+|1.8
+| -
+|2.4
+|2.2
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |3.4
+|-
+|14–25 September 2023
+|UdeSA<ref>{{cite web | url=https://www.lapoliticaonline.com/politica/la-universidad-de-san-andres-proyecta-un-ballotage-entre-milei-y-massa-como-escenario-mas-probable/ | title=La Universidad de San Andrés proyecta un ballotage entre Milei y Massa como escenario "más probable" }}</ref>
+|1,000
+|29.8
+|26.4
+|style="background:#a68fc8; color:black;" |'''34.7'''
+|6
+|3
+| -
+|3.8
+| -
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |4.9
+|-
+|22 September 2023
+|Aresco<ref name='Otras tres encuestas afirman Patricia esta tercera y no entra al ballotage' />
+| -
+|30.1
+|23.0
+|style="background:#a68fc8; color:black;" |'''35.5'''
+|2.8
+|2.8
+| -
+|4.2
+|1.6
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |5.4
+|-
+|16–21 September 2023
+|Proyección Consultores<ref name='Otras tres encuestas afirman Patricia esta tercera y no entra al ballotage'>{{cite news|access-date=22 September 2023|agency=LPO|date=22 September 2023|title=Otras tres encuestas afirman Patricia esta tercera y no entra al ballotage|url=https://www.lapoliticaonline.com/politica/otras-tres-encuestas-la-dan-a-patricia-en-el-tercer-lugar/}}</ref>
+|2,260
+|29.1
+|24.2
+|style="background:#a68fc8; color:black;" |'''33.7'''
+|2.6
+|2.3
+| -
+|4.1
+|8.1
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |4.6
+|-
+|11–20 September 2023
+|Opinaia<ref name='Encuesta Nacional: en un hipotético balotaje, cuáles son las chances de Milei, Massa y Bullrich'>{{cite news|access-date=27 September 2023|agency=Perfil|date=27 September 2023|title=Encuesta Nacional: en un hipotético balotaje, cuáles son las chances de Milei, Massa y Bullrich|url=https://www.perfil.com/noticias/politica/encuesta-nacional-javier-milei-gana-en-intencion-de-voto-y-sergio-massa-sin-chances-en-el-balotaje.phtml}}</ref>
+|2,000
+|26
+|23
+|style="background:#a68fc8; color:black;" |'''33'''
+|5
+|3
+| -
+|3
+|7
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |7
+|-
+|9–18 September 2023
+|Giacobbe & Asociados<ref name='Encuesta: Milei escala mientras Patricia Bullrich y Massa pelean por entrar al ballotage'>{{cite news|access-date=29 September 2023|agency=Perfil|date=29 September 2023|title=Encuesta: Milei escala mientras Patricia Bullrich y Massa pelean por entrar al ballotage|url=https://www.perfil.com/noticias/politica/encuesta-milei-escala-patricia-bullrich-massa-pelean-ballotage.phtml}}</ref>
+|2,500
+|27.4
+|27.8
+|style="background:#a68fc8; color:black;" |'''33.9'''
+|3
+|2.5
+| -
+|1.2
+|4.2
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |6.1
+|-
+|1–20 September 2023
+|CELAG<ref name='Panorama político y electoral - Argentina - Septiembre de 2023'>{{cite web|access-date=2023-09-22|date=2023-09-22|language=es|title=Encuesta Argentina, septiembre 2023|url=https://www.celag.org/encuesta-argentina-septiembre-2023/|website=CELAG}}</ref>
+|2,509
+|32.2
+|28.1
+|style="background:#a68fc8; color:black;" |'''33.2'''
+|3.6
+|2.9
+| -
+| -
+| -
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |1
+|-
+|4–10 September 2023
+|Opina Argentina<ref name='Nueva encuesta electoral: cómo están los números de Javier Milei, Patricia Bullrich y Sergio Massa'>{{cite news|access-date=17 September 2023|agency=Clarín|date=17 September 2023|title=Nueva encuesta electoral: cómo están los números de Javier Milei, Patricia Bullrich y Sergio Massa|url=https://www.clarin.com/politica/nueva-encuesta-electoral-numeros-javier-milei-patricia-bullrich-sergio-massa_0_yRCR0ehnPf.html}}</ref>
+|2,359
+|29
+|25
+|style="background:#a68fc8; color:black;" |'''34'''
+|2
+|3
+| -
+|4
+|3
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |5
+|-
+|6–8 September 2023
+|Federico González y Asociados<ref>{{cite web | url=https://www.mdzol.com/politica/2023/9/10/una-encuesta-anticipa-un-balotaje-que-se-define-por-un-minimo-margen-367436.html | title=Una encuesta anticipa un balotaje que se define por un mínimo margen }}</ref>
+|2,400
+|29.4
+|29.7
+|style="background:#a68fc8; color:black;" |'''33.1'''
+|4.0
+|3.9
+| -
+|4.7
+|7.1
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |3.4
+|-
+|3–5 September 2023
+|Analogías<ref name='Una encuesta indica que Sergio Massa se enfrentaría en un balotaje a Javier Milei'>{{cite news|access-date=7 September 2023|agency=Pagina12|date=7 September 2023|title=Una encuesta indica que Sergio Massa se enfrentaría en un balotaje a Javier Milei|url=https://www.pagina12.com.ar/585884-una-encuesta-indica-que-sergio-massa-se-enfrentaria-en-un-ba}}</ref>
+|2,398
+|28.1
+|21.2
+| style="background:#a68fc8; color:black;" |'''31.1'''
+|2.1
+|3.4
+| -
+|2.1
+|11.4
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |3
+|-
+|29 August–4 September 2023
+|Synopsis<ref name='Septiembre de 2023'>{{cite web|access-date=2023-09-22|date=2023-09-22|language=es|title=Encuesta: Pese a la incorporación de Melconian, Patricia sigue afuera del ballotage|url=https://www.lapoliticaonline.com/politica/encuesta-pese-a-la-incorporacion-de-melconian-patricia-sigue-afuera-del-ballotage/|website=La Política Online}}</ref>
+|2,653
+|30.6
+|25.8
+|style="background:#a68fc8; color:black;" |'''36.0'''
+|2.4
+|1.8
+| -
+|0.7
+|2,6
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |5.4
+|-
+|1–3 September 2023
+|Consultora Tendencias<ref name=":16">{{cite web|access-date=2023-09-15|title=Consultora Tendencias|url=https://consultoratendencias.com/encuesta-detalle/?encuesta=88|website=Consultora Tendencias}}<!-- auto-translated by Module:CS1 translator --></ref>
+|25,704
+|28.5
+|22.7
+| style="background:#a68fc8; color:black;" |'''33.2'''
+|2.9
+|4.4
+| -
+|1.9
+|6.4
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |3.7
+|-
+|22–31 August 2023
+|Opinión Lab<ref name="Bullrich baja en intención de voto, pero un sondeo le muestra la luz al final del túnel">{{cite news|access-date=9 September 2023|agency=Todo Noticias|date=9 September 2023|title=Bullrich baja en intención de voto, pero un sondeo le muestra la luz al final del túnel|url=https://tn.com.ar/opinion/2023/09/09/bullrich-baja-en-intencion-de-voto-pero-un-sondeo-le-muestra-la-luz-al-final-del-tunel/}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,006
+|20.5
+|16.1
+|style="background:#a68fc8; color:black;" |'''28.1'''
+|4.0
+|3.0
+| -
+|5.1
+|13.4
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |7.6
+|-
+|22–30 August 2023
+|CEOP<ref>{{cite web | url=https://www.lapoliticaonline.com/politica/segun-una-encuesta-massa-supera-a-patricia-y-entra-al-balotaje-con-milei/ | title=Según una encuesta, Massa supera a Patricia y entra al balotaje con Milei }}</ref>
+|1,441
+|30.6
+|24.8
+|style="background:#a68fc8; color:black;" |'''34.2'''
+|2.2
+|0.8
+| -
+|2.3
+|4.6
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |3.6
+|-
+|13–25 August 2023
+|Opinaia<ref name="Las primeras encuestas post PASO anticipan un ballottage entre Milei y Massa, con Bullrich cerca" />
+|2,000
+|25
+|23
+|style="background:#a68fc8; color:black;" |'''35'''
+|5
+|3
+| -
+|4
+|5
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |10
+|-
+|18–21 August 2023
+|Analogías<ref name="Las primeras encuestas post PASO anticipan un ballottage entre Milei y Massa, con Bullrich cerca">{{cite news|access-date=26 August 2023|agency=La Nacion|date=26 August 2023|title=Las primeras encuestas post PASO anticipan un ballottage entre Milei y Massa, con Bullrich cerca|url=https://www.lanacion.com.ar/politica/las-primeras-encuestas-post-paso-anticipan-un-ballottage-entre-milei-y-massa-con-bullrich-cerca-nid26082023/}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,523
+|26.8
+|20.9
+|style="background:#a68fc8; color:black;" |'''32.1'''
+|3.2
+|4.9
+| -
+|2.3
+|9.9
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |5.3
+|-
+|-
+|16–18 August 2023
+|DC Consultores<ref name="urgente24.com">{{cite web | url=https://urgente24.com/analisis/javier-milei-front-runner-el-muro-massa-y-el-doble-desafio-bullrich-n559572 | title=Milei front runner, el muro de Massa y el doble desafío de Bullrich }}</ref>
+|2,100
+|23.1
+|24.7
+|style="background:#a68fc8; color:black;" |'''34'''
+| -
+| -
+| -
+|2.4
+|15.8
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |9.3
+|-
+|16–17 August 2023
+|OPSA<ref name="clarin.com">{{cite web | url=https://www.clarin.com/politica/nuevas-encuestas-muestran-crecimiento-javier-milei-eleccion-octubre_0_npJJkjfmeS.html | title=Cuatro nuevas encuestas muestran un crecimiento de Javier Milei para la elección de octubre | date=21 August 2023 }}</ref>
+|4,623
+|32.3
+|23.7
+|style="background:#a68fc8; color:black;" |'''38.5'''
+|3.2
+|2.3
+| -
+| -
+| -
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |6.2
+|-
+|14–16 August 2023
+|CB Consultora<ref name="clarin.com"/>
+|4,340
+|28.1
+|25.3
+|style="background:#a68fc8; color:black;" |'''32.3'''
+|3.8
+|1.8
+| -
+|3.2
+|5.4
+|style="background:{{party color|La Libertad Avanza}}; color:white;" |4.2
+|-
+| colspan="12" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|'''13 August 2023'''
+|'''[[2023 Argentine primary elections|Primary elections]]'''
+| -
+|27.27
+|28.27
+| style="background:#a68fc8; color:black;" |'''30.04'''
+|2.65
+|3.83
+|3.03
+|4.78
+| -
+| style="background:{{party color|La Libertad Avanza}}; color:white;" |1.77
+|-
+| colspan="12" style="background:#A0A0A0" |
+|-
+| colspan="2" |5 August 2023
+| colspan="12" |Beginning of legal ban on publishing polls and electoral forecasts for the PASO primary elections
+|-
+|31 July–4 August 2023
+|Atlas Intel<ref name=":15">{{cite web|access-date=2023-08-05|language=en|title=Argentina: National {{!}} Atlas Intelligence|url=https://atlasintel.org/poll/argentina-national-2023-08-04|website=atlasintel.org}}<!-- auto-translated by Module:CS1 translator --></ref>
+|9,517
+|30.8
+| bgcolor="#FFF96E" |'''31.9'''
+|20.8
+|4.4
+|3.4
+|2.9
+|2.4
+|3.5
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |1.1
+|-
+|31 July–3 August 2023
+|Federico González & Asociados<ref name=":13">{{cite web|access-date=2023-08-04|language=Spanish|title=Últimos sondeos en la Provincia: empate técnico con tendencia amarilla|url=https://www.latecla.info/142501--uacuteltimos-sondeos-en-la-provincia-empate-t-eacutecnico-con-tendencia-amarilla|website=www.latecla.info}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,400
+|30.1
+| bgcolor="#FFF96E" |'''36.4'''
+|19.5
+|3.2
+|2.5
+|5
+|3.1
+| -
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |6.3
+|-
+|25 July–2 August 2023
+|Opina Argentina<ref>{{cite web|title=Últimas encuestas para presidente 2023: así están los números camino a las PASO|url=https://www.lanacion.com.ar/politica/ultimas-encuestas-para-presidente-2023-asi-estan-los-numeros-camino-a-las-paso-nid03082023/|website=La Nación|date=3 August 2023 }}<!-- auto-translated by Module:CS1 translator --></ref>
+| 1,404
+|31
+| bgcolor="#FFF96E" |'''32'''
+|20
+|3
+|4
+|2
+|3
+|5
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |1
+|-
+|1 August 2023
+|Opinión Pública Servicios y Mercados<ref name=":14">{{cite web|access-date=2023-08-04|date=2023|language=es-AR|title=Ocho encuestas no se ponen de acuerdo sobre quién gana las PASO a Presidente|url=https://infocielo.com/politica-y-economia/ocho-encuestas-no-se-ponen-acuerdo-quien-gana-las-paso-presidente-n768853|website=www.infocielo.com}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,200
+|29.9
+| bgcolor="#FFF96E" |'''35.6'''
+|17.5
+|2.8
+|5.4
+|1.6
+| -
+|5
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |5.7
+|-
+|24–31 July 2023
+|Giacobbe & Asociados<ref name=":14" />
+|2,500
+|32.2
+| bgcolor="#FFF96E" |'''38'''
+|18.8
+|2.6
+|2.6
+|1.9
+|3.9
+| -
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |5.8
+|-
+|24–31 July 2023
+|Proyección Consultores<ref name=":11">{{cite web|access-date=2023-08-03|date=2023-08-03|language=es|last=Página{{!}}12|title=Massa candidato más votado, Bullrich se lleva la interna y una diferencia de tres puntos entre partidos {{!}} Última encuesta de Proyección|url=https://www.pagina12.com.ar/573773-massa-candidato-mas-votado-bullrich-se-lleva-la-interna-y-un|website=PAGINA12}}<!-- auto-translated by Module:CS1 translator --></ref><ref name=":12">{{cite web|access-date=2023-08-03|language=Spanish|title=Hacia las PASO: según encuesta, dos puntos separan a Kicillof de Juntos por el Cambio|url=https://www.latecla.info/142441-hacia-las-paso-seg-uacuten-encuesta-dos-puntos-separan-a-kicillof-de-juntos-por-el-cambio|website=www.latecla.info}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,130
+|31.1
+| bgcolor="#FFF96E" |'''34.3'''
+|19.1
+|2.4
+|2.2
+|3.7
+|7.2
+| -
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |3.2
+|-
+|25–29 July 2023
+|CB Consultora<ref name=":9">{{cite web|access-date=2023-07-30|date=2023-07-30|language=es|last=Clarín.com|title=Nuevas encuestas: a dos semanas de las PASO, cómo vienen Bullrich, Larreta, Massa y Milei|url=https://www.clarin.com/politica/nuevas-encuestas-semanas-paso-vienen-bullrich-larreta-massa-milei_0_2ZcQbbCYyb.html|website=Clarín}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,985
+|30.4
+| bgcolor="#FFF96E" |'''33'''
+|20.3
+|4.9
+|1.5
+|3.9
+|2.5
+|3.5
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |2.6
+|-
+|24–29 July 2023
+|CIGP<ref>{{cite web | url=https://www.grupolaprovincia.com/politica/elecciones-2023-como-esta-la-pelea-electoral-en-la-nacion-la-provincia-y-la-ciudad-segun-esta-encuesta-1198770 | title=Elecciones 2023: ¿Cómo está la pelea electoral en la Nación, la Provincia y la Ciudad, según esta encuesta? | date=2 August 2023 }}</ref>
+|1,602
+|31.2
+| bgcolor="#FFF96E" |'''36.5'''
+|13.8
+| -
+|2.8
+|5.2
+|4.1
+|6.4
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |5.3
+|-
+|rowspan=3|22–29 July 2023
+|rowspan=3|Hugo Haime Consultora<ref name="Una encuesta de Haime da empate entre Massa y Juntos, pero el peronismo pierde el ballotage">{{cite news|access-date=31 July 2023|agency=LPO|date=31 July 2023|title=Una encuesta de Haime da empate entre Massa y Juntos, pero el peronismo pierde el ballotage|url=https://www.lapoliticaonline.com/politica/una-encuesta-de-haime-da-empate-entre-massa-y-juntos-pero-el-peronismo-pierde-el-ballotage/}}<!-- auto-translated by Module:CS1 translator --></ref>
+|rowspan=3| -
+|32.1
+| bgcolor="FFF96E" |'''32.5'''
+|22
+|4.3
+|2.4
+|0.2
+|3.6
+|2.2
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |0.4
+|-
+| bgcolor="5CDDFF" |'''32.8'''
+|28.1
+|23.3
+|4.2
+|3.3
+| -
+| 5.7
+| 2.3
+| style="background:{{party color|Frente de Todos}}; color:white;" |4.7
+|-
+| bgcolor="5CDDFF" |'''32.3'''
+|27.8
+|24.4
+|5.4
+|2.5
+| -
+| 5.7
+| 1.5
+| style="background:{{party color|Frente de Todos}}; color:white;" |5.5
+|-
+|25–27 July 2023
+|Circuitos<ref name=":7">{{cite web|access-date=2023-07-29|date=2023-07-28|language=es|title=SITUACIÓN NACIONAL: SONDEO DE OPINIÓN NACIONAL|url=https://circuitosconsultora.wordpress.com/2023/07/28/situacion-nacional-sondeo-de-opinion-nacional-6/|website=CIRCUITOS CONSULTORA}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,180
+|30.1
+| bgcolor="FFF96E" |'''34.8'''
+|16.7
+|1.9
+|3.7
+|4
+| -
+|8.8
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |4.7
+|-
+|12–27 July 2023
+|Management & Fit<ref>{{cite web | url=https://www.lapoliticaonline.com/politica/encuesta-larreta-le-gana-por-2-puntos-a-burllich-y-santilli-por-25-a-grindetti/ | title=Encuesta: Larreta le gana por 2 puntos a Bullrich y Santilli por 25 a Grindetti }}</ref>
+|1,800
+|31.7
+| bgcolor="FFF96E" |'''34.7'''
+|17
+|6.6
+|4.4
+|1.2
+|0.7
+|2.9
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |3
+|-
+|23 July 2023
+|CEOP<ref name=":10">{{cite web|access-date=2023-07-24|date=2023-07-23|first=Raúl|language=es|last=Kollmann|title=Encuesta de CEOP: Sergio Massa es el candidato más votado en las PASO {{!}} Escenario parejo por espacio político|url=https://www.pagina12.com.ar/570471-sergio-massa-es-el-candidato-mas-votado-en-un-escenario-elec|website=PAGINA12}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,167
+|28.5
+| bgcolor="FFF96E" |'''30.3'''
+|19.1
+|0.8
+|1.6
+|0.5
+|3.3
+|12.1
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |1.8
+|-
+|20–25 July 2023
+|Políticos en Redes<ref name=":9" />
+|2,237
+|25.2
+| bgcolor="FFF96E" |'''31.2'''
+|23
+|1.8
+|2.5
+|3.2
+|3.3
+|9.8
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |6
+|-
+|17–21 July 2023
+|Federico González & Asociados<ref name="Un candidato consolida su ventaja rumbo a las PASO: cómo se proyecta el voto hacia las generales">{{cite news|access-date=24 July 2023|agency=Cronista|date=24 July 2023|title=Un candidato consolida su ventaja rumbo a las PASO: cómo se proyecta el voto hacia las generales|url=https://www.cronista.com/economia-politica/elecciones-encuesta-un-candidato-consolida-su-ventaja-rumbo-a-las-paso-como-se-proyecta-el-voto-hacia-las-generales/}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,400
+|28
+| bgcolor="FFF96E" |'''34.2'''
+|17.7
+|3.2
+|2.4
+|4.2
+|1.9
+|8.4
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |6.2
+|-
+|14–21 July 2023
+|Nueva Comunicación<ref name=":8">{{cite web|access-date=29 July 2023|title=Encuesta 2023: Larreta se impone en la interna contra Patricia Bullrich y es favorito en el balotaje|url=https://www.alvearvive.com.ar/portal/2023/07/29/encuesta-2023-larreta-se-impone-en-la-interna-contra-patricia-bullrich-y-es-favorito-en-el-balotaje/|website=Alvear Vive|date=29 July 2023 }}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,780
+|28
+| bgcolor="FFF96E" |'''29'''
+|19
+|3
+|4
+|1
+|6
+|10
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |1
+|-
+|rowspan=3|12–21 July 2023
+|rowspan=3|UdeSA<ref>{{cite web|access-date=2023-07-25|date=2023-07-25|language=es|title=Encuestas presidenciales 2023: sondeo arroja leve ventaja de JxC e indecisos en 20%|url=https://www.bloomberglinea.com/2023/07/25/encuestas-presidenciales-2023-sondeo-arroja-leve-ventaja-de-jxc-e-indecisos-en-20/|website=PAGINA12}}<!-- auto-translated by Module:CS1 translator --></ref>
+|rowspan=3|1,003
+|20.7
+| bgcolor="FFF96E" |'''23.7'''
+|15.9
+|6
+|4.4
+| -
+|5.8
+|23.5
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |3
+|-
+| bgcolor="5CDDFF" |'''20.6'''
+|18.5
+|18.5
+|6
+|4.4
+| -
+|5.7
+|26.1
+| style="background:{{party color|Frente de Todos}}; color:white;" |2.1
+|-
+|19
+| bgcolor="FFF96E" |'''23'''
+|12
+|3
+|4
+|3
+|5
+|33
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |4
+|-
+|rowspan=3|15–19 July 2023
+|rowspan=3|Atlas Intel<ref>{{cite web | url=https://www.lanacion.com.ar/politica/una-encuestadora-brasilena-marca-un-empate-tecnico-entre-union-por-la-patria-y-juntos-por-el-cambio-nid22072023/ | title=Una encuestadora brasileña marca un "empate técnico" entre Unión por la Patria y Juntos por el Cambio | date=25 July 2023 }}</ref>
+|rowspan=3|4,848
+| bgcolor="5CDDFF" |'''33.8'''
+| bgcolor="FFF96E" |'''33.8'''
+| 20.1
+| 3.4
+| 2.6
+| 1
+| 0.9
+| 3
+| -
+|-
+| bgcolor="5CDDFF" |'''32.4'''
+| 29
+| 23.4
+| 4.2
+| 4.3
+| -
+| 2.6
+| 3.5
+| style="background:{{party color|Frente de Todos}}; color:white;" |3.4
+|-
+| bgcolor="5CDDFF" |'''31.9'''
+| 23.5
+| 25.2
+| 4.1
+| 4.1
+| -
+| 3.4
+| 4.2
+| style="background:{{party color|Frente de Todos}}; color:white;" |6.7
+|-
+|5–18 July 2023
+|Opinaia<ref name="Elecciones 2023: dos encuestas ponen a JxC al frente de la carrera presidencial y dejan segundo al oficialismo">{{cite news|access-date=22 July 2023|agency=Clarín|date=21 July 2023|title=Elecciones 2023: dos encuestas ponen a JxC al frente de la carrera presidencial y dejan segundo al oficialismo|url=https://www.lanacion.com.ar/politica/elecciones-2023-dos-encuestas-ponen-a-jxc-al-frente-de-la-carrera-presidencial-y-dejan-segundo-al-nid21072023/}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,000
+| 22
+| bgcolor="FFF96E" |'''30'''
+| 22
+| 4
+| 4
+| 6
+| 5
+| 7
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |8
+|-
+|8–12 July 2023
+|UNLaM<ref name="Encuesta: Los argentinos están más preocupados por la inflación que por la inseguridad">{{cite web|access-date=2023-07-16|date=2023-07-16|language=es|last=|title=Encuesta: Los argentinos están más preocupados por la inflación que por la inseguridad|url=https://realpolitik.com.ar/nota/53427/encuesta-los-argentinos-estan-mas-preocupados-por-la-inflacion-que-por-la-inseguridad/|website=realpolitik}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,510
+|31.4
+| bgcolor=#FFF96E |'''33.9'''
+|18.1
+|2.0
+|1.3
+|1.1
+|4.1
+|8.1
+| bgcolor={{party color|Juntos por el Cambio}} |2.6
+|-
+|7 July 2023
+|Patagonia<ref name="Guerra de encuestas previo a las PASO: Massa es el más votado, a cuatro puntos de Bullrich que apenas supera a Larreta">{{cite web|access-date=2023-07-17|date=2023-07-17|language=es|last=|title=Guerra de encuestas previo a las PASO: Massa es el más votado, a cuatro puntos de Bullrich que apenas supera a Larreta|url=https://www.agencianova.com/nota.asp?n=2023_7_16&id=126811&id_tiponota=4|website=Agencia NOVA}}<!-- auto-translated by Module:CS1 translator --></ref>
+| -
+|32.3
+| bgcolor=#FFF96E |'''32.7'''
+|15.8
+|5.9
+|3.7
+|7.5
+| -
+|2.1
+| bgcolor={{party color|Juntos por el Cambio}} |0.4
+|-
+|28 June–7 July 2023
+|Opina Argentina<ref name="Nueva encuesta con números inesperados para la interna Horacio Rodríguez Larreta vs. Patricia Bullrich">{{cite web|access-date=2023-07-14|date=2023-07-14|language=es|last=|title=Nueva encuesta con números inesperados para la interna Horacio Rodríguez Larreta vs. Patricia Bullrich|url=https://www.clarin.com/politica/nueva-encuesta-numeros-inesperados-interna-horacio-rodriguez-larreta-vs-patricia-bullrich_0_W0Ugu6LIRj.html|website=Clarín}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,404
+|29
+| bgcolor=#FFF96E |'''30'''
+|22
+|3
+|4
+|1
+|3
+|7
+| bgcolor={{party color|Juntos por el Cambio}} |1
+|-
+|6 July 2023
+|Federico González & Asociados<ref name="cronista.com">{{cite web | url=https://www.cronista.com/economia-politica/encuesta-midieron-a-17-precandidatos-a-presidente-para-las-paso-confirma-tres-datos-clave-para-las-paso/ | title=Midieron a 17 precandidatos a Presidente para las PASO: Confirma tres datos clave para las primarias | date=6 July 2023 }}</ref>
+|2,400
+| 28.8
+| bgcolor=#FFF96E |'''33.8'''
+| 17.1
+| 1.9
+| 3.4
+| 5.2
+| 2.9
+| 6.9
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |5
+|-
+|1–6 July 2023
+|Zuban Córdoba & Asociados<ref name="zubancordoba.com">{{cite web | url=https://zubancordoba.com/portfolio/informe-nacional-julio-2023/ | title=Informe Nacional Julio 2023 }}</ref>
+| 1,280
+| 27.1
+| bgcolor=#FFF96E |'''29.7'''
+| 24.5
+| 2.3
+| 3.5
+| 1.3
+| 2.3
+| 8.6
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |2.6
+|-
+|1–5 July 2023
+|Clivajes Consultores<ref name="impulsobaires.com.ar">{{cite web | url=https://www.impulsobaires.com.ar/nota/308266/encuesta-juntos-supera-a-uxp-y-rodriguez-larreta-es-el-unico-opositor-que-le-gana-a-massa | title=Encuesta: "Juntos" supera a UxP, y Rodríguez Larreta es el único opositor que le gana a Massa }}</ref>
+| 1,570
+| 30.5
+| bgcolor=#FFF96E |'''33.9'''
+| 18.4
+| 2.6
+| 3.4
+| 4.1
+| 7.1
+| -
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |3.4
+|-
+|June 2023
+|Fixer<ref>{{cite news|access-date=13 June 2023|agency=Mdzol|date=13 June 2023|title=Una encuesta alerta que Javier Milei se hunde y crece Juntos por el Cambio|url=https://www.mdzol.com/politica/2023/6/13/una-encuesta-alerta-que-javier-milei-se-hunde-crece-juntos-por-el-cambio-345170.html}}<!-- auto-translated by Module:CS1 translator --></ref>
+| -
+|27
+| bgcolor=#FFF96E |'''35'''
+|18
+|3
+|2
+| -
+|1
+|12
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |8
+|-
+|2–5 June 2023
+|Consultora Tendencias<ref>{{cite news|access-date=11 June 2023|agency=Consultora Tendencias|date=11 June 2023|title=Nacional - Junio 2023|url=https://consultoratendencias.com/encuesta-detalle/?encuesta=86}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,506
+|22.8
+| bgcolor=#FFF96E |'''23.1'''
+|19.8
+|6.8
+|2.6
+|4.6
+|5.2
+|15.1
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |0.3
+|-
+|rowspan="4" |2–5 June 2023
+|rowspan="4" |Aresco<ref name="Una encuesta muestra un empate en la oposición y le da esperanza a un ministro">{{cite news|agency=La Nación|date=8 June 2023|title=Una encuesta muestra un empate en la oposición y le da esperanza a un ministro|url=https://www.lanacion.com.ar/politica/una-encuesta-muestra-un-empate-en-la-oposicion-y-le-da-esperanza-a-un-ministro-nid08062023/}}<!-- auto-translated by Module:CS1 translator --></ref>
+|rowspan="4" |4,000
+|24.9
+|25.9
+|style="background:#a68fc8; color:black;" |'''27.7'''
+|5.8
+|3
+|3.8
+|4.1
+|4.8
+| style="background:{{party color|La Libertad Avanza}}; color:white;" |1.8
+|-
+|24.2
+| bgcolor=#FFF96E |'''26.5'''
+|24.2
+|5.3
+|3.6
+|6.6
+|4.3
+|5.3
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |2.3
+|-
+|30.3
+| bgcolor=#FFF96E |'''32.6'''
+|25.5
+|3.3
+|2.2
+|2.3
+| -
+|3.8
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |2.3
+|-
+|27.4
+| bgcolor=#FFF96E |'''29.1'''
+|27.6
+|2.6
+|1.5
+|3.3
+| -
+|8.5
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |1.5
+|-
+|11–16 April 2023
+|Zuban Córdoba & Asociados<ref>{{cite web|access-date=2023-04-24|language=es-AR|title=Informe Nacional Abril 2023|url=https://zubancordoba.com/portfolio/informe-nacional-abril-2023/|website=Zuban Córdoba y Asociados}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,300
+| bgcolor="#5CDDFF" |'''28.5'''
+|23.5
+|18
+|4.7
+|2.8
+|7.5
+|
+|14.9
+| style="background:{{party color|Frente de Todos}}; color:white;" |5
+|-
+|rowspan=2|7–15 April 2023
+|rowspan=2|Synopsis<ref name="Una nueva encuesta marcó que Rodríguez Larreta saca ventaja en la interna y queda bien posicionado para el balotaje">{{cite news|access-date=28 April 2023|agency=Infobae|date=28 April 2023|title=Una nueva encuesta marcó que Rodríguez Larreta saca ventaja en la interna y queda bien posicionado para el balotaje|url=https://www.infobae.com/politica/2023/04/28/una-nueva-encuesta-marco-que-rodriguez-larreta-saca-ventaja-en-la-interna-y-queda-bien-posicionado-para-el-balotaje/}}<!-- auto-translated by Module:CS1 translator --></ref>
+|rowspan=2|1,679
+|23.7
+| bgcolor="#FFF96E" |'''26.6'''
+|26.5
+|3.6
+|3.8
+|4.5
+| -
+|11.3
+| style="background:{{party color|Juntos por el Cambio}}"; color:black;" |0.1
+|-
+| bgcolor="#5CDDFF" |'''30'''
+|29.8
+|24.9
+|2.2
+|2.4
+|3.7
+| -
+|7.1
+| style="background:{{party color|Frente de Todos}}; color:white;" |0.2
+|-
+|-
+|5–15 April 2023
+|Opina Argentina<ref name="Salió la primera encuesta tras el corrimiento de Alberto: pelea voto a voto para las presidenciales">{{cite news|access-date=23 April 2023|agency=Clarín|date=23 April 2023|title=Salió la primera encuesta tras el corrimiento de Alberto: pelea voto a voto para las presidenciales|url=https://www.clarin.com/politica/salio-primera-encuesta-corrimiento-alberto-pelea-voto-voto-presidenciales_0_ceWq5oO98Z.html}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,402
+| bgcolor="#5CDDFF" |'''27'''
+| bgcolor="#FFF96E" |'''27'''
+|23
+|5
+|3
+|4
+| -
+|7
+| -
+|-
+| rowspan="4" |27 February–13 April 2023
+| rowspan="4" |Management & Fit<ref name=":0">{{cite web|access-date=2023-04-16|date=2023-04-16|language=es|last=Clarín.com|title=Sorpresa: Larreta encargó una encuesta y en dos escenarios de PASO gana el Frente de Todos|url=https://www.clarin.com/politica/sorpresa-larreta-encargo-encuesta-escenarios-paso-gana-frente_0_FBQdhxAmJr.html|website=Clarín}}<!-- auto-translated by Module:CS1 translator --></ref>
+| rowspan="4" |1,500
+|26.5
+| bgcolor="#FFF96E" |'''27.6'''
+|24.3
+|6.8
+|4.5
+|3.2
+|7.2
+|3
+|style="background:{{party color|Juntos por el Cambio}};"; color:black;"|1.1
+|-
+| bgcolor="#5CDDFF" |'''28.7'''
+|27.4
+|23.9
+|6.3
+|3.8
+|3.2
+|6.6
+|3.1
+| style="background:{{party color|Frente de Todos}}; color:white;" |1.3
+|-
+| bgcolor="#5CDDFF" |'''30.7'''
+|26.5
+|23.7
+|6.8
+|3.9
+|3.2
+|5.8
+|2.7
+| style="background:{{party color|Frente de Todos}}; color:white;" |4.2
+|-
+|21.9
+| bgcolor="#FFF96E" |'''22.2'''
+|14.3
+|6.8
+|4.9
+|3.2
+| -
+|27
+|style="background:{{party color|Juntos por el Cambio}};"; color:black;"|0.3
+|-
+|3–9 April 2023
+|Inteligencia Analitica<ref>{{cite news|access-date=18 April 2023|agency=IProfesional|date=18 April 2023|title=Elecciones 2023: dos nuevas encuestas alarman al Frente de Todos con la posibilidad de quedar tercero|url=https://www.iprofesional.com/politica/380440-elecciones-y-encuesta-el-frente-de-todos-puede-quedar-tercero}}<!-- auto-translated by Module:CS1 translator --></ref>
+|9,754
+|18.7
+| bgcolor="#FFF96E" |'''23.6'''
+|20.8
+| -
+|5.3
+| -
+| -
+|31.6
+| style="background:{{party color|Juntos por el Cambio}}; color:black;" |2.8
+|-
+|rowspan=2|2–4 April 2023
+|rowspan=2|GOP y Trespuntozero<ref name="Una nueva encuesta midió para la PASO presidencial: muy buenas noticias para un candidato y dos candidatas">{{cite news|access-date=5 April 2023|agency=Clarín|date=5 April 2023|title=Una nueva encuesta midió para la PASO presidencial: muy buenas noticias para un candidato y dos candidatas|url=https://www.clarin.com/politica/nueva-encuesta-midio-paso-presidencial-buenas-noticias-candidato-candidatas_0_0Nw36Be4mu.html}}<!-- auto-translated by Module:CS1 translator --></ref>
+|rowspan=2|2,000
+|27.7
+|bgcolor="#FFF96E"|'''36'''
+|19.3
+|1.2
+| -
+| -
+|5.7
+|10.1
+|style="background:{{party color|Juntos por el Cambio}};"; color:black;"|8.3
+|-
+|30
+|bgcolor="#FFF96E"|'''36.6'''
+|19.1
+|1.1
+| -
+| -
+|2.8
+|10.4
+|style="background:{{party color|Juntos por el Cambio}};" color:black;"|6.6
+|-
+|28–31 March 2023
+|Analogías<ref>{{cite news|access-date=11 April 2023|agency=Clarín|date=11 April 2023|title=Alerta por la última encuesta que le llegó a Cristina Kirchner: Javier Milei gana entre los hombres y los jóvenes|url=https://www.clarin.com/politica/alerta-ultima-encuesta-llego-cristina-kirchner-javier-milei-gana-hombres-jovenes_0_OW4ITYNJ6Y.html}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,658
+| bgcolor="#5CDDFF" |'''25.2'''
+|24.5
+|20.7
+| -
+|3.5
+| -
+|5
+|21.1
+|style="background:{{party color|Frente de Todos}}; color:white;"|0.7
+|-
+|22–30 March 2023
+|UdeSA<ref>{{cite web|access-date=2023-04-04|language=es-ES|title=Encuesta refuerza posibilidad de balotaje JxC-Milei|url=https://urgente24.com/actualidad/encuesta-refuerza-posibilidad-balotaje-jxc-milei-n553326|website=Urgente24}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,001
+|15
+|bgcolor="#FFF96E"|'''23'''
+|11
+|4
+|5
+|6
+|4
+|23
+|style="background:{{party color|Juntos por el Cambio}};"; color:black;"|8
+|-
+|27–29 March 2023
+|Federico González & Asociados<ref name="Encuesta: la baja de Mauricio Macri beneficia a Patricia Bullrich y perjudica a Cristina Kirchner">{{cite web|access-date=2023-04-02|date=2023-04-02|language=es|title=Encuesta: la baja de Mauricio Macri beneficia a Patricia Bullrich y perjudica a Cristina Kirchner|url=https://www.perfil.com/noticias/politica/encuesta-baja-mauricio-macri-beneficia-patricia-bullrich-perjudica-cristina-kirchner.phtml|website=Perfil}}<!-- auto-translated by Module:CS1 translator --></ref>
+| 1,800
+| 25.2
+|bgcolor="#FFF96E"|'''31.5'''
+| 15.2
+| 3.3
+| 4.6
+| 4.8
+| 5.3
+| 10.1
+|style="background:{{party color|Juntos por el Cambio}};"; color:black;"|6.3
+|-
+|rowspan=2|March 2023
+|rowspan=2|Poliarquia<ref name="Alerta para Horacio Rodríguez Larreta: encargó una encuesta y aparecen el Frente de Todos y Javier Milei arriba">{{cite news|access-date=31 March 2023|agency=Clarín|date=31 March 2023|title=Alerta para Horacio Rodríguez Larreta: encargó una encuesta y aparecen el Frente de Todos y Javier Milei arriba|url=https://www.clarin.com/politica/alerta-horacio-rodriguez-larreta-encargo-encuesta-aparecen-frente-javier-milei-arriba_0_xNswuCIxdX.html}}<!-- auto-translated by Module:CS1 translator --></ref>
+|rowspan=2| -
+|bgcolor="#5CDDFF"|'''27'''
+| 25
+| 23
+| 5
+| -
+| 2
+| -
+| 18
+|style="background:{{party color|Frente de Todos}}; color:white;"|2
+|-
+|bgcolor="#5CDDFF"|'''35'''
+| 33
+| 23
+| 3
+| 3
+| -
+| -
+| -
+|style="background:{{party color|Frente de Todos}}; color:white;"|2
+|-
+|14–23 March 2023
+|Opinaia<ref name="Encuesta Opinaia : quiénes se quedan con los votos de Mauricio Macri y Cristina Fernández de Kirchner">{{cite news|access-date=2 April 2023|agency=Fenix|date=2 April 2023|title=Encuesta Opinaia : quiénes se quedan con los votos de Mauricio Macri y Cristina Fernández de Kirchner|url=http://fenix951.com.ar/nuevo_2013/noticia.php?id=246570}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,000
+| 20
+|bgcolor="#FFF96E"|'''29'''
+| 20
+| 3
+| 4
+| -
+| 5
+| 19
+|style="background:{{party color|Juntos por el Cambio}}; color:black;"|9
+|-
+|13–18 March 2023
+|Consultora Tendencias<ref name="Nacional - Marzo 2023">{{cite web|access-date=2023-03-27|date=2023-03-27|language=es|title=Nacional - Marzo 2023|url=https://consultoratendencias.com/encuesta-detalle/?encuesta=78|website=Consultora Tendencias}}<!-- auto-translated by Module:CS1 translator --></ref>
+|8,206
+| 27,5
+|bgcolor="#FFF96E"|'''30.6'''
+| 18.5
+| 6.2
+| 2.4
+| 0.4
+| 4.5
+| 9.9
+|style="background:{{party color|Juntos por el Cambio}}; color:black;"|3.1
+|-
+|8–16 March 2023
+|Synopsis<ref>{{cite web|access-date=2023-03-25|date=2023-03-24|language=es|title=Encuesta: Larreta sería el único que le ganaría al FdT en una segunda vuelta|url=https://www.perfil.com/noticias/politica/encuesta-horacio-rodriguez-larreta-seria-unico-candidato-ganaria-fdt-segunda-vuelta.phtml|website=Perfil}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,643
+| 23.4
+|bgcolor="#FFF96E"|'''27.4'''
+| 14.6
+| 5.3
+| 9.2
+| -
+| -
+| -
+|style="background:{{party color|Juntos por el Cambio}}; color:black;"|4
+|-
+|6–13 March 2023
+|Clivajes Consultores<ref name="¿Qué quieren los votantes más jóvenes?: la nueva encuesta que sorprende a Milei y a Cristina">{{cite news|access-date=17 March 2023|agency=IProfesional|date=18 March 2023|title=¿Qué quieren los votantes más jóvenes?: la nueva encuesta que sorprende a Milei y a Cristina|url=https://www.iprofesional.com/politica/378903-a-quien-votan-los-jovenes-esta-encuesta-sorprende-a-milei-y-cfk}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,395
+| 26.7
+| 20.8
+|bgcolor=#a68fc8|'''28.4'''
+| -
+| -
+| -
+| -
+| 24.1
+|style="background:{{party color|La Libertad Avanza}}; color:white;"|1.7
+|-
+|14–28 Feb 2023
+|Management & Fit<ref>{{cite news|access-date=7 March 2023|agency=Infobae|date=7 March 2023|title=Según una encuesta, el 66% de la sociedad votará este año pensando en un cambio de gobierno|url=https://www.infobae.com/encuestas/2023/03/07/segun-una-encuesta-el-66-de-la-sociedad-votara-este-ano-pensando-en-un-cambio-de-gobierno/}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,200
+| 23.6
+|bgcolor="#FFF96E"|'''25.7'''
+| 20.4
+| -
+| -
+| 14.3
+| -
+| 16
+|style="background:{{party color|Juntos por el Cambio}}; color:black;"|2.1
+|-
+|rowspan=2|18–27 Feb 2023
+|rowspan=2|Opina Argentina<ref name="Encuestas 2023: paridad entre Juntos por el Cambio y el Frente de Todos con Milei en ascenso">{{cite news|access-date=9 March 2023|agency=eldestape|date=9 March 2023|title=Encuestas 2023: paridad entre Juntos por el Cambio y el Frente de Todos con Milei en ascenso|url=https://www.eldestapeweb.com/politica/frente-de-todos/encuesta-paridad-entre-juntos-por-el-cambio-y-el-frente-de-todos-con-milei-en-ascenso-2023390528}}<!-- auto-translated by Module:CS1 translator --></ref>
+|rowspan=2|1,250
+|bgcolor="#5CDDFF"|'''27'''
+|bgcolor="#FFF96E"|'''27'''
+| 24
+| 4
+| 5
+| -
+| 5
+| 8
+| -
+|-
+| 28
+|bgcolor="#FFF96E"|'''32'''
+| 22
+| 4
+| 3
+| 1
+| 2
+| 7
+|style="background:{{party color|Juntos por el Cambio}}; color:black;"|4
+|-
+|12–17 Feb 2023
+|IPD<ref name="Sorpresa: una encuesta ya midió en un balotaje presidencial a Larreta, Bullrich, Massa y Kicillof">{{cite news|access-date=8 March 2023|agency=Clarín|date=8 March 2023|title=Sorpresa: una encuesta ya midió en un balotaje presidencial a Larreta, Bullrich, Massa y Kicillof|url=https://www.clarin.com/politica/sorpresa-encuesta-midio-balotaje-presidencial-larreta-bullrich-massa-kicillof_0_bdu1cXBMsu.html}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,004
+| 27
+|bgcolor="#FFF96E"|'''31'''
+| 18
+| 5
+| 7
+| -
+| -
+| 9
+|style="background:{{party color|Juntos por el Cambio}}; color:black;"|4
+|-
+|rowspan=2|10–16 Feb 2023
+|rowspan=2|Solmoirago<ref>{{cite news|access-date=28 February 2023|agency=Mdz|date=28 February 2023|title=Una encuesta reveló si Juntos por el Cambio puede ganar las elecciones|url=https://www.mdzol.com/politica/2023/2/28/una-encuesta-revelo-si-juntos-por-el-cambio-puede-ganar-las-elecciones-318095.html}}<!-- auto-translated by Module:CS1 translator --></ref>
+|rowspan=2|2,200
+| 29.9
+|bgcolor="#FFF96E"|'''40.6'''
+| 18
+| 2.7
+| -
+| -
+| -
+| 8.7
+|style="background:{{party color|Juntos por el Cambio}}; color:black;"|10.7
+|-
+| 26.6
+|bgcolor="#FFF96E"|'''29.9'''
+| 14.2
+| 2,5
+| -
+| -
+| -
+| 27
+|style="background:{{party color|Juntos por el Cambio}}; color:black;"|3.3
+|-
+|6–10 Feb 2023
+|CIGP<ref name='"Javier Milei, ¿por adentro o afuera de Juntos por el Cambio? Opinan los votantes de la oposición'>{{cite news|access-date=24 February 2023|agency=Cronista|date=24 February 2023|title=Javier Milei, ¿por adentro o afuera de Juntos por el Cambio? Opinan los votantes de la oposición|url=https://www.cronista.com/economia-politica/javier-milei-por-adentro-o-afuera-de-juntos-por-el-cambio-opinan-los-votantes-de-la-oposicion/}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,408
+| 25.6
+|bgcolor="#FFF96E"|'''30.8'''
+| 10.8
+| -
+| -
+| 5.4
+| 12.7
+| 9.6
+|style="background:{{party color|Juntos por el Cambio}}; color:black;"|5.2
+|-
+|5–7 Feb 2023
+|Opinaia<ref name="Una nueva encuesta midió PASO para la presidencial: sin Cristina, resultados muy llamativos">{{cite news|access-date=5 March 2023|agency=Clarín|date=5 March 2023|title=Una nueva encuesta midió PASO para la presidencial: sin Cristina, resultados muy llamativos|url=https://www.clarin.com/politica/nueva-encuesta-midio-paso-presidencial-cristina-resultados-llamativos_0_9OD1iVt8QA.html}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,100
+| 24
+|bgcolor="#FFF96E"|'''27'''
+| 24
+| 3
+| 4
+| -
+| -
+| 18
+|style="background:{{party color|Juntos por el Cambio}}; color:black;"|3
+|-
+|2–5 Feb 2023
+|Opina Argentina<ref name="Alerta en el Frente de Todos: una encuesta lo pone 12 puntos abajo de Juntos por el Cambio para la PASO">{{cite news|access-date=28 February 2023|agency=Clarín|date=28 February 2023|title=Alerta en el Frente de Todos: una encuesta lo pone 12 puntos abajo de Juntos por el Cambio para la PASO|url=https://www.clarin.com/politica/alerta-frente-encuesta-pone-12-puntos-abajo-juntos-cambio-paso_0_0PEOAWjqU6.html}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,100
+| 26
+|bgcolor="#FFF96E"|'''33'''
+| 19
+| 3
+| -
+| 5
+| 4
+| 11
+|style="background:{{party color|Juntos por el Cambio}}; color:black;"|7
+|-
+|23 Jan–3 Feb 2023
+|Opinaia<ref name="La encuesta que celebran los libertarios de Milei">{{cite news|access-date=11 February 2023|agency=Urgente24|date=10 February 2023|title=La encuesta que celebran los libertarios de Milei|url=https://urgente24.com/actualidad/la-encuesta-que-celebran-los-libertarios-milei-n551011}}<!-- auto-translated by Module:CS1 translator --></ref>
+|2,000
+| 24
+|bgcolor="#FFF96E"|'''31'''
+| 24
+| 2
+| 3
+| -
+| -
+| 16
+|style="background:{{party color|Juntos por el Cambio}}; color:black;"|7
+|-
+|16–22 Jan 2023
+|Zuban Córdoba & Asociados<ref>{{cite news|access-date=27 February 2023|agency=Urgente24|date=27 February 2023|title=Los desoídos de siempre: Una encuesta alerta por el voto joven|url=https://urgente24.com/actualidad/los-desoidos-siempre-una-encuesta-alerta-el-voto-joven-n551635}}<!-- auto-translated by Module:CS1 translator --></ref>
+|1,300
+|bgcolor="#5CDDFF"|'''30.3'''
+| 23
+| 23.2
+| -
+| 4.8
+| 7.9
+| -
+| 10.8
+|style="background:{{party color|Frente de Todos}}; color:white;"|7.1
+|-
+|rowspan=2|19 Jan 2023
+|rowspan=2|Aresco<ref name="Encuesta: Juntos llega más fortalecido para un eventual balotaje">{{cite news|access-date=25 January 2023|agency=Infoplatense|date=22 January 2023|title=Encuesta: Juntos llega más fortalecido para un eventual balotaje|url=https://www.infoplatense.com.ar/nota/2023-1-22-11-5-0-encuesta-juntos-llega-mas-fortalecido-para-un-eventual-balotaje}}<!-- auto-translated by Module:CS1 translator --></ref>
+|rowspan=2|4,000
+| 25.4
+|bgcolor="#FFF96E"|'''28.6'''
+| 22.3
+| 4
+| 5.2
+| 4.3
+| 3.7
+| 6.5
+|style="background:{{party color|Juntos por el Cambio}}" color:black;" |3.2
+|-
+|bgcolor="#5CDDFF"|'''29.8'''
+| 29.5
+| 18.8
+| 2.8
+| 5.3
+| 5.8
+| 3.5
+| 4.5
+|style="background:{{party color|Frente de Todos}}; color:white;" |0.3
+|-
+|rowspan=2|11–17 Jan 2023
+|rowspan=2|Solmoraigo<ref name="Encuesta de Solmoirago: Massa supera el techo de Cristina, y Milei sería el más votado en las PASO">{{cite news|access-date=25 January 2023|agency=Fenix La Rioja|date=23 January 2023|title=Encuesta de Solmoirago: Massa supera el techo de Cristina, y Milei sería el más votado en las PASO|url=http://fenix951.com.ar/nuevo_2013/noticia.php?id=241288}}<!-- auto-translated by Module:CS1 translator --></ref>
+|rowspan=2|2,200
+| 29.1
+|bgcolor="#FFF96E"|'''37.3'''
+| 19.5
+| 1.8
+| -
+| -
+| -
+| 12.3
+|style="background:{{party color|Juntos por el Cambio}}; color:black;" |8.2
+|-
+| 29.3
+|bgcolor="#FFF96E"|'''41.1'''
+| 18.1
+| 2.8
+| -
+| -
+| -
+| 8.7
+|style="background:{{party color|Juntos por el Cambio}}" color:black;" |11.8
+|-
+|rowspan=2|26 Dec 2022–3 Jan 2023
+|rowspan=2|Raúl Aragón & Asociados<ref name="Estudio de Opinión Pública">{{cite news|access-date=15 January 2023|agency=Raúl Aragón & Asociados|date=5 January 2023|title=Estudio de Opinión Pública|url=https://drive.google.com/file/d/1JJmhhPZfRsxPQbS2cEr5F5Q80r8GSVG-/view}}<!-- auto-translated by Module:CS1 translator --></ref>
+|rowspan=2|1,500
+| 24.8
+|bgcolor="#FFF96E"|'''29.1'''
+| 18.3
+| 3.7
+| -
+| 7.3
+| 8.1
+| 8.7
+|style="background:{{party color|Juntos por el Cambio}}"; color:black;" |4.3
+|-
+| 23.5
+|bgcolor="#FFF96E"|'''34.3'''
+| 17.2
+| 3.3
+| -
+| 7.8
+| 6.8
+| 7.1
+|style="background:{{party color|Juntos por el Cambio}}"; color:black;" |10.8
+|}
+
+==== 2021–2022 ====
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="2" |Fieldwork date
+! rowspan="2" |Polling firm
+! rowspan="2" |Sample
+! class="unsortable" style="width:30px;" |[[File:Frente de Todos logo.svg|35px|link=Frente de Todos|FdT]]
+! class="unsortable" style="width:30px;" |[[File:Juntos-Por-El-Cambio-Logo.svg|35px|link=Juntos por el Cambio|JxC]]
+! class="unsortable" style="width:30px;" | 
+! class="unsortable" style="width:30px;" |[[File:Logo Frente de Izquierda y de Trabajadores-Unidad.svg|35px|link=Workers' Left Front|FIT-U]]
+! rowspan="2" |Others
+! rowspan="2" |No<br/>one
+! rowspan="2" |Undecided
+! rowspan="2" |Lead
+|-
+! data-sort-type="number" style="background:{{party color|Frente de Todos}};" |
+! data-sort-type="number" style="background:{{party color|Juntos por el Cambio}};" |
+! data-sort-type="number" style="background:{{party color|La Libertad Avanza}};" |
+! data-sort-type="number" style="background:{{party color|Workers' Left Front}};" |
+|-
+|Dec 2022
+|Opina Argentina<ref name="Nueva encuesta: cómo está la pelea Cristina vs. Massa y Larreta vs. Bullrich para las PASO presidenciales">{{cite news|access-date=10 January 2023|agency=Clarín|date=10 January 2023|title=Nueva encuesta: cómo está la pelea Cristina vs. Massa y Larreta vs. Bullrich para las PASO presidenciales|url=https://www.clarin.com/politica/nueva-encuesta-pelea-cristina-vs-massa-larreta-vs-bullrich-paso-presidenciales_0_NxIFw2XLvS.html}}<!-- auto-translated by Module:CS1 translator --></ref>
+| 1,100
+| 25
+|bgcolor="#FFF96E"|'''34'''
+| 19
+| 4
+| 5
+| 5
+| 8
+|style="background:{{party color|Juntos por el Cambio}} |9
+|-
+|{{Opdrts|26|28|Dec|2022|year}}
+|GOP y Trespuntozero{{citation needed|date=April 2023}}
+|1,300
+| 30
+|bgcolor="#FFF96E"|'''36.1'''
+| 17.6
+| 1.3
+| –
+| 6.3
+| 8.7
+|style="background:{{party color|Juntos por el Cambio}}" |6.1
+|-
+|{{Opdrts|12|24|Nov|2022|year}}
+|Opinaia<ref name="Una nueva encuesta midió PASO: arrasa Javier Milei, gana Cristina Kirchner y sorprende Mauricio Macri">{{cite news|access-date=4 January 2023|agency=Clarín|date=4 January 2023|title=Una nueva encuesta midió PASO: arrasa Javier Milei, gana Cristina Kirchner y sorprende Mauricio Macri|url=https://www.clarin.com/politica/nueva-encuesta-midio-paso-arrasa-javier-milei-gana-cristina-kirchner-sorprende-mauricio-macri_0_0XjTHoJqFX.html}}<!-- auto-translated by Module:CS1 translator --></ref>
+| 2,000
+| 24
+|bgcolor="#FFF96E"|'''31'''
+| 23
+| 3
+| 6
+| –
+| 13
+|style="background:{{party color|Juntos por el Cambio}} |7
+|-
+|{{Opdrts|13|21|Dec|2022|year}}
+|Management & Fit<ref>{{cite news|access-date=27 December 2022|agency=Clarín|date=26 December 2022|title=Nueva encuesta electoral: el oficialismo cae fuerte y entra en zona roja para el balotaje|url=https://www.clarin.com/politica/nueva-encuesta-electoral-oficialismo-cae-fuerte-entra-zona-roja-balotaje_0_yUduuuHByU.html}}<!-- auto-translated by Module:CS1 translator --></ref>
+| 2,200
+| 24.7
+|bgcolor="#FFF96E"|'''29.1'''
+| 24
+| –
+| 5.4
+| –
+| 16.8
+|style="background:{{party color|Juntos por el Cambio}}" |4.4
+|-
+|rowspan=3 {{Opdrts|11|17|Dec|2022|year}}
+|rowspan=3|Solmoirago<ref name="Una encuesta ya da primero a Milei pero ganaría Juntos el ballotage">{{cite news|access-date=4 January 2023|agency=LaPoliticaOnline|date=30 December 2022|title=Una encuesta ya da primero a Milei pero ganaría Juntos el ballotage|url=https://www.lapoliticaonline.com/politica/una-encuesta-ya-da-primero-a-milei-pero-ganaria-juntos-el-ballotage/}}<!-- auto-translated by Module:CS1 translator --></ref>
+|rowspan=3|2,200
+| 28.4
+|bgcolor="#FFF96E"|'''32.9'''
+| 19.7
+| 1.2
+| –
+| –
+| 17.8
+|style="background:{{party color|Juntos por el Cambio}} |4.5
+|-
+| 29.6
+|bgcolor="#FFF96E"|'''33.3'''
+| 21.5
+| 1.1
+| –
+| –
+| 14.5
+|style="background:{{party color|Juntos por el Cambio}}" |3.7
+|-
+| 27.4
+|bgcolor="#FFF96E"|'''38.6'''
+| 18.9
+| 1.2
+| –
+| –
+| 13.9
+|style="background:{{party color|Juntos por el Cambio}}  |11.2
+|-
+|rowspan=2 {{Opdrts|13|16|Dec|2022|year}}
+|rowspan=2|IPD<ref name="Una nueva encuesta midió PASO, primera vuelta y balotaje, con y sin Cristina Kirchner: resultados llamativos">{{cite news|access-date=3 January 2023|agency=Clarín|date=3 January 2023|title=Una nueva encuesta midió PASO, primera vuelta y balotaje, con y sin Cristina Kirchner: resultados llamativos|url=https://www.clarin.com/politica/nueva-encuesta-midio-paso-primera-vuelta-balotaje-cristina-kirchner-resultados-llamativos_0_47H60mLSmj.html}}<!-- auto-translated by Module:CS1 translator --></ref>
+|rowspan=2|1,015
+| 25
+|bgcolor="#FFF96E"|'''36'''
+| 22
+| 5
+| –
+| 3
+| 9
+|style="background:{{party color|Juntos por el Cambio}}  |11
+|-
+| 33
+|bgcolor="#FFF96E"|'''35'''
+| 20
+| 4
+| –
+| 2
+| 6
+|style="background:{{party color|Juntos por el Cambio}}   |2
+|-
+|{{Opdrts|14|17|Nov|2022|year}}
+|IPD<ref name="Nueva encuesta electoral: llamativa paridad entre cuatro candidatos de la grieta y Javier Milei">{{Cite news |date=4 December 2022 |title=Nueva encuesta electoral: llamativa paridad entre cuatro candidatos de la grieta y Javier Milei |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–electoral–llamativa–paridad–candidatos–grieta–javier–milei_0_s3RSteqy3C.html |access-date=4 December 2022}}</ref>
+|1,030
+|33
+| bgcolor="#FFF96E" |'''35'''
+|18
+|4
+|4
+|2
+|4
+| style="background:{{party color|Juntos por el Cambio}}" |2
+|-
+|{{Opdrts|10|16|Nov|2022|year}}
+|Solmoraigo<ref name="Arde la interna en Juntos por el Cambio: una nueva encuesta enfrentó a sus cinco principales candidatos para 2023">{{Cite news |date=29 November 2022 |title=Arde la interna en Juntos por el Cambio: una nueva encuesta enfrentó a sus cinco principales candidatos para 2023 |agency=Clarín |url=https://www.clarin.com/politica/arde–interna–juntos–cambio–nueva–encuesta–enfrento–principales–candidatos–2023_0_wGUFwpHSeU.html |access-date=29 November 2022}}</ref>
+|1,800
+|23.5
+| bgcolor="#FFF96E" |'''34'''
+|14.8
+|1.4
+|6.6
+| –
+|19.7
+| style="background:{{party color|Juntos por el Cambio}}" |10.5
+|-
+|{{Opdrts|8|10|Nov|2022|year}}
+|Opina Argentina<ref name="Una nueva encuesta midió internas para 2023: quiénes ganaron en Juntos por el Cambio y el Frente de Todos">{{Cite news |date=21 November 2022 |title=Una nueva encuesta midió internas para 2023: quiénes ganaron en Juntos por el Cambio y el Frente de Todos |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–midio–internas–2023–ganaron–juntos–cambio–frente_0_3DPP6V9nir.html |access-date=21 November 2022}}</ref>
+|1,100
+|29
+| bgcolor="#FFF96E" |'''36'''
+|16
+|4
+|6
+|3
+|6
+| style="background:{{party color|Juntos por el Cambio}}" |7
+|-
+|{{Opdrts|31|3|Nov|2022|year}}
+|Management & Fit<ref>{{Cite news |date=9 November 2022 |title=La peor encuesta para el Gobierno: alto rechazo y preocupación por el impacto del Mundial |agency=Cronista |url=https://www.cronista.com/economia–politica/la–peor–encuesta–para–el–gobierno–alto–rechazo–y–preocupacion–por–el–impacto–del–mundial/ |access-date=9 November 2022}}</ref>
+|2,200
+|25
+| bgcolor="#FFF96E" |'''30.2'''
+|21.5
+|3.8
+|7.8
+|4
+|7.7
+| style="background:{{party color|Juntos por el Cambio}}" |5.2
+|-
+|{{Opdrts|20|29|Oct|2022|year}}
+|Opinaia<ref name="Sorpresa: en una nueva encuesta, Javier Milei le sacó 9 puntos a Cristina como los más votados para 2023">{{Cite news |date=3 November 2022 |title=Sorpresa: en una nueva encuesta, Javier Milei le sacó 9 puntos a Cristina como los más votados para 2023 |agency=Clarín |url=https://www.clarin.com/politica/sorpresa–nueva–encuesta–javier–milei–saco–9–puntos–cristina–votados–2023_0_4shsi773Ou.html |access-date=3 November 2022}}</ref>
+|2,000
+|24
+| bgcolor="#FFF96E" |'''30'''
+|23
+|2
+|5
+| –
+|16
+| style="background:{{party color|Juntos por el Cambio}}" |6
+|-
+|{{Opdrts|24|28|Oct|2022|year}}
+|PGD Consultores<ref>{{Cite news |date=30 October 2022 |title=Sondeo Octubre |agency=PGD Consultores |url=https://pgdconsultores.com/monitor–digital–de–opinion–publica–nacional–octubre–2022/#page–content |access-date=31 October 2022}}</ref>
+|2,400
+|25
+| bgcolor="#FFF96E" |'''35'''
+|18
+| –
+|9
+| –
+|13
+| style="background:{{party color|Juntos por el Cambio}}" |10
+|-
+|{{Opdrts|17|21|Oct|2022|year}}
+|CIGP Consultora<ref>{{Cite news |date=27 October 2022 |title=Una encuesta midió internas para 2023: arrasó Cristina Kirchner y hubo un empate incómodo para Javier Milei |agency=Clarín |url=https://www.clarin.com/politica/encuesta–midio–internas–2023–arraso–cristina–kirchner–empate–incomodo–javier–milei_0_hFFRAeWI1S.html |access-date=27 October 2022}}</ref>
+|2,400
+|23.2
+| bgcolor="#FFF96E" |'''29.7'''
+|15
+| –
+|8.8
+|9.7
+|13.5
+| style="background:{{party color|Juntos por el Cambio}}" |6.5
+|-
+|{{Opdrts|13|19|Oct|2022|year}}
+|Solmoirago<ref>{{Cite news |date=24 October 2022 |title=Casi un tercio de la gente quiere un partido político nuevo que no sea Juntos por el Cambio ni el Frente de Todos |agency=Perfil |url=https://www.perfil.com/noticias/politica/casi–un–tercio–de–los–encuestados–quiere–un–partido–politico–nuevo–por–fuera–de–jxc–y–el–frente–de–todos.phtml |access-date=24 October 2022}}</ref>
+|1,800
+|22.8
+| bgcolor="#FFF96E" |'''33.4'''
+|16.3
+|2.3
+|4.2
+| –
+|21
+| style="background:{{party color|Juntos por el Cambio}}" |10.6
+|-
+|{{Opdrts|9|16|Oct|2022|year}}
+|Ricardo Rouvier & Asociados<ref name="ENCUESTA NACIONAL – OCTUBRE">{{Cite news |date=19 October 2022 |title=ENCUESTA NACIONAL – OCTUBRE |agency=Ricardo Rouvier & Asociados |url=https://www.facebook.com/ricardorouvieryasociados/posts/pfbid02xwSxgsbMauXVJo7Yc7Shvz7KBJAziMh1KVrpFG2MZ4uogSeBhXBiRVqpxgUCJxjYl |access-date=20 October 2022}}</ref>
+|1,200
+|26.9
+| bgcolor="#FFF96E" |'''38'''
+|14
+|4.7
+|1.9
+|6.2
+|8.3
+| style="background:{{party color|Juntos por el Cambio}}" |11.1
+|-
+|{{Opdrts|10|14|Oct|2022|year}}
+|Reale Dalla Torre<ref name="Una nueva encuesta ya midió balotajes para 2023: Macri, Larreta y Bullrich vs. Cristina y Massa">{{Cite news |date=24 October 2022 |title=Una nueva encuesta ya midió balotajes para 2023: Macri, Larreta y Bullrich vs. Cristina y Massa |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–midio–balotajes–2023–macri–larreta–bullrich–vs–cristina–massa_0_9vD3abZrla.html |access-date=24 October 2022}}</ref>
+|1,250
+|29.1
+| bgcolor="#FFF96E" |'''37.6'''
+|22
+|2.7
+|0.1
+| –
+|8.5
+| style="background:{{party color|Juntos por el Cambio}}" |8.5
+|-
+|{{Opdrts|10|14|Oct|2022|year}}
+|IPD<ref name="Sorpresa: por primera vez, una encuesta lo muestra a Javier Milei entrando a un balotaje">{{Cite news |date=23 October 2022 |title=Sorpresa: por primera vez, una encuesta lo muestra a Javier Milei entrando a un balotaje |agency=Clarín |url=https://www.clarin.com/politica/sorpresa–primera–vez–encuesta–muestra–javier–milei–entrando–balotaje_0_5xPiCKjVrQ.html |access-date=23 October 2022}}</ref>
+|1,043
+|29
+| bgcolor="#FFF96E" |'''34'''
+|19
+|5
+|3
+|3
+|7
+| style="background:{{party color|Juntos por el Cambio}}" |5
+|-
+|{{Opdrts|6|10|Oct|2022|year}}
+|Giacobbe & Asociados<ref>{{Cite news |date=25 October 2022 |title=Para Giacobbe, los libertarios de Milei están segundos y tercero el Frente de Todos |agency=Los Andes |url=https://www.losandes.com.ar/politica/para–giacobbe–los–libertarios–de–milei–estan–segundos–y–tercero–el–frente–de–todos/ |access-date=25 October 2022}}</ref>
+|2,500
+|15.5
+| bgcolor="#FFF96E" |'''32.8'''
+|23.6
+|2.1
+|4.6
+| –
+|21.4
+| style="background:{{party color|Juntos por el Cambio}}" |9.2
+|-
+|Sep 2022
+|Aresco<ref>{{Cite news |date=25 September 2022 |title=Una nueva encuesta recalienta la interna del PRO: Larreta vs. Macri vs. Bullrich |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–recalienta–interna–pro–larreta–vs–macri–vs–bullrich_0_vKWe1hy7Zz.html |access-date=25 September 2022}}</ref>
+|1,200
+|32.2
+| bgcolor="#FFF96E" |'''35'''
+|19.1
+| –
+|9
+|1
+|3.7
+| style="background:{{party color|Juntos por el Cambio}}" |2.8
+|-
+|{{Opdrts|5|28|Sep|2022|year}}
+|Management & Fit<ref name="La guerra de encuestas, sin freno: tres nuevos estudios con números muy diferentes para 2023">{{Cite news |date=11 October 2022 |title=La guerra de encuestas, sin freno: tres nuevos estudios con números muy diferentes para 2023 |agency=Clarín |url=https://www.clarin.com/politica/guerra–encuestas–freno–nuevos–estudios–numeros–diferentes–2023_0_Bzq9XEMLaY.html |access-date=11 October 2022}}</ref>
+|1,800
+|27
+| bgcolor="#FFF96E" |'''32.9'''
+|8.9
+|5.8
+|11.3
+| –
+|9.3
+| style="background:{{party color|Juntos por el Cambio}}" |5.9
+|-
+|{{Opdrts|22|26|Sep|2022|year}}
+|Fixer<ref name="La guerra de encuestas, sin freno: tres nuevos estudios con números muy diferentes para 2023" />
+|1,446
+|25
+| bgcolor="#FFF96E" |'''45'''
+|17
+|2
+| –
+| –
+|11
+| style="background:{{party color|Juntos por el Cambio}}" |20
+|-
+|{{Opdrts|12|22|Sep|2022|year}}
+|Opinaia<ref name="Nueva encuesta electoral: Javier Milei toca su récord y hay empate del Frente de Todos y Juntos por el Cambio">{{Cite news |date=30 September 2022 |title=Nueva encuesta electoral: Javier Milei toca su récord y hay empate del Frente de Todos y Juntos por el Cambio |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–electoral–javier–milei–toca–record–empate–frente–juntos–cambio_0_9h7UQGUlS7.html |access-date=30 September 2022}}</ref>
+|2,000
+| bgcolor="#5CDDFF" |'''28'''
+| bgcolor="#FFF96E" |'''28'''
+|23
+|3
+|4
+| –
+|14
+| style="background:white" | Tie
+|-
+|{{Opdrts|12|19|Sep|2022|year}}
+|IPD<ref name="La guerra de encuestas, sin freno: tres nuevos estudios con números muy diferentes para 2023" />
+|1,028
+|25
+| bgcolor="#FFF96E" |'''31'''
+|19
+|4
+|10
+|3
+|8
+| style="background:{{party color|Juntos por el Cambio}}" |6
+|-
+|{{Opdrts|15|17|Sep|2022|year}}
+|Federico González & Asociados<ref name="Nueva encuesta electoral: Cristina Kirchner y Javier Milei arriba, y fuerte paridad en Juntos por el Cambio">{{Cite news |date=28 September 2022 |title=Nueva encuesta electoral: Cristina Kirchner y Javier Milei arriba, y fuerte paridad en Juntos por el Cambio |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–electoral–cristina–kirchner–javier–milei–arriba–fuerte–paridad–juntos–cambio_0_U3eKgZcSb5.html |access-date=28 September 2022}}</ref>
+|800
+|24.3
+| bgcolor="#FFF96E" |'''32.4'''
+|17.4
+|3.5
+|3.3
+|4.7
+|10.8
+| style="background:{{party color|Juntos por el Cambio}}" |8.1
+|-
+|{{Opdrts|13|17|Sep|2022|year}}
+|PGD Consultores<ref>{{Cite news |date=21 August 2022 |title=Sondeo Septiembre |agency=PGD Consultores |url=https://pgdconsultores.com/monitor–digital–de–opinion–publica–nacional–septiembre–2022/#page–content |access-date=21 August 2022}}</ref>
+|1,600
+|26
+| bgcolor="#FFF96E" |'''33'''
+|16
+| –
+|10
+| –
+|15
+| style="background:{{party color|Juntos por el Cambio}}" |7
+|-
+|{{Opdrts|12|15|Sep|2022|year}}
+|Opina Argentina<ref>{{Cite news |date=2 October 2022 |title=Hicieron una encuesta electoral distinta y se confirma la amplia ventaja opositora para 2023 |agency=Clarín |url=https://www.clarin.com/politica/hicieron–encuesta–electoral–distinta–confirma–amplia–ventaja–opositora–2023_0_vF5JRTwRv2.html |access-date=2 October 2022}}</ref>
+|1,000
+|25
+| bgcolor="#FFF96E" |'''32'''
+|18
+|3
+|6
+|4
+|12
+| style="background:{{party color|Juntos por el Cambio}}" |7
+|-
+|{{Opdrts|4|14|Sep|2022|year}}
+|Ricardo Rouvier & Asociados<ref name="INFORME NACIONAL – SEPTIEMBRE1">{{Cite news |date=17 September 2022 |title=INFORME NACIONAL – SEPTIEMBRE |agency=Ricardo Rouvier & Asociados |url=https://www.facebook.com/ricardorouvieryasociados/posts/pfbid02aZFRaeZ2xRoQ5vDyk4td49T1agnBHR4croRZ35HuMXsJPaZbgzkLxRGThreEKhDal |access-date=18 September 2022}}</ref>
+|1,200
+|29.6
+| bgcolor="#FFF96E" |'''32.4'''
+|20.1
+|4.6
+|2.4
+|5.2
+|5.7
+| style="background:{{party color|Juntos por el Cambio}}" |2.8
+|-
+|{{Opdrts|5|7|Sep|2022|year}}
+|Zuban Córdoba & Asociados<ref>{{Cite news |date=11 September 2022 |title=Informe Nacional Septiembre 2022 |agency=Zuban Córdoba |url=https://zubancordoba.com/portfolio/informe–nacional–septiembre–2022/ |access-date=11 September 2022}}</ref>
+|1,200
+|25.9
+| bgcolor="#FFF96E" |'''33.5'''
+|24.6
+|2.5
+| –
+| –
+|13.5
+| style="background:{{party color|Juntos por el Cambio}}" |7.6
+|-
+|{{Opdrts|2|3|Sep|2022|year}}
+|GOP y Trespuntozero<ref name="Encuesta revela a quién votarán los «desencantados» del kirchnerismo">{{Cite news |date=21 September 2022 |title=Encuesta revela a quién votarán los "desencantados" del kirchnerismo |agency=Trespuntozero |url=https://trespuntozero.com.ar/informes/2022/09/21/encuesta–revela–a–quien–votaran–los–desencantados–del–kirchnerismo/ |access-date=22 September 2022}}</ref>
+|1,650
+|30.5
+| bgcolor="#FFF96E" |'''39.1'''
+|21.8
+|0.9
+| –
+|2.9
+|4.8
+| style="background:{{party color|Juntos por el Cambio}}" |8.6
+|-
+|{{Opdrts|13|24|Aug|2022|year}}
+|Opinaia<ref name="Una nueva encuesta midió internas para 2023: ganó Cristina, arrasó Milei y hubo empate entre dos PRO">{{Cite news |date=30 August 2022 |title=Una nueva encuesta midió internas para 2023: ganó Cristina, arrasó Milei y hubo empate entre dos PRO |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–midio–internas–2023–gano–cristina–arraso–milei–empate–pro_0_pRjQ26uJDG.html |access-date=30 August 2022}}</ref>
+|2,000
+|28
+| bgcolor="#FFF96E" |'''30'''
+|20
+|2
+|6
+| –
+|14
+| style="background:{{party color|Juntos por el Cambio}}" |2
+|-
+|{{Opdrts|11|22|Aug|2022|year}}
+|Escenarios<ref>{{Cite news |date=11 September 2022 |title=Sorpresa: hicieron una encuesta para la presidencial 2023 y el Frente de Todos no llegó al 20% |agency=Clarín |url=https://www.clarin.com/politica/sorpresa–hicieron–encuesta–presidencial–2023–frente–llego–20–_0_VbPhAzpGEM.html |access-date=11 September 2022}}</ref>
+|2,224
+|19
+| bgcolor="#FFF96E" |'''36.3'''
+|13.4
+|1.3
+| –
+|6.8
+|23.3
+| style="background:{{party color|Juntos por el Cambio}}" |17.3
+|-
+|{{Opdrts|12|15|Aug|2022|year}}
+|Synopsis<ref>{{Cite news |date=31 August 2022 |title=Nueva encuesta y alerta: Javier Milei le saca votos a Juntos por el Cambio y se acerca el Frente de Todos |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–alerta–javier–milei–saca–votos–juntos–cambio–acerca–frente_0_9vOQb4Hcr9.html |access-date=31 August 2022}}</ref>
+|1,388
+|24.4
+| bgcolor="#FFF96E" |'''36.4'''
+|19.4
+|4.9
+|5
+| –
+|9.9
+| style="background:{{party color|Juntos por el Cambio}}" |12
+|-
+|{{Opdrts|5|13|Aug|2022|year}}
+|Ricardo Rouvier & Asociados<ref name="La encuesta que posiciona a Javier Milei en un lugar importante">{{Cite news |date=21 August 2022 |title=La encuesta que posiciona a Javier Milei en un lugar importante |agency=MDZ |url=https://www.mdzol.com/politica/2022/8/21/la–encuesta–que–posiciona–javier–milei–en–un–lugar–importante–268107.html |access-date=22 August 2022}}</ref>
+|1,200
+|27.9
+| bgcolor="#FFF96E" |'''32.9'''
+|23.1
+|3.5
+|2.5
+|5.5
+|4.6
+| style="background:{{party color|Juntos por el Cambio}}" |5
+|-
+|{{Opdrts|4|10|Aug|2022|year}}
+|PGD Consultores<ref>{{Cite news |date=11 August 2022 |title=Sondeo Agosto |agency=PGD Consultores |url=https://pgdconsultores.com/monitor–digital–de–opinion–publica–nacional–agosto–2022/ |access-date=12 August 2022}}</ref>
+|1,500
+|27
+| bgcolor="#FFF96E" |'''35'''
+|18
+|5
+|2
+| –
+|13
+| style="background:{{party color|Juntos por el Cambio}}" |8
+|-
+|{{Opdrts|27|30|Jul|2022|year}}
+|Giacobbe & Asociados<ref name="Sorpresa: desde Juntos por el Cambio encargaron una encuesta electoral y ganaron Javier Milei y Axel Kicillof">{{Cite news |date=25 August 2022 |title=Sorpresa: desde Juntos por el Cambio encargaron una encuesta electoral y ganaron Javier Milei y Axel Kicillof |agency=Clarín |url=https://www.clarin.com/politica/sorpresa–juntos–cambio–encargaron–encuesta–electoral–ganaron–javier–milei–axel–kicillof_0_u8vqomidZF.html |access-date=25 August 2022}}</ref>
+|3,000
+|17.8
+| bgcolor="#FFF96E" |'''34.9'''
+|20.2
+| –
+|17.7
+| –
+|6.4
+| style="background:{{party color|Juntos por el Cambio}}" |14.3
+|-
+|{{Opdrts|22|28|Jul|2022|year}}
+|CB Consultora<ref name="Nueva encuesta electoral: los últimos datos de Sergio Massa, Javier Milei y otros siete candidatos clave">{{Cite news |date=4 August 2022 |title=Nueva encuesta electoral: los últimos datos de Sergio Massa, Javier Milei y otros siete candidatos clave |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–electoral–ultimos–datos–sergio–massa–javier–milei–candidatos–clave_0_aOOfETzZHU.html |access-date=5 August 2022}}</ref>
+|3,075
+|24.1
+| bgcolor="#FFF96E" |'''34.5'''
+|14.5
+| –
+|4.7
+|6.9
+|15.3
+| style="background:{{party color|Juntos por el Cambio}}" |10.4
+|-
+|{{Opdrts|23|26|Jul|2022|year}}
+|Zuban Córdoba & Asociados<ref>{{Cite news |date=1 August 2022 |title=No se olviden de Javier Milei: ha sobrevivido al incendio |agency=Urgente24 |url=https://urgente24.com/actualidad/no–se–olviden–javier–milei–ha–sobrevivido–al–incendio–n541392 |access-date=1 August 2022}}</ref>
+|1,300
+|28.7
+| bgcolor="#FFF96E" |'''34.6'''
+|21
+|4.3
+|3.1
+| –
+|8.3
+| style="background:{{party color|Juntos por el Cambio}}" |5.9
+|-
+|{{Opdrts|11|26|Jul|2022|year}}
+|Opinaia<ref>{{Cite news |date=9 August 2022 |title=A un año de las PASO, qué dicen seis encuestas clave para la presidencial 2023 |agency=Clarín |url=https://www.clarin.com/politica/ano–paso–dicen–encuestas–clave–presidencial–2023_0_YFp7Wx6dZQ.html |access-date=11 August 2022}}</ref>
+|2,400
+|27
+| bgcolor="#FFF96E" |'''30'''
+|18
+|3
+|6
+| –
+|16
+| style="background:{{party color|Juntos por el Cambio}}" |3
+|-
+|{{Opdrts|18|22|Jul|2022|year}}
+|CIGP Consultora<ref>{{Cite news |date=10 August 2022 |title=Encuesta de opinión – Agosto 2022 |agency=CIGP Consultora |url=http://cigp.com.ar/encuesta–de–opinion–agosto–2022/ |access-date=12 August 2022}}</ref>
+|1,860
+|21
+| bgcolor="#FFF96E" |'''29.3'''
+|13.6
+|3
+|13.39
+|7.6
+|12
+| style="background:{{party color|Juntos por el Cambio}}" |8.3
+|-
+|{{Opdrts|11|18|Jul|2022|year}}
+|Solmoirago<ref>{{Cite news |date=24 July 2022 |title=Nueva encuesta y sorpresa: midieron internas para 2023 y Cristina Kirchner y Javier Milei superaron el 70% |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–sorpresa–midieron–internas–2023–cristina–kirchner–javier–milei–superaron–70–_0_x3uS2cDEaL.html |access-date=24 July 2022}}</ref>
+|1,800
+|26
+| bgcolor="#FFF96E" |'''41.1'''
+|15.7
+|1.4
+| –
+| –
+|15.8
+| style="background:{{party color|Juntos por el Cambio}}" |15.1
+|-
+|{{Opdrts|6|12|Jul|2022|year}}
+|Reale Dalla Torre<ref name="Una nueva encuesta midió balotaje: Mauricio Macri y Larreta vs. Cristina Kirchner y Daniel Scioli">{{Cite news |date=17 July 2022 |title=Una nueva encuesta midió balotaje: Mauricio Macri y Larreta vs. Cristina Kirchner y Daniel Scioli |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–midio–balotaje–mauricio–macri–larreta–vs–cristina–kirchner–daniel–scioli_0_l4s18iPg9y.html |access-date=17 July 2022}}</ref>
+|1,185
+|31.3
+| bgcolor="#FFF96E" |'''40.3'''
+|18.7
+|5.1
+|1.3
+| –
+|3.3
+| style="background:{{party color|Juntos por el Cambio}}" |9
+|-
+|{{Opdrts|5|12|Jul|2022|year}}
+|Ricardo Rouvier & Asociados<ref name="Sorpresa: un encuestador K midió para el 2023 y los libertarios de Milei terminaron con un número muy alto">{{Cite news |date=18 July 2022 |title=Sorpresa: un encuestador K midió para el 2023 y los libertarios de Milei terminaron con un número muy alto |agency=Clarín |url=https://www.clarin.com/politica/sorpresa–encuestador–k–midio–2023–libertarios–milei–terminaron–numero–alto_0_JVO6853oqn.html |access-date=18 July 2022}}</ref>
+|1,200
+|28.6
+| bgcolor="#FFF96E" |'''32.1'''
+|22.8
+|3
+|3.1
+|5.6
+|4.8
+| style="background:{{party color|Juntos por el Cambio}}" |3.5
+|-
+|{{Opdrts|8|11|Jul|2022|year}}
+|Synopsis<ref name="Synopsis">{{Cite news |date=21 July 2022 |title=La crisis le pega al Gobierno en las encuestas: los libertarios de Milei, a tres puntos del Frente de Todos |agency=Clarín |url=https://www.clarin.com/politica/crisis–pega–gobierno–encuestas–libertarios–milei–puntos–frente_0_VYgL6fnM42.html |access-date=21 July 2022}}</ref>
+|1,330
+|21.2
+| bgcolor="#FFF96E" |'''38.5'''
+|18.2
+|4.4
+|6.6
+| –
+|11.1
+| style="background:{{party color|Juntos por el Cambio}}" |17.3
+|-
+|Jun 2022
+|Opina Argentina<ref name="Una consultora muy cercana el Gobierno midió tres escenarios electorales: el oficialismo pierde en todos">{{Cite news |date=4 July 2022 |title=En medio de la crisis, nueva encuesta electoral: buenas noticias para Juntos por el Cambio y Javier Milei |agency=Clarín |url=https://www.clarin.com/politica/medio–crisis–nueva–encuesta–electoral–buenas–noticias–juntos–cambio–javier–milei_0_bcllxWloFw.html |access-date=4 July 2022}}</ref>
+|1,000
+|26
+| bgcolor="#FFF96E" |'''34'''
+|18
+|5
+|4
+|3
+|11
+| style="background:{{party color|Juntos por el Cambio}}" |8
+|-
+|{{Opdrts|27|29|Jun|2022|year}}
+|Zuban Córdoba & Asociados<ref>{{Cite news |date=4 July 2022 |title=La actualidad de Javier Milei, según 2 encuestas |agency=Urgente24 |url=https://urgente24.com/actualidad/la–actualidad–javier–milei–segun–2–encuestas–n540025 |access-date=4 July 2022}}</ref>
+|1,600
+|28.6
+| bgcolor="#FFF96E" |'''34.7'''
+|16.4
+|3.8
+|5.6
+| –
+|10.6
+| style="background:{{party color|Juntos por el Cambio}}" |6.1
+|-
+|{{Opdrts|13|28|Jun|2022|year}}
+|Opinaia<ref name="Nueva encuesta para el 2023: ganaron Javier Milei y Cristina Kirchner, y hubo empate Macri–Larreta">{{Cite news |date=8 July 2022 |title=Nueva encuesta para el 2023: ganaron Javier Milei y Cristina Kirchner, y hubo empate Macri–Larreta |agency=Clarin |url=https://www.clarin.com/politica/nueva–encuesta–2023–ganaron–javier–milei–cristina–kirchner–empate–macri–larreta_0_PX5TZWFaQH.html |access-date=8 July 2022}}</ref>
+|2,400
+|26
+| bgcolor="#FFF96E" |'''32'''
+|19
+|3
+|6
+| –
+|14
+| style="background:{{party color|Juntos por el Cambio}}" |6
+|-
+|{{Opdrts|18|23|Jun|2022|year}}
+|Analogías<ref>{{Cite news |date=7 July 2022 |title=Una consultora muy cercana el Gobierno midió tres escenarios electorales: el oficialismo pierde en todos |agency=Clarín |url=https://www.clarin.com/politica/consultora–cercana–gobierno–midio–escenarios–electorales–oficialismo–pierde_0_HbzCrHp3c2.html |access-date=7 July 2022}}</ref>
+|1,200
+|31.6
+| bgcolor="#FFF96E" |'''41.4'''
+|11.6
+|3.6
+|5
+|2.1
+|4.6
+| style="background:{{party color|Juntos por el Cambio}}" |9.8
+|-
+|{{Opdrts|14|22|Jun|2022|year}}
+|CB Consultora<ref name="Sorpresa: una encuesta posiciona a Milei como el candidato con más votos">{{Cite news |date=4 July 2022 |title=Sorpresa: una encuesta posiciona a Milei como el candidato con más votos |agency=Infobae |url=https://www.infobae.com/encuestas/2022/07/04/sorpresa–una–encuesta–posiciona–a–milei–como–el–candidato–con–mas–votos/ |access-date=4 July 2022}}</ref>
+|2,959
+|27.9
+| bgcolor="#FFF96E" |'''34.9'''
+|16.6
+|2
+| –
+|5.7
+|12.8
+| style="background:{{party color|Juntos por el Cambio}}" |7
+|-
+|{{Opdrts|13|20|Jun|2022|year}}
+|Fixer<ref>{{Cite news |date=21 June 2022 |title=Encuesta exclusiva: quién ganaría las elecciones si fueran hoy |agency=La Nacion |url=https://www.lanacion.com.ar/politica/encuesta–exclusiva–quien–ganaria–las–elecciones–si–fueran–hoy–nid21062022/ |access-date=21 June 2022}}</ref>
+| –
+|31
+| bgcolor="#FFF96E" |'''45'''
+|13
+|1
+| –
+|6
+|4
+| style="background:{{party color|Juntos por el Cambio}}" |11
+|-
+|{{Opdrts|9|13|Jun|2022|year}}
+|Synopsis<ref>{{Cite news |date=23 June 2022 |title=Nueva encuesta electoral: Juntos por el Cambio arriba y Javier Milei a 4,8 puntos del Frente de Todos |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–electoral–juntos–cambio–arriba–javier–milei–4–8–puntos–frente_0_TP9mBj15N2.html |access-date=23 June 2022}}</ref>
+|1,569
+|22.4
+| bgcolor="#FFF96E" |'''36'''
+|17.6
+|4.8
+|8.8
+| –
+|10.4
+| style="background:{{party color|Juntos por el Cambio}}" |13.6
+|-
+|{{Opdrts|9|12|Jun|2022|year}}
+|Raúl Aragón & Asociados<ref name="Consultoras midieron las propuestas de Javier Milei: ¿Qué opinan los votantes?">{{Cite news |date=13 June 2022 |title=Consultoras midieron las propuestas de Javier Milei: ¿Qué opinan los votantes? |agency=ámbito |url=https://www.ambito.com/politica/elecciones–2023/consultoras–midieron–las–propuestas–javier–milei–que–opinan–los–votantes–n5462017 |access-date=14 June 2022}}</ref>
+| –
+|31.4
+| bgcolor="#FFF96E" |'''44.4'''
+|13.1
+|1.3
+|5.6
+|1.4
+|2.8
+| style="background:{{party color|Juntos por el Cambio}}" |11
+|-
+|{{Opdrts|6|10|Jun|2022|year}}
+|CIGP Consultora<ref>{{Cite news |date=21 June 2022 |title=Sondeo de opinión – Junio 2022 |agency=CIGP |url=http://cigp.com.ar/sondeo–de–opinion–junio–2022/ |access-date=21 June 2022}}</ref>
+|1,800
+|19.7
+| bgcolor="#FFF96E" |'''29.7'''
+|14.3
+|3
+|5
+|9.7
+|18.7
+| style="background:{{party color|Juntos por el Cambio}}" |10
+|-
+|{{Opdrts|27|1|Jun|2022|year}}
+|PGD Consultores<ref>{{Cite news |date=3 June 2022 |title=Sondeo Junio |agency=PGD Consultores |url=https://pgdconsultores.com/monitor–digital–de–opinion–publica–nacional–mayo–2022/ |access-date=12 August 2022}}</ref>
+|2,500
+|28
+| bgcolor="#FFF96E" |'''33'''
+|19
+|4
+| –
+| –
+|16
+| style="background:{{party color|Juntos por el Cambio}}" |5
+|-
+|{{Opdrts|23|31|May|2022|year}}
+|Zuban Córdoba & Asociados<ref>{{Cite news |date=6 June 2022 |title=Cae la imagen de Javier Milei: Patricia Bullrich y Cristina Kirchner lo superan en intención de voto |agency=Perfil |url=https://www.perfil.com/noticias/politica/cae–la–imagen–de–javier–milei–patricia–bullrich–y–cristina–kirchner–lo–superan–en–intencion–de–voto.phtml |access-date=6 June 2022}}</ref>
+|2000
+|27.8
+| bgcolor="#FFF96E" |'''30.6'''
+|20.2
+|2
+| –
+| –
+|16.8
+| style="background:{{party color|Juntos por el Cambio}}" |2.8
+|-
+|{{Opdrts|23|30|May|2022|year}}
+|Fixer<ref name="Guerra de encuestas para el 2023: los últimos números traen sorpresas y una fuerte dispersión">{{Cite news |date=1 June 2022 |title=Guerra de encuestas para el 2023: los últimos números traen sorpresas y una fuerte dispersión |agency=Clarín |url=https://www.clarin.com/politica/guerra–encuestas–2023–ultimos–numeros–traen–sorpresas–fuerte–dispersion_0_NKf17fEGCf.html |access-date=1 June 2022}}</ref>
+|1,162
+|30
+| bgcolor="#FFF96E" |'''39'''
+|18
+|2
+| –
+| –
+|11
+| style="background:{{party color|Juntos por el Cambio}}" |9
+|-
+|{{Opdrts|13|26|May|2022|year}}
+|Opinaia<ref name="Hicieron una encuesta presidencial distinta y hubo cambios entre los ganadores">{{Cite news |date=9 June 2022 |title=Hicieron una encuesta presidencial distinta y hubo cambios entre los ganadores |agency=Clarín |url=https://www.clarin.com/politica/hicieron–encuesta–presidencial–distinta–cambio–ganadores_0_3NkkgjKPpY.html |access-date=9 June 2022}}</ref>
+|2,400
+|26
+| bgcolor="#FFF96E" |'''28'''
+|23
+|3
+|4
+| –
+|16
+| style="background:{{party color|Juntos por el Cambio}}" |2
+|-
+|{{Opdrts|10|24|May|2022|year}}
+|Management & Fit<ref name="Nueva encuesta electoral: los últimos datos en Nación, Provincia y Ciudad para el 2023">{{Cite news |date=29 May 2022 |title=Nueva encuesta electoral: los últimos datos en Nación, Provincia y Ciudad para el 2023 |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–electoral–ultimos–datos–nacion–provincia–ciudad–2023_0_yImBzJRz0L.html |access-date=29 May 2022}}</ref>
+|1,340
+|32.7
+| bgcolor="#FFF96E" |'''33.2'''
+|15.4
+|7.1
+|0.7
+| –
+|10.9
+| style="background:{{party color|Juntos por el Cambio}}" |0.5
+|-
+|{{Opdrts|19|21|May|2022|year}}
+|Opina Argentina<ref name="Guerra de encuestas para el 2023: los últimos números traen sorpresas y una fuerte dispersión" />
+|1,200
+|29
+| bgcolor="#FFF96E" |'''32'''
+|18
+|2
+|7
+|2
+|11
+| style="background:{{party color|Juntos por el Cambio}}" |3
+|-
+|{{Opdrts|13|16|May|2022|year}}
+|Raúl Aragón & Asociados<ref name="Consultoras midieron las propuestas de Javier Milei: ¿Qué opinan los votantes?" />
+| –
+|29.2
+| bgcolor="#FFF96E" |'''44.8'''
+|18.3
+|0.3
+|2.4
+|1.6
+|1.3
+| style="background:{{party color|Juntos por el Cambio}}" |15.6
+|-
+|{{Opdrts|6|8|May|2022|year}}
+|Synopsis<ref name="Nueva encuesta electoral: Juntos por el Cambio arriba cómodo y Javier Milei muy cerca del Frente de Todos">{{Cite news |date=23 May 2022 |title=Nueva encuesta electoral: Juntos por el Cambio arriba cómodo y Javier Milei muy cerca del Frente de Todos |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–electoral–juntos–cambio–arriba–comodo–javier–milei–acerca–frente_0_ODBD8fzO8p.html |access-date=23 May 2022}}</ref>
+|1,467
+|23.4
+| bgcolor="#FFF96E" |'''34.6'''
+|19.1
+|5.1
+|5.5
+| –
+|12.3
+| style="background:{{party color|Juntos por el Cambio}}" |11.2
+|-
+| rowspan="2" {{Opdrts|2|6|May|2022|year}}
+| rowspan="2" |GOP y Trespuntozero<ref name="Encuestas: el Frente de Todos quedó cuatro puntos arriba de Juntos">{{Cite news |date=26 May 2022 |title=Encuestas: el Frente de Todos quedó cuatro puntos arriba de Juntos |agency=eldestape |url=https://www.eldestapeweb.com/politica/frente–de–todos/el–frente–de–todos–quedo–cuatro–puntos–arriba–de–juntos–en–un–sondeo–20225260512 |access-date=28 May 2022}}</ref>
+| rowspan="2" |1,800
+| bgcolor="#5CDDFF" |'''34.1'''
+|29.6
+|20.3
+|0.6
+| –
+|7.1
+|8.3
+| style="background:{{party color|Frente de Todos}}; color:white" |4.5
+|-
+| bgcolor="#5CDDFF" |'''34.9'''
+|30.3
+|19.9
+|0.3
+| –
+|7.1
+|7.5
+| style="background:{{party color|Frente de Todos}}; color:white" |4.6
+|-
+|Apr 2022
+|Aresco<ref name="Según una encuesta Javier Milei gana terreno de cara al 2023 y Rodríguez Larreta sacaría ventaja en una interna opositora">{{Cite news |date=4 May 2022 |title=Según una encuesta Javier Milei gana terreno de cara al 2023 y Rodríguez Larreta sacaría ventaja en una interna opositora |agency=Infobae |url=https://www.infobae.com/politica/2022/05/04/segun–una–encuesta–javier–milei–gana–terreno–de–cara–al–2023–y–rodriguez–larreta–sacaria–ventaja–en–una–interna–opositora/ |access-date=4 May 2022}}</ref>
+|2,490
+|31.8
+| bgcolor="#FFF96E" |'''34.6'''
+|20.7
+|3.9
+|3.2
+|2.3
+|3.5
+| style="background:{{party color|Juntos por el Cambio}}" |2.8
+|-
+|{{Opdrts|25|27|Apr|2022|year}}
+|Zuban Córdoba & Asociados<ref name="Alerta por una nueva encuesta: caen Juntos por el Cambio y el Frente de Todos y se acercan los libertarios">{{Cite news |date=9 May 2022 |title=Alerta por una nueva encuesta: caen Juntos por el Cambio y el Frente de Todos y se acercan los libertarios |agency=Clarín |url=https://www.clarin.com/politica/alerta–nueva–encuesta–caen–juntos–cambio–frente–acercan–libertarios_0_HU5vfdSBmn.html |access-date=9 May 2022}}</ref>
+|2,000
+|23.9
+| bgcolor="#FFF96E" |'''28.2'''
+|20.6
+| –
+|11.5
+| –
+|15.8
+| style="background:{{party color|Juntos por el Cambio}}" |4.3
+|-
+|{{Opdrts|19|27|Apr|2022|year}}
+|Management & Fit<ref name="Nueva encuesta: malas noticias económicas y sorpresa con los números electorales para el 2023">{{Cite news |date=1 May 2022 |title=Nueva encuesta: malas noticias económicas y sorpresa con los números electorales para el 2023 |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–malas–noticias–economicas–sorpresa–numeros–electorales–2023_0_lWKeZuNzVg.html |access-date=1 May 2022}}</ref>
+|2,200
+| bgcolor="#5CDDFF" |'''27.3'''
+|26.6
+|22.8
+|3.1
+|7
+|5
+|8.1
+| style="background:{{party color|Frente de Todos}}; color:white" |0.7
+|-
+|{{Opdrts|11|18|Apr|2022|year}}
+|Solmoirago<ref name="Encuesta: quién ganaría la presidencia hoy cuando se mide intención de voto por espacio">{{Cite news |date=22 April 2022 |title=Encuesta: quién ganaría la presidencia hoy cuando se mide intención de voto por espacio |agency=IProfesional |url=https://www.iprofesional.com/politica/361158–encuesta–quien–ganaria–la–presidencia–hoy–por–espacio–politico |access-date=22 April 2022}}</ref>
+|1,300
+|24
+| bgcolor="#FFF96E" |'''31.6'''
+|12.5
+| –
+| –
+| –
+|23
+| style="background:{{party color|Juntos por el Cambio}}" |7.6
+|-
+|{{Opdrts|10|15|Apr|2022|year}}
+|Raúl Aragón & Asociados<ref name="¿Cuál es la tendencia electoral que se consolida a nivel país, según esta reciente encuesta?">{{Cite news |date=3 May 2022 |title=¿Cuál es la tendencia electoral que se consolida a nivel país, según esta reciente encuesta? |agency=GrupoLaProvincia |url=https://www.grupolaprovincia.com/politica/cual–es–la–tendencia–electoral–que–se–consolida–a–nivel–pais–segun–esta–reciente–encuesta–929239 |access-date=3 May 2022}}</ref>
+|1,500
+|34.1
+| bgcolor="#FFF96E" |'''38.1'''
+|18.8
+|2.2
+|6.2
+|6.6
+|8.8
+| style="background:{{party color|Juntos por el Cambio}}" |4
+|-
+|{{Opdrts|11|14|Apr|2022|year}}
+|Opina Argentina<ref name="De Cristina Kirchner a Javier Milei: una nueva encuesta midió cuánta gente votaría a 7 referentes clave">{{Cite news |date=29 April 2022 |title=De Cristina Kirchner a Javier Milei: una nueva encuesta midió cuánta gente votaría a 7 referentes clave |agency=Clarín |url=https://www.clarin.com/politica/cristina–kirchner–javier–milei–nueva–encuesta–midio–cuanta–gente–votaria–7–referentes–clave_0_68gL3CAh9O.html |access-date=29 April 2022}}</ref>
+|1,000
+|24
+| bgcolor="#FFF96E" |'''32'''
+|21
+|6
+|3
+|3
+|11
+| style="background:{{party color|Juntos por el Cambio}}" |8
+|-
+|{{Opdrts|1|4|Apr|2022|year}}
+|Synopsis<ref name="Synopsis" />
+|1,000
+|23.4
+| bgcolor="#FFF96E" |'''33.8'''
+|18.4
+|3.3
+|6.3
+| –
+|14.8
+| style="background:{{party color|Juntos por el Cambio}}" |10.4
+|-
+|{{Opdrts|31|2|Apr|2022|year}}
+|Circuitos<ref name="Una encuesta midió en Provincia para el 2023: sorprendieron Cristina Kirchner, Mauricio Macri y Javier Milei">{{Cite news |date=6 April 2022 |title=Una encuesta midió en Provincia para el 2023: sorprendieron Cristina Kirchner, Mauricio Macri y Javier Milei |agency=Clarín |url=https://www.clarin.com/politica/encuesta–midio–provincia–2023–sorprendieron–cristina–kirchner–mauricio–macri–javier–milei_0_MPzEo9Hjtm.html |access-date=6 April 2022}}</ref>
+|1,382
+|29.3
+| bgcolor="#FFF96E" |'''32.3'''
+|18.3
+|3.7
+| –
+|16.4
+| –
+| style="background:{{party color|Juntos por el Cambio}}" |3
+|-
+|{{Opdrts|22|29|Mar|2022|year}}
+|Fixer<ref name="Nueva encuesta electoral: Juntos por el Cambio 8 puntos arriba y Javier Milei en 15%">{{Cite news |date=17 April 2022 |title=Nueva encuesta electoral: Juntos por el Cambio 8 puntos arriba y Javier Milei en 15% |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–electoral–juntos–cambio–8–puntos–arriba–javier–milei–15–_0_SlQkHSi4ec.html |access-date=17 April 2022}}</ref>
+|2,112
+|33
+| bgcolor="#FFF96E" |'''41'''
+|15
+|3
+| –
+|6
+|4
+| style="background:{{party color|Juntos por el Cambio}}" |8
+|-
+|{{Opdrts|14|22|Mar|2022|year}}
+|Opinaia<ref name="Nueva encuesta electoral: el Frente de Todos un punto arriba y crece muy fuerte Javier Milei">{{Cite news |date=4 April 2022 |title=Nueva encuesta electoral: el Frente de Todos un punto arriba y crece muy fuerte Javier Milei |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–electoral–frente–punto–arriba–crece–fuerte–javier–milei_0_PGcXiGezLq.html |access-date=4 April 2022}}</ref>
+|2,400
+| bgcolor="#5CDDFF" |'''31'''
+|30
+|20
+|3
+|3
+| –
+|13
+| style="background:{{party color|Frente de Todos}}; color:white" |1
+|-
+|{{Opdrts|11|14|Mar|2022|year}}
+|Zuban Córdoba<ref name="Otra encuesta midió para el 2023 y los libertarios de Javier Milei y José Luis Espert son la gran sorpresa">{{Cite news |date=21 March 2022 |title=Otra encuesta midió para el 2023 y los libertarios de Javier Milei y José Luis Espert son la gran sorpresa |agency=Clarín |url=https://www.clarin.com/politica/encuesta–midio–2023–libertarios–javier–milei–jose–luis–espert–gran–sorpresa_0_TkIfg2hwDW.html |access-date=21 March 2022}}</ref>
+|1,300
+|28.7
+| bgcolor="#FFF96E" |'''37'''
+|18.5
+|1.1
+|5.8
+|3.3
+|9.9
+| style="background:{{party color|Juntos por el Cambio}}" |8.3
+|-
+|{{Opdrts|6|8|Mar|2022|year}}
+|Opina Argentina<ref name="Encuesta y sorpresa: en un año, Javier Milei y José Luis Espert triplicaron su intención de voto para 2023">{{Cite news |date=20 March 2022 |title=Encuesta y sorpresa: en un año, Javier Milei y José Luis Espert triplicaron su intención de voto para 2023 |agency=Clarín |url=https://www.clarin.com/politica/encuesta–sorpresa–ano–javier–milei–jose–luis–espert–triplicaron–intencion–voto–2023_0_MeHS9l7XMv.html |access-date=20 March 2022}}</ref>
+|1,000
+|26
+| bgcolor="#FFF96E" |'''30'''
+|18
+|4
+|8
+|3
+|12
+| style="background:{{party color|Juntos por el Cambio}}" |4
+|-
+|{{Opdrts|18|25|Feb|2022|year}}
+|CB Consultora<ref name="La encuesta que le quita el sueño a Alberto Fernández y entusiasma Cristina Kirchner">{{Cite news |date=4 March 2022 |title=La encuesta que le quita el sueño a Alberto Fernández y entusiasma Cristina Kirchner |agency=MDZ |url=https://www.mdzol.com/politica/2022/3/2/la–encuesta–que–le–quita–el–sueno–alberto–fernandez–entusiasma–cristina–kirchner–225480.html |access-date=2 March 2022}}</ref>
+|2,080
+|22.3
+| bgcolor="#FFF96E" |'''29.2'''
+|9.5
+|2.7
+|6.1
+|11.3
+|18.9
+| style="background:{{party color|Juntos por el Cambio}}" |6.9
+|-
+|{{Opdrts|1|4|Feb|2022|year}}
+|GOP y Trespuntozero<ref name="Nueva encuesta para 2023: Cristina Kirchner fue la más votada y sorprenden Javier Milei y Patricia Bullrich">{{Cite news |date=9 February 2022 |title=Nueva encuesta para 2023: Cristina Kirchner fue la más votada y sorprenden Javier Milei y Patricia Bullrich |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–2023–cristina–kirchner–votada–sorprenden–javier–milei–patricia–bullrich_0_TtifpzQv9P.html |access-date=23 February 2022}}</ref>
+|1,900
+|33.1
+| bgcolor="#FFF96E" |'''34.3'''
+|14.6
+|1.1
+| –
+|9.7
+|7.2
+| style="background:{{party color|Juntos por el Cambio}}" |1.2
+|-
+|{{Opdrts|24|29|Jan|2022|year}}
+|Solmoraigo<ref name="Máximo Kirchner: una encuesta midió su intención de voto para 2023 y quedó anteúltimo">{{Cite news |date=3 February 2022 |title=Máximo Kirchner: una encuesta midió su intención de voto para 2023 y quedó anteúltimo |agency=Perfil |url=https://www.perfil.com/noticias/politica/maximo–kirchner–una–encuesta–midio–su–intencion–de–voto–para–2023–y–quedo–ultimo.phtml |access-date=4 February 2022 }}</ref>
+|2,050
+|28.2
+| bgcolor="#FFF96E" |'''34.3'''
+|11.1
+|2.3
+|5.7
+| –
+|18.4
+| style="background:{{party color|Juntos por el Cambio}}" |6.1
+|-
+|{{Opdrts|10|28|Jan|2022|year}}
+|Opinaia<ref name="Elecciones 2023: un sondeo midió internas y hubo sorpresas">{{Cite news |date=14 February 2022 |title=Elecciones 2023: un sondeo midió internas y hubo sorpresas |agency=Noticias Urbanas |url=https://www.noticiasurbanas.com.ar/noticias/elecciones–2023–un–sondeo–midio–internas–y–hubo–sorpresas/ |access-date=14 February 2022}}</ref>
+|2,400
+| bgcolor="#5CDDFF" |'''32'''
+| bgcolor="#FFF96E" |'''32'''
+|17
+|4
+|3
+| –
+|12
+| style="background:white" | Tie
+|-
+|{{Opdrts|3|5|Jan|2022|year}}
+|Opina Argentina<ref name="Nueva encuesta electoral: ganó Juntos por el Cambio, pero la sorpresa fueron José Luis Espert y Javier Milei">{{Cite news |date=18 January 2022 |title=Nueva encuesta electoral: ganó Juntos por el Cambio, pero la sorpresa fueron José Luis Espert y Javier Milei |agency=Clarín |url=https://www.clarin.com/politica/nueva–encuesta–electoral–gano–juntos–cambio–sorpresa–liberales_0_iSonBN698g.html |access-date=20 January 2022}}</ref>
+|1,200
+|29
+| bgcolor="#FFF96E" |'''34'''
+|15
+|2
+|6
+|2
+|13
+| style="background:{{party color|Juntos por el Cambio}}" |5
+|-
+|{{Opdrts|1|5|Jan|2022|year}}
+|Trespuntozero<ref name="Una encuesta revela a quién preferiría votar la clase media en 2023 y qué dirigente tiene más chances de ser presidente">{{Cite news |date=21 January 2022 |title=Una encuesta revela a quién preferiría votar la clase media en 2023 y qué dirigente tiene más chances de ser presidente |agency=Infobae |url=https://www.infobae.com/politica/2022/01/21/una–encuesta–revela–a–quien–preferiria–votar–la–clase–media–en–2023–y–que–dirigente–tiene–mas–chances–de–ser–presidente/ |access-date=1 February 2022}}</ref>
+|1800
+| bgcolor="#5CDDFF" |'''31.6'''
+|21.4
+|9.5
+|1.3
+|1.1
+|30.8
+|4.3
+| style="background:{{party color|Frente de Todos}}; color:white" |10.2
+|-
+|{{Opdrts|17|21|Dec|2021|year}}
+|Opinaia<ref name="Sorpresa: encuesta presidencial le dio a Milei la misma intención de voto que a Larreta y Alberto Fernández">{{Cite news |date=14 January 2022 |title=Sorpresa: encuesta presidencial le dio a Milei la misma intención de voto que a Larreta y Alberto Fernández |agency=Nexofin |url=https://www.nexofin.com/notas/991424–sorpresa–encuesta–presidencial–le–dio–a–milei–la–misma–intencion–de–voto–que–a–larreta–y–el–presidente–n–/ |access-date=16 December 2022}}</ref>
+|2,400
+| bgcolor="#5CDDFF" |'''34'''
+| bgcolor="#FFF96E" |'''34'''
+|16
+|4
+|3
+|7
+|9
+| style="background:white" | Tie
+|-
+|{{Opdrts|17|20|Dec|2021|year}}
+|CB Consultora<ref name="Tempranera: una encuesta ya mide las presidenciales 2023; Alberto, Larreta, CFK, ganadores y perdedores">{{Cite news |date=23 December 2021 |title=Tempranera: una encuesta ya mide las presidenciales 2023; Alberto, Larreta, CFK, ganadores y perdedores |agency=Tiempo |url=https://www.tiempodesanjuan.com/politica/2021/12/23/tempranera–una–encuesta–ya–mide–las–presidenciales–2023–alberto–larreta–cfk–ganadores–perdedores–330128.html |access-date=2 February 2022}}</ref>
+|1,511
+|25.6
+| bgcolor="#FFF96E" |'''34.8'''
+|8.9
+|3.4
+| –
+|7.9
+|19.4
+| style="background:{{party color|Juntos por el Cambio}}" |9.2
+|-
+|{{Opdrts|15|17|Nov|2021|year}}
+|CB Consultora<ref name="Encuesta: qué pasaría si las elecciones presidenciales fueran hoy">{{Cite news |date=22 November 2021 |title=Encuesta: qué pasaría si las elecciones presidenciales fueran hoy |agency=La Voz |url=https://www.lavoz.com.ar/politica/encuesta–que–pasaria–si–las–elecciones–presidenciales–fueran–hoy/ |access-date=22 November 2021}}</ref>
+|1,575
+|28.9
+| bgcolor="#FFF96E" |'''40.7'''
+|7.2
+|3.8
+|3.2
+| –
+|16.2
+| style="background:{{party color|Juntos por el Cambio}}" |11.8
+|-
+| colspan="11" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|{{Opdrts||14|Nov|2021|year}}
+|[[2021 Argentine legislative election|2021 legislative election]]
+|24,406,798
+|34.56
+| bgcolor="#FFF96E" |'''42.75'''
+|7.32
+|5.41
+|5.65
+|11.45
+| –
+| style="background:{{party color|Juntos por el Cambio}}" |8.19
+|}
+
+=== By candidate ===
+==== After primary elections ====
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:95%;line-height:14px;"
+! rowspan="3" |Fieldwork<br/>date
+! rowspan="3" |Polling<br/>firm
+! rowspan="3" |Sample
+! [[File:Sergio Massa on March 1, 2020-3 (cropped3).jpg|80x80px]]
+! [[File:Avelluto y Bullrich abrieron el Curso sobre Protección del Patrimonio Cultural (cropped).jpg|80x80px]]
+! [[File:Javier Milei 2023 (cropped).jpg|80x80px]]
+! [[File:XV Reunión Institucional de la Región Centro - 02 (cropped).jpg|80x80px]]
+! [[File:Myriam Bregman (cropped).png|80x80px]]
+! rowspan="3" |No<br/>one
+! rowspan="3" |Undecided
+! rowspan="3" |Margin
+|-
+! {{small|[[Sergio Massa|Massa]]<br/>{{small|[[Union for the Homeland|UP]]}}}}
+! {{small|[[Patricia Bullrich|Bullrich]]<br/>{{small|[[Juntos por el Cambio|JxC]]}}}}
+! {{small|[[Javier Milei|Milei]]<br/>{{small|[[La Libertad Avanza|LLA]]}}}}
+! {{small|[[Juan Schiaretti|Schiaretti]]<br/>{{small|[[Hacemos por Nuestro País|HNP]]}}}}
+! {{small|[[Myriam Bregman|Bregman]]<br/>{{small|[[Workers' Left Front|FIT–U]]}}}}
+|-
+! style="background:{{party color|Union for the Homeland}};"  |
+! style="background:{{party color|Juntos por el Cambio}};"  |
+! style="background:{{party color|La Libertad Avanza}};"  |
+! style="background:{{party color|Hacemos por Nuestro País}};"  |
+! style="background:{{party color|Workers' Left Front}};"  |
+|-
+|16 - 18 August 2023
+|DC Consultores<ref name="urgente24.com"/>
+|2,100
+|23.1
+|24.7
+|style="background:#a68fc8; color:black;" |'''34'''
+| –
+| –
+|2.4
+|15.8
+|style="background:#a68fc8; color:black;" |'''9.3'''
+|-
+|16 - 17 August 2023
+|OPSA<ref name="clarin.com"/>
+|4,623
+|32.3
+|23.7
+|style="background:#a68fc8; color:black;" |'''38.5'''
+|3.2
+|2.3
+| –
+| –
+|style="background:#a68fc8; color:black;" |'''6.2'''
+|-
+|14 - 16 August 2023
+|CB Consultora<ref name="clarin.com"/>
+|4,340
+|28.1
+|25.3
+|style="background:#a68fc8; color:black;" |'''32.3'''
+|3.8
+|1.8
+|3.2
+|5.4
+|style="background:#a68fc8; color:black;" |'''4.2'''
+|-
+|}
+
+==== After candidates definition ====
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:95%;line-height:14px;"
+! rowspan="3" |Fieldwork<br/>date
+! rowspan="3" |Polling<br/>firm
+! rowspan="3" |Sample
+! colspan="2" |[[Union for the Homeland|UP]]
+! colspan="2" |[[Juntos por el Cambio|JxC]]
+! colspan="1" |[[La Libertad Avanza|LLA]]
+! colspan="2" |[[Workers' Left Front|FIT–U]]
+! colspan="1" |[[:es:Hacemos por Nuestro País|HNP]]
+! colspan="1" |[[:es:Principios y Valores|PyV]]
+! rowspan="3" |Others
+! rowspan="3" |No<br/>one
+! rowspan="3" |Undecided
+|-
+!{{Vert header|[[Sergio Massa]] ([[Renewal Front|FR]])|stp=1|mw=25px}}
+!{{Vert header|[[Juan Grabois]] ([[Patria Grande Front|FPG]])|stp=1|mw=25px}}
+!{{Vert header|[[Patricia Bullrich]] ([[Republican Proposal|PRO]])|stp=1|mw=25px}}
+!{{Vert header|[[Horacio Rodríguez Larreta|Horacio R. Larreta]] ([[Republican Proposal|PRO]])|stp=1|mw=25px}}
+!{{Vert header|[[Javier Milei]] ([[Libertarian Party (Argentina)|PL]])|stp=1|mw=25px}}
+!{{Vert header|[[Myriam Bregman]] ([[Socialist Workers' Party (Argentina)|PTS]])|stp=1|mw=25px}}
+!{{Vert header|[[Gabriel Solano]] ([[Workers' Party (Argentina)|PO]])|stp=1|mw=25px}}
+!{{Vert header|[[Juan Schiaretti]] ([[Justicialist Party|PJ]]–[[We Do for Córdoba|HPC]])|stp=1|mw=25px}}
+!{{Vert header|[[Guillermo Moreno]] ([[:es:Principios y Valores|PyV]])|stp=1|mw=25px}}
+|-
+!style="background:{{party color|Renewal Front}}; width:40px;"  |
+!style="background:#ED2939; width:40px;"  |
+!style="background:{{party color|Republican Proposal}}; width:40px;"  |
+!style="background:{{party color|Republican Proposal}}; width:40px;"  |
+!style="background:{{party color|Libertarian Party (Argentina)}}; width:40px;"  |
+!style="background:{{party color|Workers' Left Front}}; width:40px;"  |
+!style="background:{{party color|Workers' Left Front}}; width:40px;"  |
+!style="background:#1273BD; width:40px;"  |
+!style="background:#00AFF0; width:40px;"  |
+|-
+| colspan="15" style="background:#A0A0A0" |
+|- style="background:#EFEFEF;"
+|'''13 August 2023'''
+|'''[[2023 Argentine primary elections|Primary elections]]'''
+| -
+|'''21.40'''
+|5.87
+|'''16.98'''
+|11.30
+| style="background:{{party color|Libertarian Party (Argentina)}}; color:white;" |'''30.04'''
+|'''1.87'''
+|0.89
+|'''3.83'''
+|0.77
+|
+|
+| -
+|-
+| colspan="15" style="background:#A0A0A0" |
+|-
+| colspan="2" |5 August 2023
+| colspan="15" |Beginning of legal ban on publishing polls and electoral forecasts for the PASO primary elections
+|-
+|31 July - 4 August 2023
+|Atlas Intel<ref name=":15" />
+|9,517
+| bgcolor="#0E3C61" |'''{{color|white|24,1}}'''
+|6,7
+|19,2
+|12,7
+|20,8
+|2,9
+|0,6
+|4,4
+| -
+|2,9
+|2,4
+|3,5
+|-
+|31 July - 3 August 2023
+|Federico González & Asociados<ref name=":13" />
+|2,400
+| bgcolor="#0E3C61" |'''{{color|white|28.3}}'''
+|6,3
+|20,1
+|16,3
+|19,5
+|1,7
+|0,8
+|3,2
+|1,5
+|3,5
+|3,1
+| -
+|-
+|25 July - 2 August 2023
+|Opina Argentina<ref>{{cite web | url=https://www.mdzol.com/politica/2023/8/4/la-encuesta-que-preocupa-horacio-rodriguez-larreta-patricia-bullrich-en-juntos-por-el-cambio-357981.html | title=La encuesta que preocupa a Horacio Rodríguez Larreta y Patricia Bullrich en Juntos por el Cambio }}</ref>
+| -
+| bgcolor="#0E3C61" |'''{{color|white|28}}'''
+|3
+|16
+|16
+|20
+|3
+|1
+|3
+|1
+|1
+|3
+|5
+|-
+|1 August 2023
+|Opinión Pública Servicios y Mercados<ref name=":14" />
+|1,200
+|23,7
+|6,2
+|bgcolor="#FFF96E" |'''24.3'''
+|11,3
+|17,5
+|4,7
+|0,7
+|2,8
+| -
+|1,6
+| -
+|5
+|-
+|12 - 27 July 2023
+| Management & Fit<ref>{{Cite tweet | user=AmericaElige | number=1687251237652021248 | title=Argentina, Management & Fit poll}}</ref>
+|1,800
+| bgcolor="#0E3C61" |'''{{color|white|26.4}}'''
+|6.3
+|19
+|17
+|17.7
+|4.5
+| -
+| -
+|0.5
+| -
+| -
+| -
+|-
+|-
+|-
+|22 - 23 July 2023
+| CEOP<ref>{{Cite tweet | title=America Elects on Twitter: "Argentina, CEOP poll:  Presidential election primary  Massa (UP, centre-left): 27% Milei (LLA, right{{!}}libertarian): 22% Bullrich (JxC, centre-right): 19% Larreta (JxC, centre-right): 16% ...  Fieldwork: 22-23 July 2023 Sample size: 1,167  #Argentina #CEOP #Voto2023 #PASO2023 | number=1685756482237640704 | user=AmericaElige | archive-url=https://web.archive.org/web/20230731050648/https://twitter.com/AmericaElige/status/1685756482237640704 | archive-date=2023-07-31}}</ref>
+|1,167
+| bgcolor="#0E3C61" |'''{{color|white|27}}'''
+|6.3
+|16.4
+|19.1
+|22.4
+|1.3
+|0.6
+|0.9
+|1.5
+| -
+| -
+| -
+|-
+|-
+|17 - 21 July 2023
+| Federico González & Asociados<ref>{{Cite tweet | title=America Elects on Twitter: "Argentina, Federico González &amp; Asociados poll:  Presidential primary election  Massa (UP, centre-left): 25% (-5) Bullrich (JxC, centre-right): 23% (-) Milei (LLA, right{{!}}libertarian): 19% (+1) ...  (+/- vs. 6 Jul)  Fieldwork: 17-21 July 2023 Sample size: 2,400  #Argentina #PASO | user=AmericaElige | number=1684766985467351040 | archive-url=https://web.archive.org/web/20230729213231/https://twitter.com/AmericaElige/status/1684766985467351040 | archive-date=2023-07-29}}</ref>
+|2,400
+| bgcolor="#0E3C61" |'''{{color|white|25}}'''
+|5.6
+|14.5
+|23
+|19.3
+|1.7
+|0.9
+|3.5
+|1.1
+| -
+| -
+| -
+|-
+|-
+|15 - 19 July 2023
+| Atlas Intel<ref>{{Cite tweet | user=AmericaElige | number=1684412565265195009 | title=Argentina, Atlas Intel poll: Presidential election primary}}</ref>
+|4,848
+| bgcolor="#0E3C61" |'''{{color|white|27.2}}'''
+|8.2
+|12.1
+|23.2
+|21
+|2.3
+|0.5
+|3.6
+| -
+| -
+| -
+| -
+|-
+|-
+|5 - 18 July 2023
+| Opinaia<ref>{{Cite tweet | user=AmericaElige | number=1684032020517646337 | title=Argentina, Opinaia poll: Presidential election primary}}</ref>
+|2,000
+|20.4
+|3.2
+|12.9
+|19.4
+|style="background:{{party color|Libertarian Party (Argentina)}}; color:white;" |'''24'''
+|3.2
+|1.1
+|4.3
+| -
+| -
+| -
+| -
+|-
+|-
+|8 - 12 July 2023
+| University of La Matanza<ref>{{Cite tweet | user=AmericaElige | number=1682851061227241474| title=Argentina, University of La Matanza poll: Presidential election primary}}</ref>
+|2,510
+| bgcolor="#0E3C61" |'''{{color|white|29.3}}'''
+|4.9
+|14.5
+|22.4
+|19.7 
+|1.2
+|1
+|1.4
+|1
+| -
+| -
+| -
+|-
+|-
+|4 - 11 July 2023
+| Tacquion<ref>{{Cite web | title=America Elects on Twitter: "Argentina, Taquion poll:  Presidential election primary  Bullrich (JxC, centre-right): 24% Milei (LLA, right{{!}}libertarian): 21% Massa (UP, centre-left): 20% Larreta (JxC, centre-right): 10% ...  Fieldwork: 4-11 July 2023 Sample size: 2,419  #Argentina #PASO2023 #Elecciones2023 | url=https://twitter.com/AmericaElige/status/1683687752959660032 | archive-url=https://web.archive.org/web/20230726040139/https://twitter.com/AmericaElige/status/1683687752959660032 | access-date=2025-04-28 | archive-date=2023-07-26}}</ref>
+|2,419
+|20.1
+|9.3
+|10.3
+|bgcolor="#FFF96E" |'''24.1'''
+|21
+|2.7
+|0.6
+|3.4
+|1.6
+| -
+| -
+| -
+|-
+|-
+|28 June - 7 July 2023
+|Opina Argentina<ref name="Nueva encuesta con números inesperados para la interna Horacio Rodríguez Larreta vs. Patricia Bullrich"/>
+|1.404
+| bgcolor="#0E3C61" |'''{{color|white|26}}'''
+|3
+|15
+|15
+|22
+|3
+|1
+|3
+|1
+|1
+|3
+|7
+|-
+|6 July 2023
+|Federico González & Asociados<ref name="cronista.com"/>
+|2.400
+| bgcolor="#0E3C61" |'''{{color|white|27,5}}'''
+|1,3
+|21,1
+|12,3
+|17,1
+|2,4
+|0,9
+|1,9
+|1,5
+|2,5
+|2,9
+|6,9
+|-
+|1 - 6 July 2023
+|Zuban Córdoba & Asociados<ref name="zubancordoba.com"/>
+|1.280
+| bgcolor="#0E3C61" |'''{{color|white|25,1}}'''
+|2,0
+|13,3
+|16,4
+|24,5
+|2,1
+|0,2
+|3,5
+|0,6
+|0,7
+|2,3
+|8,6
+|-
+|1 - 5 July 2023
+|Clivajes Consultores<ref name="impulsobaires.com.ar"/>
+|1.570
+| bgcolor="#0E3C61" |'''{{color|white|21,8}}'''
+|8,7
+|17,4
+|16,5
+|18,4
+|2,3
+|1,1
+|2,6
+|1,7
+|1,5
+|7,1
+| -
+|-
+|rowspan=2|27 June - 2 July 2023
+|rowspan=2|Giacobbe & Asociados{{citation needed|date=August 2023}}
+|rowspan=2|2.500
+|28,2
+| -
+| -
+|19,8
+|style="background:{{party color|Libertarian Party (Argentina)}}; color:white;" |'''28,3'''
+|2,5
+| -
+|1,9
+| -
+| -
+|8,1
+|9,9
+|-
+|18,9
+|9,6
+|bgcolor="#FFF96E" |'''25,7'''
+|7,5
+|22,3
+|0,9
+|0,1
+|1,0
+|1,6
+|0,7
+|2,0
+|9,3
+|-
+|28 - 30 June 2023
+|Analogías<ref>{{cite web | url=https://www.eldestapeweb.com/politica/encuestas-2023/encuestas-massa-en-punta-milei-en-baja-y-rechazo-al-shock--2023720545 | title=Elecciones 2023: En las primeras encuestas post cierre de listas Massa picó en punta, Milei va en baja y se manifiesta rechazo a las políticas de "shock" | date=2 July 2023 }}</ref>
+|2.569
+| bgcolor="#0E3C61" |'''{{color|white|28,6}}'''
+|4
+|21,1
+|11,6
+|17,8
+|1,2
+| -
+|2,1
+| -
+| -
+| -
+|12,7
+|-
+|27 - 30 June 2023
+|Observatorio Electoral Consultores<ref>{{cite web | url=https://www.letrap.com.ar/politica/no-va-mas-massa-bullrich-larreta-y-milei-la-ruleta-las-paso-n5401438 | title=¡No va más! Massa, Bullrich, Larreta y Milei, en la ruleta de las PASO }}</ref>
+|1.680
+|23
+|5
+|bgcolor="#FFF96E" |'''26'''
+|14
+|15
+|2
+| -
+|2
+|3
+|2
+| -
+|8
+|-
+|26 - 29 June 2023
+|Opinaia{{citation needed|date=August 2023}}
+|1.300
+| bgcolor="#0E3C61" |'''{{color|white|19}}'''
+|5
+|18
+|14
+|style="background:{{party color|Libertarian Party (Argentina)}}; color:white;"|'''19'''
+|2
+|1
+|3
+| -
+|5
+|4
+|10
+|-
+|28 June 2023
+|Proyección Consultores<ref>{{cite web | url=https://infocielo.com/encuesta/encuesta-sergio-massa-y-axel-kicillof-pican-punta-el-cierre-listas-n765832 | title=Massa y Kicillof lideran la primera encuesta formal tras el cierre de listas | date=16 October 2023 }}</ref>
+| -
+| bgcolor="#0E3C61" |'''{{color|white|30,3}}'''
+|2,5
+|20,6
+|14,1
+|18,8
+|1,7
+| -
+|0,9
+| -
+|1,4
+|3,1
+|6,6
+|-
+|rowspan=3|26 - 28 June 2023
+|rowspan=3|Inteligencia Analítica{{citation needed|date=August 2023}}
+|rowspan=3|5.285
+|bgcolor="#0E3C61" |'''{{color|white|29,5}}'''
+| -
+| -
+|28,1
+|25,8
+|2,5
+| -
+|3,2
+| -
+|3,9
+|3,0
+|4,0
+|-
+|28,5
+| -
+|bgcolor="#FFF96E" |'''32,2'''
+| -
+|22,1
+|3,2
+| -
+|3,6
+| -
+|3,9
+|2,0
+|4,2
+|-
+|23,1
+|6,7
+|bgcolor="#FFF96E" |'''24,8'''
+|9,5
+|19,6
+|2,2
+| -
+|2,5
+| -
+|3,4
+|3,0
+|5,2
+|-
+|25 - 27 June 2023
+|CB Consultora<ref>{{cite web | url=https://www.clarin.com/politica/dice-primera-encuesta-electoral-cierre-listas-sorpresa-numero-javier-milei_0_h0w5GzdiUw.html | title=Qué dice la primera encuesta electoral tras el cierre de listas: Sorpresa con el número de Javier Milei | date=28 June 2023 }}</ref>
+| 2.856
+| bgcolor="#0E3C61" |'''{{color|white|24,1}}'''
+|5
+|17,3
+|16,5
+|17,2
+|1,5
+|0,1
+|3,3
+|2,3
+|1,3
+|4,9
+|6,5
+|}
+
+==== Before candidates definition ====
+{{update section|date=August 2023}}
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:95%;line-height:14px;"
+! rowspan="3" |Fieldwork<br/>date
+! rowspan="3" |Polling<br/>firm
+! rowspan="3" |Sample
+! colspan="5" |[[Union for the Homeland|Unión por la Patria]]
+! colspan="7" |[[Juntos por el Cambio]]
+! colspan="2" |[[La Libertad Avanza|LLA]]+[[Avanza Libertad|AL]]
+! colspan="1" |[[Workers' Left Front|FIT–U]]
+! colspan="1" |[[Federal Peronism|PF]]
+! rowspan="3" |Others
+! rowspan="3" |No<br/>one
+! rowspan="3" |Undecided
+|-
+!{{Vert header|[[Alberto Fernández]] ([[Justicialist Party|PJ]])|stp=1|mw=25px}}
+!{{Vert header|[[Cristina Fernández de Kirchner|Cristina F. Kirchner]] ([[Justicialist Party|PJ]])|stp=1|mw=25px}}
+!{{Vert header|[[Daniel Scioli]] ([[Justicialist Party|PJ]])|stp=1|mw=25px}}
+!{{Vert header|[[Axel Kicillof]] ([[Justicialist Party|PJ]])|stp=1|mw=25px}}
+!{{Vert header|[[Sergio Massa]] ([[Renewal Front|FR]])|stp=1|mw=25px}}
+!{{Vert header|[[Horacio Rodríguez Larreta|Horacio R. Larreta]] ([[Republican Proposal|PRO]])|stp=1|mw=25px}}
+!{{Vert header|[[Mauricio Macri]] ([[Republican Proposal|PRO]])|stp=1|mw=25px}}
+!{{Vert header|[[Patricia Bullrich]] ([[Republican Proposal|PRO]])|stp=1|mw=25px}}
+!{{Vert header|[[María Eugenia Vidal]] ([[Republican Proposal|PRO]])|stp=1|mw=25px}}
+!{{Vert header|Facundo Manes ([[Radical Civic Union|UCR]])|stp=1|mw=25px}}
+!{{Vert header|[[Martín Lousteau]] ([[Radical Civic Union|UCR]])|stp=1|mw=25px}}
+!{{Vert header|[[Gerardo Morales (politician)|Gerardo Morales]] ([[Radical Civic Union|UCR]])|stp=1|mw=25px}}
+!{{Vert header|[[Javier Milei]] ([[Libertarian Party (Argentina)|PL]])|stp=1|mw=25px}}
+!{{Vert header|[[José Luis Espert]] ([[Independent politician|IND]])|stp=1|mw=25px}}
+!{{Vert header|[[Nicolás del Caño]] ([[Socialist Workers' Party (Argentina)|PTS]])|stp=1|mw=25px}}
+!{{Vert header|[[Juan Schiaretti]] ([[Justicialist Party|PJ]])|stp=1|mw=25px}}
+|-
+!style="background:{{party color|Justicialist Party}}; width:40px;"  |
+!style="background:{{party color|Justicialist Party}}; width:40px;"  |
+!style="background:{{party color|Justicialist Party}}; width:40px;"  |
+!style="background:{{party color|Justicialist Party}}; width:40px;"  |
+!style="background:{{party color|Renewal Front}}; width:40px;"  |
+!style="background:{{party color|Republican Proposal}}; width:40px;"  |
+!style="background:{{party color|Republican Proposal}}; width:40px;"  |
+!style="background:{{party color|Republican Proposal}}; width:40px;"  |
+!style="background:{{party color|Republican Proposal}}; width:40px;"  |
+!style="background:{{party color|Radical Civic Union}}; width:40px;"  |
+!style="background:{{party color|Radical Civic Union}}; width:40px;"  |
+!style="background:{{party color|Radical Civic Union}}; width:40px;"  |
+!style="background:{{party color|Libertarian Party (Argentina)}}; width:40px;"  |
+!style="background:#23397F; width:40px;"  |
+!style="background:{{party color|Workers' Left Front}}; width:40px;"  |
+!style="background:{{party color|Federal Peronism}}; width:40px;"  |
+|-
+|{{Opdrts||21|Apr|2023|year}}
+| colspan="21" |[[Alberto Fernández]] announces his decision to not seek reelection to the presidency.<ref name="LMM">{{cite web |url= https://www.infobae.com/politica/2023/04/21/alberto-fernandez-no-sera-candidato-a-la-reeleccion/|title= El presidente Alberto Fernández bajó su candidatura y no irá por la reelección|language= Spanish|author= |date= April 21, 2023|publisher= Infobae|accessdate=April 21, 2023}}</ref>
+|-
+|5-15 Apr 2023
+|Opina Argentina<ref>{{cite web | url=https://www.clarin.com/politica/salio-primera-encuesta-corrimiento-alberto-pelea-voto-voto-presidenciales_0_ceWq5oO98Z.html | title=Salió la primera encuesta tras el corrimiento de Alberto: Pelea voto a voto para las presidenciales | date=23 April 2023 }}</ref>
+|1,402
+|–
+|–
+|–
+|10
+|16
+|18
+|–
+|11
+|–
+|–
+|–
+|–
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''24'''
+|–
+|–
+|4
+|10
+|3
+|5
+|-
+| rowspan="4" {{Opdrts|14|17|Nov|2022|year}}
+| rowspan="4" |IPD<ref name="Nueva encuesta electoral: llamativa paridad entre cuatro candidatos de la grieta y Javier Milei"/>
+| rowspan="4" |1,030
+| –
+|29
+| –
+| –
+| –
+| –
+| –
+| bgcolor="#FFF96E" |'''30'''
+| –
+| –
+| –
+| –
+|26
+| –
+| –
+| –
+|6
+|3
+|6
+|-
+| –
+| –
+| –
+| –
+| bgcolor="#0E3C61" |'''{{color|white|31}}'''
+| –
+| –
+|27
+| –
+| –
+| –
+| –
+|30
+| –
+| –
+| –
+|4
+|4
+|4
+|-
+| –
+| –
+| –
+| –
+|28
+| bgcolor="#FFF96E" |'''29'''
+| –
+| –
+| –
+| –
+| –
+| –
+|26
+| –
+| –
+| –
+|6
+|3
+|8
+|-
+| –
+| style="background:{{party color|Justicialist Party}};color:white; |'''29'''
+| –
+| –
+| –
+| bgcolor="#FFF96E" |'''29'''
+| –
+| –
+| –
+| –
+| –
+| –
+|25
+| –
+| –
+| –
+|6
+|4
+|7
+|-
+| rowspan="2" {{Opdrts|10|16|Nov|2022|year}}
+| rowspan="2" |Solmoraigo<ref name="Arde la interna en Juntos por el Cambio: una nueva encuesta enfrentó a sus cinco principales candidatos para 2023"/>
+| rowspan="2" |1,800
+| –
+| style="background:{{party color|Justicialist Party}};color:white; |'''19.8'''
+| –
+| –
+|5.7
+|15.2
+| –
+|14.1
+| –
+|4.3
+| –
+| –
+|17.9
+| –
+| –
+| –
+|1.5
+| –
+|21.5
+|-
+|4.8
+| style="background:{{party color|Justicialist Party}};color:white; |'''16.7'''
+| –
+|2.1
+|4
+|11.8
+|11.2
+|10.4
+| –
+|2.5
+| –
+|2.9
+|15.6
+|2
+| –
+| –
+|0.9
+| –
+|15.1
+|-
+|{{Opdrts|8|10|Nov|2022|year}}
+|Opina Argentina<ref name="Una nueva encuesta midió internas para 2023: quiénes ganaron en Juntos por el Cambio y el Frente de Todos"/>
+|1,100
+|6
+| style="background:{{party color|Justicialist Party}};color:white; |'''19'''
+| –
+| –
+|5
+|13
+|11
+|8
+| –
+|3
+| –
+|4
+|17
+| –
+|3
+| –
+| –
+|3
+|8
+|-
+|{{Opdrts||29|Oct|2022|year}}
+| colspan="21" |[[Martín Lousteau]] announces his candidacy for head of government of [[Buenos Aires|CABA]].<ref>{{Cite news |date=29 October 2022 |title=Martín Lousteau: "Soy candidato a jefe de Gobierno de una coalición" |agency=Infobae |url=https://www.infobae.com/politica/2022/10/29/martin–lousteau–soy–candidato–a–jefe–de–gobierno–de–una–coalicion/ |access-date=29 October 2022}}</ref>
+|-
+|{{Opdrts|20|29|Oct|2022|year}}
+|Opinaia<ref name="Sorpresa: en una nueva encuesta, Javier Milei le sacó 9 puntos a Cristina como los más votados para 2023"/>
+|2,000
+|4
+|13
+| –
+|3
+|3
+|5
+|9
+|9
+|3
+|3
+| –
+|1
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''22'''
+|1
+|2
+|3
+|3
+| –
+|16
+|-
+|{{Opdrts||18|Oct|2022|year}}
+| colspan="21" |[[José Luis Espert]] announces his candidacy for governor of the [[Buenos Aires Province]].<ref>{{Cite news |date=18 October 2022 |title=José Luis Espert se lanzó como candidato a gobernador en 2023 y apuntó contra Axel Kicillof |agency=Infobae |url=https://www.infobae.com/politica/2022/10/19/jose–luis–espert–se–lanzo–como–candidato–a–gobernador–en–2023–y–apunto–contra–axel–kicillof/ |access-date=24 October 2022}}</ref>
+|-
+| rowspan="2" {{Opdrts|9|16|Oct|2022|year}}
+| rowspan="2" |Ricardo Rouvier & Asociados<ref name="ENCUESTA NACIONAL – OCTUBRE"/>
+| rowspan="2" |1,200
+| –
+|27
+| –
+| –
+| –
+| bgcolor="#FFF96E" |'''31.8'''
+| –
+| –
+| –
+| –
+| –
+| –
+|16.2
+| –
+| –
+| –
+|4.8
+|12.1
+|8.1
+|-
+| –
+| –
+| –
+| –
+|22.7
+| bgcolor="#FFF96E" |'''33'''
+| –
+| –
+| –
+| –
+| –
+| –
+|12.7
+| –
+| –
+| –
+|5.1
+|14.4
+|12.1
+|-
+|{{Opdrts|10|14|Oct|2022|year}}
+|Reale Dalla Torre<ref name="Una nueva encuesta ya midió balotajes para 2023: Macri, Larreta y Bullrich vs. Cristina y Massa"/>
+|1,250
+|4.4
+|19.3
+| –
+| –
+|5.4
+|11.7
+|7.9
+|10.8
+| –
+|5.6
+| –
+|1.6
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''22'''
+| –
+|2.7
+| –
+|0.1
+| –
+|8.5
+|-
+| rowspan="6" {{Opdrts|10|14|Oct|2022|year}}
+| rowspan="6" |IPD<ref name="Sorpresa: por primera vez, una encuesta lo muestra a Javier Milei entrando a un balotaje"/>
+| rowspan="6" |1,043
+| –
+| –
+| –
+| –
+|25
+| –
+|25
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''31'''
+| –
+|7
+| –
+| –
+|4
+|8
+|-
+| –
+|28
+| –
+| –
+| –
+| –
+|25
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''30'''
+| –
+|7
+| –
+| –
+|5
+|5
+|-
+| –
+|28
+| –
+| –
+| –
+| –
+| –
+| bgcolor="#FFF96E" |'''29'''
+| –
+| –
+| –
+| –
+|27
+| –
+|6
+| –
+| –
+|3
+|8
+|-
+| –
+| –
+| –
+| –
+|24
+| –
+| –
+|27
+| –
+| –
+| –
+| –
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''30'''
+| –
+|7
+| –
+| –
+|4
+|8
+|-
+| –
+| –
+| –
+| –
+|25
+|27
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''28'''
+| –
+|7
+| –
+| –
+|3
+|10
+|-
+| –
+|27
+| –
+| –
+| –
+| bgcolor="#FFF96E" |'''29'''
+| –
+| –
+| –
+| –
+| –
+| –
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''29'''
+| –
+|6
+| –
+| –
+|4
+|5
+|-
+|{{Opdrts|12|19|Sep|2022|year}}
+|IPD<ref name="La guerra de encuestas, sin freno: tres nuevos estudios con números muy diferentes para 2023"/>
+|1,028
+|5
+| style="background:{{party color|Justicialist Party}};color:white; |'''17'''
+|1
+|3
+|9
+|13
+|5
+|10
+| –
+|5
+| –
+| –
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''17'''
+|2
+|2
+| –
+| –
+|2
+|3
+|-
+|{{Opdrts|12|22|Sep|2022|year}}
+|Opinaia<ref name="Nueva encuesta electoral: Javier Milei toca su récord y hay empate del Frente de Todos y Juntos por el Cambio"/>
+|2,000
+|5
+|14
+|1
+|3
+|4
+|6
+|7
+|7
+|4
+|2
+| –
+|1
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''21'''
+|2
+|2
+|2
+|4
+| –
+|14
+|-
+|{{Opdrts|15|17|Sep|2022|year}}
+|Federico González & Asociados<ref name="Nueva encuesta electoral: Cristina Kirchner y Javier Milei arriba, y fuerte paridad en Juntos por el Cambio"/>
+|800
+|4
+| style="background:{{party color|Justicialist Party}};color:white; |'''16.5'''
+| –
+| –
+|8.2
+|11.3
+|9.3
+|10.8
+| –
+|4.5
+| –
+| –
+|15.8
+| –
+|3.5
+| –
+|3
+|4.6
+|8.5
+|-
+|{{Opdrts|4|14|Sep|2022|year}}
+|Ricardo Rouvier & Asociados<ref name="INFORME NACIONAL – SEPTIEMBRE1"/>
+|1,200
+| –
+| –
+| –
+| –
+|21.6
+| bgcolor="#FFF96E" |'''30.8'''
+| –
+| –
+| –
+| –
+| –
+| –
+|18.6
+| –
+| –
+| –
+|5.1
+|9.2
+|14.7
+|-
+|{{Opdrts|2|3|Sep|2022|year}}
+|GOP y Trespuntozero<ref name="Encuesta revela a quién votarán los «desencantados» del kirchnerismo"/>
+|1,650
+|4.9
+| style="background:{{party color|Justicialist}};color:white; |'''21.8'''
+|0.5
+| –
+|3.1
+|6.8
+|13.7
+|14.7
+| –
+|2.4
+| –
+|0.5
+|20
+|1.8
+|0.9
+| –
+| –
+|2.9
+|4.8
+|-
+|{{Opdrts||1|Sep|2022|year}}
+| colspan="21" |[[Attempted assassination of Cristina Fernández de Kirchner]]
+|-
+|{{Opdrts|13|24|Aug|2022|year}}
+|Opinaia<ref name="Una nueva encuesta midió internas para 2023: ganó Cristina, arrasó Milei y hubo empate entre dos PRO"/>
+|2,000
+|6
+|13
+|1
+|2
+|5
+|6
+|8
+|8
+|3
+|4
+| –
+|1
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''18'''
+|2
+|1
+|2
+|6
+| –
+|14
+|-
+|{{Opdrts|5|13|Aug|2022|year}}
+|Ricardo Rouvier & Asociados<ref name="La encuesta que posiciona a Javier Milei en un lugar importante"/>
+|1,200
+| –
+| –
+| –
+| –
+|18.7
+| bgcolor="#FFF96E" |'''31'''
+| –
+| –
+| –
+| –
+| –
+| –
+|20.9
+| –
+| –
+| –
+|4.6
+|11.7
+|13.1
+|-
+|{{Opdrts|27|30|Jul|2022|year}}
+|Giacobbe & Asociados<ref name="Sorpresa: desde Juntos por el Cambio encargaron una encuesta electoral y ganaron Javier Milei y Axel Kicillof"/>
+|3,000
+|2.7
+|15.1
+| –
+| –
+| –
+|3.4
+|14.2
+|15.1
+| –
+|2.2
+| –
+| –
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''20.2'''
+| –
+| –
+| –
+|17.7
+| –
+|6.4
+|-
+|{{Opdrts|22|28|Jul|2022|year}}
+|CB Consultora<ref name="Nueva encuesta electoral: los últimos datos de Sergio Massa, Javier Milei y otros siete candidatos clave"/>
+|3,075
+|5.4
+|11.7
+| –
+| –
+|7
+|11.1
+|8.3
+|8.9
+| –
+|3.7
+| –
+|2.5
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''14.5'''
+| –
+| –
+| –
+|4.7
+|6.9
+|15.3
+|-
+|{{Opdrts|6|12|Jul|2022|year}}
+|Real Dalla Torre<ref name="Una nueva encuesta midió balotaje: Mauricio Macri y Larreta vs. Cristina Kirchner y Daniel Scioli"/>
+|1,185
+|5.2
+| style="background:{{party color|Justicialist Party}};color:white; |'''20.4'''
+|1.3
+| –
+|3.4
+|11.4
+|8.5
+|6.9
+|4
+|3.1
+| –
+|1
+|18
+|2.3
+|3.1
+| –
+|1
+| –
+|10.4
+|-
+|{{Opdrts|13|28|Jun|2022|year}}
+|Opinaia<ref name="Nueva encuesta para el 2023: ganaron Javier Milei y Cristina Kirchner, y hubo empate Macri–Larreta"/>
+|2,400
+|6
+|14
+| –
+|2
+|2
+|8
+|8
+|6
+|4
+|4
+| –
+|2
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''17'''
+|2
+|2
+|2
+|5
+| –
+|14
+|-
+|{{Opdrts|18|23|Jun|2022|year}}
+|Analogías<ref>{{Cite news |date=4 July 2022 |title=En medio de la crisis, nueva encuesta electoral: buenas noticias para Juntos por el Cambio y Javier Milei |agency=Clarín |url=https://www.clarin.com/politica/medio–crisis–nueva–encuesta–electoral–buenas–noticias–juntos–cambio–javier–milei_0_bcllxWloFw.html |access-date=4 July 2022 }}</ref>
+|1,200
+|13.1
+|15.9
+| –
+| –
+|2.6
+| bgcolor="#FFF96E" |'''18.5'''
+| –
+|13.8
+| –
+|9.1
+| –
+| –
+|9.5
+|2.1
+|3.6
+| –
+|5
+|2.1
+|4.6
+|-
+|{{Opdrts|14|22|Jun|2022|year}}
+|CB Consultora<ref name="Sorpresa: una encuesta posiciona a Milei como el candidato con más votos"/>
+|2,959
+|6.1
+|13.2
+|3.9
+| –
+|4.7
+|15.5
+| –
+|11.2
+| –
+|6.1
+| –
+| –
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''16.6'''
+| –
+|2
+| –
+| –
+|2.1
+|12.8
+|-
+|{{Opdrts|9|12|Jun|2022|year}}
+|Raúl Aragón & Asociados<ref name="Consultoras midieron las propuestas de Javier Milei: ¿Qué opinan los votantes?" />
+|1,803
+|10.8
+|20.6
+| –
+| –
+| –
+| bgcolor="#FFF96E" |'''22.9'''
+|10.2
+|7.4
+| –
+| –
+| –
+|3.9
+|13.1
+| –
+|1.3
+| –
+|5.6
+|1.4
+|2.8
+|-
+|{{Opdrts||10|Jun|2022|year}}
+| colspan="21" |[[Javier Milei]] launches his candidacy for president.<ref>{{Cite news |date=11 June 2022 |title=A lo Rosenkrantz: Milei lanzó su candidatura y se plantó contra una máxima peronista |agency=ambito |url=https://www.ambito.com/politica/javier–milei/a–lo–rosenkrantz–milei–lanzo–su–candidatura–y–se–planto–contra–una–maxima–peronista–n5460693 |access-date=11 June 2022}}</ref>
+|-
+|{{Opdrts||7|Jun|2022|year}}
+| colspan="21" |[[Patricia Bullrich]] launches her candidacy for president.<ref name="Patricia Bullrich presentó su plan de gobierno de la mano de Macri">{{Cite news |date=7 June 2022 |title=Patricia Bullrich presentó su plan de gobierno de la mano de Macri |agency=La Nacion |url=https://www.lanacion.com.ar/politica/patricia–bullrich–presento–su–plan–de–gobierno–de–la–mano–de–macri–nid07062022/?R=b55129 |access-date=7 June 2022}}</ref>
+|-
+|{{Opdrts|13|26|May|2022|year}}
+|Opinaia<ref name="Hicieron una encuesta presidencial distinta y hubo cambios entre los ganadores"/>
+|2,400
+|7
+|13
+| –
+|2
+|2
+|6
+|8
+|5
+|4
+|2
+|2
+|1
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''21'''
+|2
+|2
+|2
+|5
+| –
+|16
+|-
+|{{Opdrts|10|24|May|2022|year}}
+|Management & Fit<ref name="Nueva encuesta electoral: los últimos datos en Nación, Provincia y Ciudad para el 2023"/>
+|1,340
+|5.7
+|17.9
+| –
+|4.7
+|3.6
+| bgcolor="#FFF96E" |'''19.3'''
+|3.6
+|2.8
+|3.7
+|1.7
+|0.9
+|0.1
+|15.6
+| –
+| –
+| –
+|6.5
+| –
+|13.9
+|-
+|{{Opdrts|13|16|May|2022|year}}
+|Raúl Aragón & Asociados<ref name="Consultoras midieron las propuestas de Javier Milei: ¿Qué opinan los votantes?"/>
+|1,800
+|9.1
+|20.1
+| –
+| –
+| –
+| bgcolor="#FFF96E" |'''24.3'''
+|10.9
+|7.2
+| –
+| –
+| –
+|4.4
+|18.3
+| –
+|0.3
+| –
+|2.4
+|1.6
+|1.3
+|-
+| rowspan="2" {{Opdrts|2|6|May|2022|year}}
+| rowspan="2" |GOP y Trespuntozero<ref name="Encuestas: el Frente de Todos quedó cuatro puntos arriba de Juntos"/>
+| rowspan="2" |1,800
+|9.7
+| style="background:{{party color|Justicialist Party}};color:white; |'''19.7'''
+|1.5
+| –
+|2.5
+|9.4
+| –
+|14.6
+| –
+|3.4
+| –
+|0.9
+|17.6
+|2.7
+|0.6
+| –
+|2
+|7.1
+|8.3
+|-
+|10.7
+| style="background:{{party color|Justicialist Party}};color:white; |'''19.9'''
+|1.4
+| –
+|2.5
+|7
+|9.8
+|8.5
+| –
+|3.3
+| –
+|0.7
+|17.9
+|2
+|0.3
+| –
+|1.4
+|7.1
+|7.5
+|-
+|Apr 2022
+|Arasco<ref name="Según una encuesta Javier Milei gana terreno de cara al 2023 y Rodríguez Larreta sacaría ventaja en una interna opositora"/>
+|2,490
+|11.9
+|19.9
+| –
+| –
+| –
+|16.5
+| –
+|12.3
+| –
+|5.8
+| –
+| –
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''20.7'''
+| –
+|3.9
+| –
+|3.2
+|2.3
+|3.5
+|-
+|{{Opdrts|10|15|Apr|2022|year}}
+|Raúl Aragón & Asociados<ref name="¿Cuál es la tendencia electoral que se consolida a nivel país, según esta reciente encuesta?"/>
+|1,500
+|7
+| style="background:{{party color|Justicialist Party}};color:white; |'''20'''
+| –
+| –
+|7.1
+|18.4
+|14
+| –
+| –
+| –
+| –
+|5.7
+|15.6
+|3.2
+| –
+| –
+|4.9
+|1.7
+|2.4
+|-
+|{{Opdrts||11|Apr|2022|year}}
+| colspan="21" |[[Javier Milei]] announces that he will be a candidate for president of the nation.<ref>{{Cite web |date=2022-04-11 |title=Javier Milei decidió que será candidato a presidente: qué tiene, cuánto mide y a quiénes quiere sumar |url=https://www.clarin.com/politica/javier–milei–decidio–candidato–presidente–mide–quiere–sumar_0_uXj7e08MMQ.html |access-date=2022-04-12 |language=es |agency=Clarín}}</ref>
+|-
+|{{Opdrts|31|2|Apr|2022|year}}
+|Circuitos<ref name="Una encuesta midió en Provincia para el 2023: sorprendieron Cristina Kirchner, Mauricio Macri y Javier Milei"/>
+|1,382
+|5.7
+| style="background:{{party color|Justicialist Party}};color:white; |'''20.4'''
+| –
+| –
+|3.2
+|12.9
+|15.8
+| –
+| –
+| –
+| –
+|3.6
+|18.3
+| –
+|3.7
+| –
+| –
+|16.4
+| –
+|-
+|{{Opdrts|14|22|Mar|2022|year}}
+|Opinaia<ref name="Nueva encuesta electoral: el Frente de Todos un punto arriba y crece muy fuerte Javier Milei"/>
+|2,400
+|8
+|15
+| –
+|2
+|3
+|9
+|7
+|5
+|5
+| –
+|3
+|1
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''18'''
+|2
+|3
+|3
+|3
+| –
+|13
+|-
+|{{Opdrts|1|4|Feb|2022|year}}
+|GOP y Trespuntozero<ref name="Nueva encuesta para 2023: Cristina Kirchner fue la más votada y sorprenden Javier Milei y Patricia Bullrich"/>
+|1,900
+|13.7
+| style="background:{{party color|Justicialist Party}};color:white; |'''17.5'''
+| –
+| –
+| –
+|6.9
+|10.2
+|13
+| –
+|2.6
+|0.8
+|0.8
+|14.6
+| –
+|1.1
+| –
+|1.9
+|9.7
+|7.2
+|-
+|{{Opdrts|10|28|Jan|2022|year}}
+|Opinaia<ref name="Elecciones 2023: un sondeo midió internas y hubo sorpresas"/>
+|2,400
+|11
+|13
+| –
+|5
+|3
+|9
+|9
+|5
+|6
+| –
+|2
+|1
+| style="background:{{party color|Libertarian Party (Argentina)}};color:white; |'''14'''
+|3
+|4
+|3
+| –
+| –
+|12
+|-
+|{{Opdrts|1|5|Jan|2022|year}}
+|GOP y Trespuntozero<ref name="Una encuesta revela a quién preferiría votar la clase media en 2023 y qué dirigente tiene más chances de ser presidente"/>
+|1,800
+|8.8
+|16.2
+| –
+| –
+| –
+|13
+|10.6
+| bgcolor="#FFF96E" |'''18.3'''
+| –
+|1.9
+|2.3
+|2
+|10.5
+| –
+|1.3
+| –
+|1.5
+|10.1
+|3.5
+|-
+|{{Opdrts|17|21|Dec|2021|year}}
+|Opinaia<ref>{{Cite news |date=14 January 2022 |title=Sorpresa: encuesta presidencial le dio a Milei la misma intención de voto que a Larreta y Alberto Fernández |agency=Nexofin |url=https://www.nexofin.com/notas/991424–sorpresa–encuesta–presidencial–le–dio–a–milei–la–misma–intencion–de–voto–que–a–larreta–y–el–presidente–n–/ |access-date=14 December 2022 }}</ref>
+|2,400
+|12
+| style="background:{{party color|Justicialist Party}};color:white; |'''14'''
+| –
+|5
+|3
+|12
+|13
+| –
+| –
+|5
+|4
+| –
+|12
+|4
+|4
+|3
+| –
+| –
+|9
+|-
+|{{Opdrts|17|20|Dec|2021|year}}
+|CB Consultora<ref name="Tempranera: una encuesta ya mide las presidenciales 2023; Alberto, Larreta, CFK, ganadores y perdedores"/>
+|1,511
+|9
+| style="background:{{party color|Justicialist Party}};color:white; |'''18.8'''
+| –
+| –
+| –
+|18.4
+| –
+|14.1
+| –
+| –
+| –
+|6.1
+|9.4
+|2.8
+|3.1
+| –
+| –
+| –
+|18.3
+|-
+|{{Opdrts|15|17|Dec|2021|year}}
+|CB Consultora<ref name="Encuesta: qué pasaría si las elecciones presidenciales fueran hoy"/><ref name="Tras su buena elección en Ciudad, una encuesta midió por primera vez a Javier Milei para presidente 2023">{{Cite news |date=21 November 2021 |title=Tras su buena elección en Ciudad, una encuesta midió por primera vez a Javier Milei para presidente 2023 |agency=Clarín |url=https://www.clarin.com/politica/buena–eleccion–ciudad–encuesta–midio–primera–vez–javier–milei–presidente–2023_0_eTf–tbKqH.html |access-date=22 November 2021}}</ref>
+|1,575
+|3.5
+|16.2
+| –
+|1.1
+|3.9
+| bgcolor="#FFF96E" |'''17.6'''
+|10.7
+|6.2
+| –
+|7.3
+| –
+|3.4
+|13.7
+|5.5
+| –
+| –
+|2.7
+| –
+|16.2
+|-
+|{{Opdrts|26|2|Aug|2021|year}}
+|Real Time Data<ref name="Cuatro encuestas se adelantaron y midieron para la presidencial: en una ganó Axel Kicillof">{{Cite news |date=10 August 2021 |title=Cuatro encuestas se adelantaron y midieron para la presidencial: en una ganó Axel Kicillof |agency=Clarín |url=https://www.clarin.com/politica/encuestas–adelantaron–midieron–presidencial–gano–axel–kicillof_0_nxbxRpynh.html |access-date=28 August 2021}}</ref>
+|2,200
+|10
+|7
+| –
+| style="background:{{party color|Justicialist Party}};color:white; |'''13'''
+|3
+|12
+|7
+|6
+|3
+|2
+| –
+| –
+| –
+|2
+| –
+| –
+|18
+| –
+|17
+|-
+|{{Opdrts|6|10|Jan|2021|year}}
+|Real Time Data<ref name="Encuesta de cara al 2023: un favorito y la insólita medida que piden los votantes sobre Espert y el Frente de Izquierda">{{Cite news |date=22 January 2021 |title=Encuesta de cara al 2023: un favorito y la insólita medida que piden los votantes sobre Espert y el Frente de Izquierda |agency=iProfesional |url=https://www.iprofesional.com/politica/331922–una–encuesta–ya–mide–pensando–en–el–2023–quien–es–el–favorito |access-date=8 October 2021}}</ref>
+|1,050
+| style="background:{{party color|Justicialist Party}};color:white; |'''16'''
+|7
+| –
+|5
+|2
+|10
+|5
+| –
+|3
+| –
+| –
+| –
+| –
+|3
+| –
+| –
+|23
+| –
+|23
+|}
+
+====Hypothetical scenarios====
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+! rowspan="3" |Fieldwork<br/>date
+! rowspan="3" |Polling<br/>firm
+! rowspan="3" |Sample
+! [[Independent politician|Independent]]
+! colspan="5" |[[Frente de Todos|Everyone's Front]]
+! colspan="7" |[[Juntos por el Cambio]]
+! colspan="2" |[[La Libertad Avanza|LLA]]+[[Avanza Libertad|AL]]
+! colspan="1" |[[Workers' Left Front|FIT–U]]
+! colspan="1" |[[Federal Peronism|PF]]
+! rowspan="3" |Others
+! rowspan="3" |No<br/>one
+! rowspan="3" |Undecided
+|-
+![[Lionel Messi|Messi]]
+![[Alberto Fernández|Fernández]]
+![[Cristina Fernández de Kirchner|Kirchner]]
+![[Daniel Scioli|Scioli]]
+![[Axel Kicillof|Kicillof]]
+![[Sergio Massa|Massa]]
+![[Horacio Rodríguez Larreta|Larreta]]
+![[Mauricio Macri|Macri]]
+![[Patricia Bullrich|Bullrich]]
+![[María Eugenia Vidal|Vidal]]
+!Manes
+![[Martín Lousteau|Lousteau]]
+![[Gerardo Morales (politician)|Morales]]
+![[Javier Milei|Milei]]
+![[José Luis Espert|Espert]]
+![[Nicolás del Caño|Del Caño]]
+![[Juan Schiaretti|Schiaretti]]
+|-
+!style="background:{{party color|Independent politician}}; width:40px;"  |
+! colspan="5" style="background:{{party color|Frente de Todos}}; width:40px;"  |
+! colspan="7" style="background:{{party color|Juntos por el Cambio}}; width:40px;"  |
+!style="background:{{party color|Libertarian Party (Argentina)}}; width:40px;"  |
+!style="background:#23397F; width:40px;"  |
+!style="background:{{party color|Workers' Left Front}}; width:40px;"  |
+!style="background:{{party color|Federal Peronism}}; width:40px;"  |
+|-
+|{{Opdrts|19|20|Dec|2022|year}}
+|Giacobbe & Asociados<ref name="MessiForPresident">{{Cite news |date=27 December 2022 |title=¿Cómo le iría a Messi en una elección presidencial?: las sorpresas sobre sus "rivales" |agency=Cronista |url=https://www.cronista.com/economia–politica/como–le–iria–a–messi–en–una–carrera–presidencial–la–sorpresa–sobre–quien–saldria–segundo/ |access-date=27 December 2022 }}</ref>
+|2,500
+| bgcolor="#E1E1E1" |'''36.7'''
+| 1.3
+| 11.3
+| –
+| –
+| 1.4
+| 2.9
+| 6.9
+| 8.8
+| –
+| 1.8
+| –
+| –
+| 12.0
+| –
+| 0.8
+| –
+| –
+| 5.9
+| 10.0
+|}
+
+== Second round ==
+{{Wide image|Encuestas de intención de voto Argentina 2023 (segunda vuelta).svg|1100px|Local regression trend line of survey results for the second round.}}
+
+A presidential candidate wins the second round by winning a [[Simple majority vote|simple majority]] of votes.
+
+=== After the primaries ===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:30px; background-color:#8B8B8B"
+!rowspan=2|Fieldwork date
+!rowspan=2|Polling firm
+!rowspan=2|Sample
+! rowspan="2" |'''Margin of Error'''
+! colspan="1" |[[Union for the Homeland|UP]]
+! colspan="1" |[[La Libertad Avanza|LLA]]
+!colspan=1|[[Juntos por el Cambio|JxC]]
+! rowspan="2" |Undecided
+! rowspan="2" |'''Void or blank'''
+! rowspan="2" |Margin
+|-
+![[Sergio Massa]]
+![[Javier Milei]]
+![[Patricia Bullrich]]
+|- style="background:#EFEFEF;"
+|'''19 November 2023'''
+|'''[[2023 Argentine general election|General elections]]'''
+| -
+| -
+| 44.3%
+| style="background:#a68fc8; color:black;" | '''55.7%'''
+| -
+| -
+|3.13%
+| style="background:#a68fc8; color:black;" | '''11.4%'''
+|-
+| colspan="10" style="background:#A0A0A0" |
+|-
+|5–9 November 2023
+|AtlasIntel<ref>{{Cite web |title=Argentina: National {{!}} AtlasIntel |url=https://atlasintel.org/poll/argentina-national-2023-11-10 |access-date=2023-11-14 |website=atlasintel.org |language=en}}</ref>
+|8,971
+|1.0%
+|44.6%
+|style="background:#a68fc8; color:black;" |'''48.6%'''
+| rowspan="8" |―
+|2.3%
+|4.4%
+|style="background:#a68fc8; color:black;" |'''4.0%'''
+|-
+|25 October–8 November 2023
+|CELAG<ref>{{Cite web |title=AmericaElige/status/1725351134968062255 |url=https://twitter.com/AmericaElige/status/1725351134968062255 |access-date=2023-11-18 |website=X (formerly Twitter) |language=en}}</ref>
+|2,005
+|
+| bgcolor="lightblue"|'''50.8%'''
+|49.2%
+| colspan="2" | ―
+| bgcolor="lightblue"|'''1.6%'''
+|-
+|rowspan="2" |1–6 November 2023
+|CB Consultora<ref>{{Cite web |date=2023-11-05 |title=INFORME ARGENTINA – 02 A 04 DE NOVIEMBRE 2023- ELECCIONES BALLOTAGE PRESIDENTE – 2471 CASOS – Líderes en el estudio de la Opinión pública |url=https://www.cbconsultora.com.ar/informe-argentina-02-a-04-de-noviembre-2023-elecciones-ballotage-presidente-2471-casos/ |access-date=2023-11-14}}</ref>
+|2,471
+|2.0%
+|43.1%
+|style="background:#a68fc8; color:black;" |'''46.3%'''
+|5.7%
+|4.9%
+|style="background:#a68fc8; color:black;" |'''3.2%'''
+|-
+|Proyección Consultores<ref>{{Cite web |title=AmericaElige/status/1724626256757469558 |url=https://twitter.com/AmericaElige/status/1724626256757469558 |access-date=2023-11-18 |website=X (formerly Twitter) |language=en}}</ref>
+|3,879
+|
+|49%
+|style="background:#a68fc8; color:black;" |'''51%'''
+|colspan="1" rowspan="3" | ―
+|colspan="1" rowspan="7" | ―
+|style="background:#a68fc8; color:black;" |'''2%'''
+|-
+|rowspan="4" |1–3 November 2023
+|AtlasIntel<ref>{{Cite web |title=AmericaElige/status/1722090637728604352 |url=https://twitter.com/AmericaElige/status/1722090637728604352 |access-date=2023-11-13 |website=X (formerly Twitter) |language=en}}</ref><ref>{{Cite web |title=Argentina: National {{!}} AtlasIntel |url=https://atlasintel.org/poll/argentina-national-2023-11-10 |access-date=2023-11-13 |website=atlasintel.org |language=en}}</ref>
+|3,218
+|
+|48%
+|style="background:#a68fc8; color:black;" |'''52%'''
+|style="background:#a68fc8; color:black;" |'''4%'''
+|-
+|CIGP<ref>{{Cite web |title=AmericaElige/status/1722760399316033580 |url=https://twitter.com/AmericaElige/status/1722760399316033580 |access-date=2023-11-13 |website=X (formerly Twitter) |language=en}}</ref>
+|1,798
+|
+|49%
+|style="background:#a68fc8; color:black;" |'''51%'''
+|style="background:#a68fc8; color:black;" |'''2%'''
+|-
+|Analogias<ref>{{Cite news |date=2023-11-06 |title=Argentina polls show election race tightening; winner hard to call |language=en |work=Reuters |url=https://www.reuters.com/world/americas/argentina-polls-show-election-race-tightening-winner-hard-to-call-2023-11-06/ |access-date=2023-11-06}}</ref>
+|2,324
+| 2.4%
+| bgcolor="lightblue"| '''42.4%'''
+| 39.7%
+| 18%
+| bgcolor="lightblue"| '''2.7%'''
+|-
+|Atlas Intel<ref>{{Cite web |date=2023-11-03 |title=La encuestadora que acertó en primera vuelta da ganador a Milei sobre Massa en el balotaje |url=https://www.perfil.com/noticias/politica/la-encuestadora-que-acerto-los-resultados-de-la-primera-vuelta-da-ganador-a-milei-sobre-massa-en-el-balotaje.phtml |access-date=2023-11-03 |website=Perfil |language=es}}</ref>
+|3,218
+|
+|44.7%
+| style="background:#a68fc8; color:black;" |'''48.5%'''
+|2.5%
+| style="background:#a68fc8; color:black;" |'''3.8%'''
+|-
+|28–29 October 2023
+|Zuban Cordoba<ref>{{Cite web |last=Clarín.com |date=2023-11-01 |title=Nueva encuesta: cómo pegó el pacto Macri-Milei y los últimos números para el balotaje |url=https://www.clarin.com/politica/nueva-encuesta-pego-pacto-macri-milei-ultimos-numeros-balotaje_0_y6AJPNT2ga.html |access-date=2023-11-03 |website=Clarín |language=es}}</ref>
+|2,000
+|
+| bgcolor="lightblue"|'''45.4%'''
+|43.1%
+|4.3% (?)
+|7.3%
+| bgcolor="lightblue"|'''2.3%'''
+|-
+|23–29 October 2023
+|Inteligencia Analitica<ref>{{Cite web |last=Clarín.com |date=2023-11-02 |title=Sorpresa: la encuestadora que mide para Massa lo tiene arriba a Milei para el balotaje |url=https://www.clarin.com/politica/sorpresa-encuestadora-mide-massa-arriba-milei-balotaje_0_cnsgfvKfnL.html |access-date=2023-11-03 |website=Clarín |language=es}}</ref>
+|17,395
+|
+|43.1%
+| style="background:#a68fc8; color:black;" |'''43.3%'''
+|7.3% (?)
+|6.3%
+| style="background:#a68fc8; color:black;" |'''0.2%'''
+|-
+|'''25 October 2023'''
+| colspan="9" |'''Patricia Bullrich endorses Javier Milei for president.'''
+|-
+| rowspan="2" |23–25 October 2023
+| rowspan="2" |Analogias<ref>{{Cite web |date=2023-10-26 |title=Nueva encuesta sobre el balotaje: Cómo queda Massa tras el apoyo de Macri y Bullrich a Milei {{!}} Toma fuerza la propuesta de un gobierno de unidad nacional |url=https://www.pagina12.com.ar/608085-una-encuesta-marca-el-favoritismo-de-sergio-massa-en-el-balo |access-date=2023-10-27 |website=PAGINA12 |language=es}}</ref>
+| rowspan="2" |1,954
+| rowspan="2" |2.4%
+| bgcolor="lightblue" |'''45.5%'''
+|37.0%
+| rowspan="2" |17.5% (?)
+| colspan="2" | ―
+| bgcolor="lightblue" |'''8.5%'''
+|-
+| bgcolor="lightblue" |'''42.4%'''
+|34.3%
+|5.8%
+| ―
+| bgcolor="lightblue" |'''8.1%'''
+|-
+| rowspan="3" |23–24 October 2023
+| rowspan="2" |Proyección<ref>{{Cite web |last=Kollmann |first=Raúl |date=2023-10-25 |title=Primera encuesta tras la elección: Massa aumenta la distancia sobre Milei {{!}} Números a mirar con cautela de cara al balotaje |url=https://www.pagina12.com.ar/606129-segun-la-primera-encuesta-tras-el-domingo-massa-aumenta-la-d |access-date=2023-10-26 |website=PAGINA12 |language=es}}</ref>
+| rowspan="2" |1,459
+| rowspan="2" |2.63%
+| bgcolor="lightblue" |'''51.9%'''
+|39.8%
+| rowspan="2" |8.3% (?)
+| colspan="2" | ―
+| bgcolor="lightblue" |'''12.1%'''
+|-
+| bgcolor="lightblue" |'''44.6%'''
+|34.2%
+|5.9%
+|7%
+| bgcolor="lightblue" |'''10.4%'''
+|-
+|CB<ref>{{Cite web |date=2023-10-25 |title=Tras la elección, qué dice la primera encuesta que midió balotaje Massa vs. Milei |url=https://www.clarin.com/politica/eleccion-dice-primera-encuesta-midio-balotaje-massa-vs-milei_0_fEOFPr2k0s.html |access-date=2023-10-28 |website=Clarín |language=es}}</ref>
+|1,750
+|2.4%
+|40.4%
+| style="background:#a68fc8; color:black;" |'''41.6%'''
+|7.5% (?)
+| colspan="2" |10.4%
+| style="background:#a68fc8; color:black;" |'''1.2%'''
+|-
+|'''22 October 2023'''
+| colspan="9" |'''Sergio Massa and Javier Milei advance to the second round on 19 November 2023.'''
+|-
+| rowspan="3" |13–25 August 2023
+| rowspan="3" |Opinaia<ref name="Las primeras encuestas post PASO anticipan un ballottage entre Milei y Massa, con Bullrich cerca" />
+| rowspan="3" |2,000
+| rowspan="3" |2.2%
+|32%
+| ―
+| style="background:khaki; color:black;" |'''44'''%
+|24%
+| colspan="1" rowspan="6" | ―
+| style="background:khaki; color:black;" |'''12%'''
+|-
+|30%
+| style="background:#a68fc8; color:black;" |'''49%'''
+| ―
+|21%
+| style="background:#a68fc8; color:black;" |'''19%'''
+|-
+| ―
+| style="background:#a68fc8; color:black;" |'''39'''%
+|31'''%'''
+|30%
+| style="background:#a68fc8; color:black;" |'''8%'''
+|-
+| rowspan="3" |16–17 August 2023
+| rowspan="3" |UBA<ref>{{Cite web |last=Alvez |first=Julián |date=2023-09-25 |title=A un mes de las elecciones: 8 encuestas y 5 analistas pronostican quién llega mejor |url=https://www.cronista.com/economia-politica/a-un-mes-de-las-elecciones-7-encuestas-y-5-analistas-pronostican-quien-llega-mejor/ |access-date=2023-10-27 |website=cronista.com |language=es}}</ref><ref>{{cite news|title=Una encuesta da ganador a Milei en el ballottage con cualquier rival y muestra un dato clave sobre la fidelización del voto|url=https://www.lanacion.com.ar/politica/elecciones-2023-una-encuesta-da-ganador-a-milei-en-el-ballottage-con-cualquier-rival-y-muestra-un-nid22082023/|work=La Nacion|date=22 August 2023}}</ref>
+| rowspan="3" |4,623
+| rowspan="3" |1.5%
+|35%
+| ―
+| style="background:khaki; color:black;" |'''51%'''
+|14%
+| style="background:khaki; color:black;" |'''16%'''
+|-
+|37%
+| style="background:#a68fc8; color:black;" |'''51'''%
+| ―
+|11%
+| style="background:#a68fc8; color:black;" |'''14%'''
+|-
+| ―
+| style="background:#a68fc8; color:black;" |'''38'''%
+|32%
+|31%
+| style="background:#a68fc8; color:black;" |'''6%'''
+|}
+
+=== Before candidate selection ===
+{| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+! rowspan="2" |Fieldwork<br/>date
+! rowspan="2" |Polling<br/>firm
+! rowspan="2" |Sample
+! colspan="4" |[[Frente de Todos|Everyone's Front]]
+! colspan="3" |[[Juntos por el Cambio]]
+! colspan="1" |[[La Libertad Avanza|Freedom Advances]]
+! rowspan="2" |No<br/>one
+! rowspan="2" |Undecided
+|-
+![[Alberto Fernández|Fernández]]
+![[Cristina Fernández de Kirchner|C. Kirchner]]
+![[Daniel Scioli|Scioli]]
+![[Sergio Massa|Massa]]
+![[Horacio Rodríguez Larreta|Larreta]]
+![[Patricia Bullrich|Bullrich]]
+![[Mauricio Macri|Macri]]
+![[Javier Milei|Milei]]
+|-
+| rowspan="3" {{Opdrts|10|14|Oct|2022|year}}
+| rowspan="3" |Reale Dalla Torre<ref name="Una nueva encuesta ya midió balotajes para 2023: Macri, Larreta y Bullrich vs. Cristina y Massa"/>
+| rowspan="3" |1,250
+| –
+| –
+| –
+|34.4
+| –
+| bgcolor="#FFF96E" |'''40'''
+| –
+| –
+| –
+|25.6
+|-
+| –
+|29.7
+| –
+| –
+| bgcolor="#FFF96E" |'''49'''
+| –
+| –
+| –
+| –
+|21.3
+|-
+| –
+|32
+| –
+| –
+| –
+| –
+| bgcolor="#FFF96E" |'''46.7'''
+| –
+| –
+|21.3
+|-
+| rowspan="3" {{Opdrts|6|12|Jul|2022|year}}
+| rowspan="3" |Real Dalla Torre<ref name="Una nueva encuesta midió balotaje: Mauricio Macri y Larreta vs. Cristina Kirchner y Daniel Scioli"/>
+| rowspan="3" |1,185
+| –
+| –
+|29.6
+| –
+| bgcolor="#FFF96E" |'''46.2'''
+| –
+| –
+| –
+| –
+|24.2
+|-
+| –
+|31.4
+| –
+| –
+| bgcolor="#FFF96E" |'''47'''
+| –
+| –
+| –
+| –
+|21.6
+|-
+| –
+|32.7
+| –
+| –
+| –
+| –
+| bgcolor="#FFF96E" |'''45.5'''
+| –
+| –
+|21.8
+|-
+| rowspan="3" {{Opdrts|5|12|Jul|2022|year}}
+| rowspan="3" |Ricardo Rouvier & Asociados<ref>{{Cite news |date=18 July 2022 |title=Sorpresa: un encuestador K midió para el 2023 y los libertarios de Milei terminaron con un número muy alto |agency=Clarín |url=https://www.clarin.com/politica/sorpresa–encuestador–k–midio–2023–libertarios–milei–terminaron–numero–alto_0_JVO6853oqn.html |access-date=18 July 2022 }}</ref>
+| rowspan="3" |1,200
+| –
+| –
+|36.9
+| –
+| bgcolor="#FFF96E" |'''48.2'''
+| –
+| –
+| –
+|8.4
+|6.5
+|-
+| –
+|37.4
+| –
+| –
+| –
+| –
+| bgcolor="#FFF96E" |'''42.8'''
+| –
+|12.7
+|7.1
+|-
+| –
+| –
+| –
+| –
+| bgcolor="#FFF96E" |'''54.8'''
+| –
+| –
+|29.4
+|9.1
+|6.7
+|-
+| rowspan="4" {{Opdrts|1|4|Feb|2022|year}}
+| rowspan="4" |GOP y Trespuntozero<ref name="Presidenciales 2023: de la mano de Larreta y Bullrich, JxC ganaría el balotaje a Alberto y Cristina">{{Cite news |date=9 February 2022 |title=Presidenciales 2023: de la mano de Larreta y Bullrich, JxC ganaría el balotaje a Alberto y Cristina |agency=Perfil |url=https://www.perfil.com/noticias/politica/presidenciales–2023–larreta–bullrich–jxc–ganaria–balotaje–alberto–cristina.phtml |access-date=23 February 2022 }}</ref>
+| rowspan="4" |1,900
+|31.6
+| –
+| –
+| –
+| bgcolor="#FFF96E" |'''34.2'''
+| –
+| –
+| –
+|24.2
+|10
+|-
+|30.1
+| –
+| –
+| –
+| –
+| bgcolor="#FFF96E" |'''36.9'''
+| –
+| –
+|22
+|11
+|-
+| –
+|31.8
+| –
+| –
+| bgcolor="#FFF96E" |'''37.1'''
+| –
+| –
+| –
+|21.4
+|9.7
+|-
+| –
+|32.5
+| –
+| –
+| –
+| bgcolor="#FFF96E" |'''38.4'''
+| –
+| –
+|21.9
+|7.2
+|}
+
+== References ==
+{{Reflist|2}}
+
+{{Future opinion polling}}
+
+[[Category:Opinion polling in Argentina]]
+[[Category:2023 elections in Argentina]]
+[[Category:Opinion polling for elections|Argentina]]
+[[Category:Presidency of Javier Milei]]

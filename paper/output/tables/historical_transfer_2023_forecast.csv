@@ -1,0 +1,4 @@
+model,milei_mean,milei_q05,milei_q95,p_milei_wins,actual
+Main: pooled eliminated non-left electorates,58.7150052739251,55.3332824043551,62.2316979317327,1,55.65
+Alt 1: Schiaretti as dissident Peronist (Massa+De la Sota+Rodriguez Saa 2015),58.7704099233313,55.3870562323707,62.2609167741672,1,55.65
+Alt 2: all eliminated electorates behave like Massa 2015 (most even split),53.107903881506,51.1955384473029,55.0214115608854,0.99764,55.65

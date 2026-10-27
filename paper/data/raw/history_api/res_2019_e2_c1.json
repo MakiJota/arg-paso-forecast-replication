@@ -1,0 +1,69 @@
+{
+ "fechaTotalizacion": "2023-07-07T12:17:09.167Z",
+ "estadoRecuento": {
+  "mesasEsperadas": 0,
+  "mesasTotalizadas": 97282,
+  "mesasTotalizadasPorcentaje": 0,
+  "cantidadElectores": 32887800,
+  "cantidadVotantes": 26595503,
+  "participacionPorcentaje": 80.87
+ },
+ "valoresTotalizadosPositivos": [
+  {
+   "idAgrupacion": "135",
+   "nombreAgrupacion": "JUNTOS POR EL CAMBIO",
+   "votos": 10470607,
+   "votosPorcentaje": 39.37,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "131",
+   "nombreAgrupacion": "FRENTE NOS",
+   "votos": 443507,
+   "votosPorcentaje": 1.67,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "133",
+   "nombreAgrupacion": "FRENTE DE IZQUIERDA Y DE TRABAJADORES - UNIDAD",
+   "votos": 561214,
+   "votosPorcentaje": 2.11,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "137",
+   "nombreAgrupacion": "CONSENSO FEDERAL",
+   "votos": 1599707,
+   "votosPorcentaje": 6.01,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "136",
+   "nombreAgrupacion": "FRENTE DE TODOS",
+   "votos": 12473709,
+   "votosPorcentaje": 46.9,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  },
+  {
+   "idAgrupacion": "87",
+   "nombreAgrupacion": "UNITE POR LA LIBERTAD Y LA DIGNIDAD",
+   "votos": 382820,
+   "votosPorcentaje": 1.44,
+   "idAgrupacionTelegrama": "",
+   "urlLogo": ""
+  }
+ ],
+ "valoresTotalizadosOtros": {
+  "votosNulos": 232208,
+  "votosNulosPorcentaje": 0.87,
+  "votosEnBlanco": 399751,
+  "votosEnBlancoPorcentaje": 1.5,
+  "votosRecurridosComandoImpugnados": 31980,
+  "votosRecurridosComandoImpugnadosPorcentaje": 0.12
+ }
+}

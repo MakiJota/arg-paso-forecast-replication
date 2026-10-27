@@ -1,0 +1,25 @@
+year,short,label,paso_votes,paso_share_all,general_votes,paso_forecast,general_share,error,runoff_votes,runoff_share
+2011,FPV,FPV (Fernandez de Kirchner),10540703,50.06,11593023,50.81,53.96,3.15,,
+2011,FP,Frente Popular (Duhalde),2565297,12.18,1264609,12.37,5.89,-6.48,,
+2011,UDESO,UDESO (Alfonsin),2561935,12.17,2395056,12.35,11.15,-1.2,,
+2011,FAP,FAP (Binner),2149595,10.21,3624518,10.36,16.87,6.51,,
+2011,CF,Compromiso Federal (Rodriguez Saa),1721629,8.18,1714385,8.3,7.98,-0.32,,
+2011,CC-ARI,Coalicion Civica ARI (Carrio),682723,3.24,396171,3.29,1.84,-1.45,,
+2011,FIT,FIT (Altamira),521831,2.48,497082,2.52,2.31,-0.2,,
+2015,FPV,FPV (Scioli),8424749,38.41,9002242,39.18,36.86,-2.31,12198441,48.6
+2015,Cambiemos,Cambiemos (Macri),6595914,30.07,8382610,30.67,34.33,3.65,12903301,51.4
+2015,UNA,UNA (Massa),4525497,20.63,5211705,21.05,21.34,0.3,,
+2015,Progresistas,Progresistas (Stolbizer),769316,3.51,619051,3.58,2.53,-1.04,,
+2015,FIT,FIT (Del Cano),726054,3.31,798031,3.38,3.27,-0.11,,
+2015,CF,Compromiso Federal (Rodriguez Saa),462304,2.11,407202,2.15,1.67,-0.48,,
+2019,FdT,Frente de Todos (Fernandez),11379015,49.06,12473709,49.69,48.1,-1.59,,
+2019,JxC,Juntos por el Cambio (Macri),7705322,33.22,10470607,33.65,40.38,6.73,,
+2019,CF,Consenso Federal (Lavagna),1972957,8.51,1599707,8.62,6.17,-2.45,,
+2019,FIT-U,FIT-Unidad (Del Cano),681455,2.94,561214,2.98,2.16,-0.81,,
+2019,NOS,Frente NOS (Gomez Centurion),634938,2.74,443507,2.77,1.71,-1.06,,
+2019,Unite,Unite (Espert),525592,2.27,382820,2.3,1.48,-0.82,,
+2023,LLA,La Libertad Avanza (Milei),7352244,31.6,8034990,32.64,29.99,-2.65,14554560,55.65
+2023,JxC,Juntos por el Cambio (Bullrich),6895941,29.64,6379023,30.61,23.81,-6.81,,
+2023,UxP,Union por la Patria (Massa),6719042,28.88,9853492,29.83,36.78,6.95,11598720,44.35
+2023,HNP,Hacemos por Nuestro Pais (Schiaretti),914812,3.93,1802068,4.06,6.73,2.66,,
+2023,FIT-U,FIT-Unidad (Bregman),642773,2.76,722061,2.85,2.7,-0.16,,
