@@ -3,9 +3,9 @@
 Jonathan Cohen
 
 This repository holds the code, input data and generated figures and tables for the article.
-The 2023 forecast and its scoring (including the figures and tables those steps produce) can be
-regenerated from the files here. So can most of the validation analyses. The exceptions are
-listed under [What is not included](#what-is-not-included).
+Every figure, table and number in the article can be regenerated from the files here. The
+market analysis first needs one download script, and one data-building step needs large
+official files; both are explained under [What is not included](#what-is-not-included).
 
 ## Layout
 
@@ -23,7 +23,9 @@ paper/
 │   ├── robustness/
 │   │   ├── 05_stress_test.R             how much the PASO alone determines           (Section 6.5)
 │   │   └── 06_historical_transfer_forecast.R  cross-cycle validation 2015 <-> 2023   (Section 6.6)
-│   ├── markets/07_market_reactions.R    market reactions on election nights          (Section 6.7)
+│   ├── markets/
+│   │   ├── fetch_markets.py             downloads the market series
+│   │   └── 07_market_reactions.R        market reactions on election nights          (Section 6.7)
 │   └── benchmark/08_poll_benchmark.py   final-poll benchmark                         (Sections 5.5, 6.2)
 ├── data/            inputs (CSV) and small raw API downloads; see paper/data/README.md
 └── output/
@@ -70,6 +72,8 @@ Rscript paper/code/validation/04_ei_2015.R                    # EI 2015
 Rscript paper/code/robustness/05_stress_test.R
 Rscript paper/code/robustness/06_historical_transfer_forecast.R   # needs the outputs of 02 and 04
 python  paper/code/benchmark/08_poll_benchmark.py
+python  paper/code/markets/fetch_markets.py                   # downloads the market series (not included)
+Rscript paper/code/markets/07_market_reactions.R
 ```
 
 Each script overwrites its files in `paper/output/`. Random seeds are fixed in each script, so the
@@ -99,7 +103,9 @@ python paper/code/validation/04_fetch_2015.py
   `01_build_department_data.R`. Its output, `paper/data/departments_2023.csv`, is included, so every
   later step runs without them. They are available from the Dirección Nacional Electoral (DINE).
 - **Raw market series** (Ámbito, Yahoo Finance, Bluelytics), read by `07_market_reactions.R`. They are
-  third-party data and are not redistributed here. The derived results are included:
+  third-party data and are not redistributed here; `paper/code/markets/fetch_markets.py` downloads them
+  from the original sources. A download on 27 Oct 2026 reproduced the published market results exactly.
+  The sources may revise their series later. The derived results are included:
   `paper/output/tables/market_reactions.csv`, `market_placebo_summary.csv` and Fig. 8.
 
 ## Data sources and licences

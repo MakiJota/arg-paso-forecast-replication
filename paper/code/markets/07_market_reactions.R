@@ -10,7 +10,7 @@
 #   Also a 5-trading-day window (z scaled by sqrt(5)).
 #
 # Series (downloaded to paper/data/raw/markets/ by fetch_markets.py):
-#   blue      parallel ("blue") peso rate, sell     - api.bluelytics.com.ar
+#   blue      parallel ("blue") peso rate, sell     - mercados.ambito.com
 #   official  official retail rate, sell (context)  - api.bluelytics.com.ar
 #   merval_usd Merval index / blue rate             - Yahoo Finance (^MERV)
 #   embi      JP Morgan EMBI spread, Argentina      - mercados.ambito.com
